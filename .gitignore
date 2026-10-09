@@ -1,0 +1,14 @@
+# Arquivos temporários
+.DS_Store
+*.tmp
+*.log
+__pycache__/
+
+# Credenciais / segredos
+.env
+*.key
+*.pem
+secrets/
+
+# Rascunhos sensíveis não aprovados
+rascunhos_privados/

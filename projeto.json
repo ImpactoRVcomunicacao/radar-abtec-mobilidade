@@ -1,0 +1,49 @@
+{
+  "produto": "Radar ABtec Mobilidade — Smart Cities e Tecnologias Aplicadas à Mobilidade",
+  "status": "rascunho_interno",
+  "criado_em": "2026-10-09T20:06:33.554775Z",
+  "periodicidade": "semanal",
+  "objetivo_principal": "Gerar inteligência setorial para apoiar a própria ABtec Mobilidade com monitoramento, tendências, oportunidades, riscos, temas emergentes e organização de pastas/entregáveis estratégicos.",
+  "publico_primario": "ABtec Mobilidade — Associação Brasileira de Tecnologia para a Mobilidade",
+  "usos_previstos": [
+    "mapear o que estão falando sobre smart cities e tecnologias aplicadas à mobilidade no Brasil",
+    "acompanhar menções e sinais sobre a ABtec Mobilidade",
+    "acompanhar associadas e empresas do ecossistema",
+    "identificar tendências para pautas, posicionamento institucional, relacionamento e inteligência de mercado",
+    "organizar pastas temáticas para uso interno da ABtec",
+    "apoiar relatórios executivos, apresentações, posts, notas e argumentos institucionais"
+  ],
+  "escopo": [
+    "smart cities",
+    "tecnologias aplicadas à mobilidade no Brasil",
+    "bilhetagem digital",
+    "pagamentos e meios de acesso",
+    "ITS",
+    "MaaS",
+    "dados/IA",
+    "AVL/monitoramento",
+    "apps ao usuário",
+    "gestão de frota",
+    "segurança operacional",
+    "fiscalização e regulação tecnológica",
+    "integração tarifária e operacional",
+    "cidades inteligentes e transformação digital no transporte público"
+  ],
+  "entidade_monitorada": "ABtec Mobilidade — Associação Brasileira de Tecnologia para a Mobilidade",
+  "associadas_iniciais": [
+    "Prodata",
+    "Transdata",
+    "Onboard",
+    "Empresa 1",
+    "Cittati",
+    "SONDA",
+    "Planeta Informática",
+    "Bus2/Aequante"
+  ],
+  "armazenamento_recomendado": {
+    "curto_prazo": "local e/ou GitHub privado",
+    "publicacao": "não publicar conteúdo sensível em GitHub Pages aberto",
+    "futuro": "WordPress/área privada por senha ou login, se virar produto recorrente para cliente"
+  },
+  "observacao": "Este radar não é apenas clipping. A entrega esperada é inteligência: leitura de sinais, tendências, riscos, oportunidades e organização por pastas temáticas úteis para a própria ABtec."
+}
