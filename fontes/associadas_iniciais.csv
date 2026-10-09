@@ -1,10 +1,10 @@
-categoria,nome,aliases,site,linkedin,instagram,google_news_query,observacoes
-Entidade,ABtec Mobilidade,"ABTEC Mobilidade; Associação Brasileira de Tecnologia para a Mobilidade; ABtec",,,,"\"ABtec Mobilidade\" OR \"ABTEC Mobilidade\" OR \"Associação Brasileira de Tecnologia para a Mobilidade\"",Validar site e canais oficiais
-Associada,Prodata,"Prodata Mobility; Prodata Mobilidade; Prodata",,,,"Prodata mobilidade bilhetagem transporte público",Validar nome público e canais
-Associada,Transdata,"Transdata Smart; Transdata",,,,"Transdata mobilidade bilhetagem transporte público",Validar nome público e canais
-Associada,Onboard,"Onboard Mobility; OnBoard; Onboard",,,,"Onboard mobilidade transporte público bilhetagem",Validar nome público e canais
-Associada,Empresa 1,"Empresa1; Empresa 1 sistemas; Empresa 1 mobilidade",,,,"\"Empresa 1\" mobilidade transporte público bilhetagem",Nome exige cuidado por ser genérico
-Associada,Cittati,"CittaMobi; Cittati; Cittati Tecnologia",,,,"Cittati CittaMobi mobilidade transporte público",Validar relação atual com ABtec
-Associada,SONDA,"Sonda; SONDA Brasil; Sonda Mobility",,,,"SONDA mobilidade transporte público bilhetagem smart cities",Separar Brasil/LATAM quando necessário
-Associada,Planeta Informática,"Planeta Informática mobilidade; Planeta",,,,"\"Planeta Informática\" mobilidade transporte público",Nome exige cuidado por ser genérico
-Associada,Bus2 / Aequante,"Bus2; Aequante; Aequante Bus2",,,,"Bus2 Aequante mobilidade transporte público",Usar memória PANORAMA: Aequante = Aequante (Bus2)
+categoria,nome_oficial,aliases,site_oficial,fonte_validacao,linkedin,instagram,google_news_query,observacoes
+Entidade,ABtec Mobilidade,"ABTEC Mobilidade; Associação Brasileira de Tecnologia para a Mobilidade; ABtec",https://abtecbr.org/,https://abtecbr.org/,,,,"\"ABtec Mobilidade\" OR \"ABTEC Mobilidade\" OR \"Associação Brasileira de Tecnologia para a Mobilidade\"",Site oficial validado
+Associada,Bus2,"Bus2; Aequante; Aequante Bus2",https://bus2.me/,https://abtecbr.org/associadas,,,,"Bus2 Aequante mobilidade transporte público bilhetagem",Associada oficial ABtec; em PANORAMA tratar também como Aequante/Bus2 quando aparecer
+Associada,Cittati,"CittaMobi; Cittati; Cittati Tecnologia",https://www.cittati.com.br/,https://abtecbr.org/associadas,,,,"Cittati CittaMobi mobilidade transporte público gestão frota",Associada oficial ABtec
+Associada,Empresa 1,"Empresa1; Empresa 1 sistemas; Empresa 1 Tecnologia",https://www.empresa1.com.br/,https://abtecbr.org/associadas,,,,"\"Empresa 1\" tecnologia mobilidade transporte público bilhetagem",Associada oficial ABtec; nome exige cuidado por ser genérico
+Associada,ONBOARD,"Onboard Mobility; OnBoard; ONBOARD Mobility",https://onboardmobility.com/,https://abtecbr.org/associadas,,,,"Onboard Mobility mobilidade transporte público bilhetagem",Associada oficial ABtec
+Associada,Planeta Informática,"Planeta Informática; Planeta",https://www.planeta.inf.br/br/,https://abtecbr.org/associadas,,,,"\"Planeta Informática\" mobilidade transporte público bilhetagem",Associada oficial ABtec; nome exige cuidado por ser genérico
+Associada,Prodata Mobility Brasil,"Prodata; Prodata Mobility; Prodata Mobilidade",https://www.prodatamobility.com.br/,https://abtecbr.org/associadas,,,,"Prodata Mobility Brasil mobilidade bilhetagem transporte público",Associada oficial ABtec
+Associada,SONDA,"Sonda; SONDA Brasil; Sonda Mobility",https://www.sonda.com/pt/inicio,https://abtecbr.org/associadas,,,,"SONDA mobilidade transporte público bilhetagem smart cities",Associada oficial ABtec; separar Brasil/LATAM quando necessário
+Associada,Transdata,"Transdata; ITS Transdata; Transdata Smart",https://www.itstransdata.com/,https://abtecbr.org/associadas,,,,"Transdata mobilidade bilhetagem transporte público ITS",Associada oficial ABtec
