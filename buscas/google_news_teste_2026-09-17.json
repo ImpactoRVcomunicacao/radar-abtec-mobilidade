@@ -1,0 +1,925 @@
+{
+  "date": "2026-09-17",
+  "items": [
+    {
+      "bucket": "ABtec Mobilidade",
+      "title": "ABtec Mobilidade nasce para dar voz às desenvolvedoras de tecnologias e acelerar o amadurecimento do mercado - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmFsX041emJEUFpKa3hMbzk3TWxBT05SdXFTVDNMQzVsNjhNRzJ5dUlfemF5dHRZUVg4SVdDMEgzOVA5SUxjRnZOYWtwY01EUXZWODJxWVEtOFRmWHBwc3dFdWxfemNBMGRHV3BjemVPVkRCMWNvdktmSnRhV2tUb2tMelhBWm5MLWlIZ3FKMENzUWdkUmZQOU1EaEo5NDVPRVA3MEJrenUtV201Q1U3bVBRclBsbjJRMWpLUmlSR2xQd09iVjBwMm1jczdSZHZnbkotZGlKNUxEVTVCd1VoQ3d6UHpCZjdRMlRLcGZ3?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "query": "\"ABtec Mobilidade\""
+    },
+    {
+      "bucket": "ABtec Mobilidade",
+      "title": "ABTEC chega para fortalecer a tecnologia brasileira aplicada à mobilidade - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNck5JVGcwd01SR2dTT2tyNEtGZnhoTGZlZWZHTzY0TFdMWVp3QWlTSnk3ZFIzSDZOWW9RRzJrM0VqMlZKRGtnTXd3WUJBSW96Z1VsdXh5alU5dmJtODA3dmxnd0lJV0E5c1hWNmJhMTRMdmZ3Qm1hZGFlU2V1aHNWdTNZOVR0NDhBd3UxOHJONWNNMndiVElSS3VpcGxPanlFN1BuS0RQRkpkdUdMX0VxZUNiaHJEcnNaZTRR0gHAAUFVX3lxTE9TVVAtUTQ0TjJrRm9xU3VZRWtGT2dzMHlIUXhweWExTVByNm5nWUo5cFRDN2lTems4eEhJQWc5QVJYb0QyNzFzZjk3eFBKc0VwV1FPc2tGRndFTVlpNnhaQVJEa0Z5WUJrbjJCbkMzVUZaQ2tiS1FUMHgzbUZhS1JKa21DNnhiU1hVYllLYjA2Q1MxN3ItcGNrV1hHV3dhZlVrTzBmNnVmOVMxb2VKaE14ekp2b0lGaTVwcXRqQkEybQ?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "query": "\"ABtec Mobilidade\""
+    },
+    {
+      "bucket": "ABtec Mobilidade",
+      "title": "ABTEC defende tecnologia e governança de dados como pilares para ampliar a transparência do transporte público - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNi1NWVFwUm44U0pfVVhLZDZKc3dLeGRqWW9lZFdyWVpRc0dCNDJmRllGelVoSHFlRG5JYkJ6S0hkdzBaQWFjcVBhd19YMU82RngyUzFabnhGR2J1OGVZQUdpOFBjWW9JWEl1RkdxNkNIdUMxZWFuWU0yOW4tS1hka1d2V1o3bUxhTWJiN3Y4XzFIVDFDV3BrNnE0NVA0MmFXdU5FNk1PNEVqa1NZakR0dmFzV3EyWGtnd2xDQ3UtZ0dIMmxxM25MeDdjWWV4cWVKdDZHd2RhVjR5TjhEVUNn?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "query": "\"Associação Brasileira de Tecnologia para a Mobilidade\""
+    },
+    {
+      "bucket": "ABtec Mobilidade",
+      "title": "Após Estudo Nacional de Mobilidade Urbana apontar falhas na transparência, ABTEC defende uso de tecnologia para qualificar transporte público - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcWpKRE9ic0tBejBidlRJUXdNdFVabmdmUG1USkR0bVJnbGtSc0pBcDNpV3JkaVdFOS01R0FvX2RxM3FxTmkwOFRIS050M2tDVUpObWp2b2lVVzVzM0dZQlJxU0U3NXZ6NzFGdmtDUFdtTXEtVjRWYmpOWWdOajA3T092ZUFYdURWSktWYjJSSS1SVXRXd1Q1aEszOElYQ1pxdWhJUTNIXzl2OXM4bjNPaW5RMFhvQm10Um81eS1lM2NZdVFwb3NZOV83VGV2VVlNRmxvVldGOUUzeXJGeTEwa0JRY3VKS3JKVE9tT1BnWDB6WGRfb1g4bHpWaUI0Q3RzNkJBLXlJU2tQV3NpQkRMQ2h0dS3SAZoCQVVfeXFMTlBGR29oc3Z3QTZGZFVSREtfRVhDRHdRb0hZU0xxMEZoOUtueUM5NXJWNWw0bDhpeGVfWjNZdXBmQTh3RU0wVjNYd25FTHJ2ZWxVUFh6QWJmQng2ODdwZDd5WFhiTEZKWTA3Z3o5TThQTFBURXRSbENQWGQtdWllY1BxTXItcTRpZGpaVVJ4QjlkSjNPQU81ckIwbkhwYXYzeHY2V0VpSWJuNWVxV2ZDVXhnV1ZlOW5XVmZsRm0xSE9QbWRjTmRFQTQ3cEMzNi1zRlFPZHFhRU01bmpwbmNzYTNyd2t4RlVKcWpxRzBxYlpMRTdVZ3BmMEFlbU5rNnoxS3RnU29oQlVnamFTZjF0WWg5RHVPck9zS2dR?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "query": "\"Associação Brasileira de Tecnologia para a Mobilidade\""
+    },
+    {
+      "bucket": "ABtec Mobilidade",
+      "title": "ENMU: Esperanças e preocupações sobre o transporte público no Brasil - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGc3cDA1TEZTNHF2cm5mOXQ3cFVlVE9CZDNUMTJBaGxfSXpzdFhBbnNhYjI5ZHQxTzQtc2dpZDFWdlAweXNDQ3dBMFVXVmRXV0g0Ym83SVJHTTljOFB5Zjd3UWZ5b2FNOC1BZmcyb291eFYwdnRRRjM3OXZMc3dZNENqQS1WN2RZdmlFMl9DSXJ1aDE1OGl2anFFQThWeDM3RWxhNzV0WXhoYlFxM3NiMWRTONIBuAFBVV95cUxNMmNsazJ5T3JuQ29fLVVVMlRSZWgydWFuUlFqRDU1N1NIcWlFMTBqaV9rR1hUSEhTS1E2S1Rjb21sVTRrYmtHZDZnNUxCbVdrY0V3UDg0YlJLZ0lub0NqdlNSZWNhQjBETHVhQlNiSGh3WGFkNUNJc2k3NjFZbU9WTUNLWE1Qa3doYzVvTWFrbjhsQk52cFhTb3BBSm05aFdEbllvOVNIUGVMYlI3ZDdZWlF2emttdEQx?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Sun, 05 Jul 2026 07:00:00 GMT",
+      "query": "\"Associação Brasileira de Tecnologia para a Mobilidade\""
+    },
+    {
+      "bucket": "Prodata",
+      "title": "Prodata Mais Mobi leva tecnologia brasileira ao maior evento de transporte público dos EUA - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbTNWVVYtTEdtLU16ZUlOLTZFWmlyY3ZRR1FlaTlkR0hpcGlrU0diMWVhOHNEYlFiS01ydGdDT1M0Qk9obTdqWmVmQmJ0ZU42NW1KcHVnZTNBaHVIQW1LSmZ4X3F3N2pLZl9GWEJwZ0pib19oV1QwTUVlYUEzTXlrQ1JTWEtOa2NDSFA4bUhvNUoyTlkyVkZlSC1CdWVTWEo0N1czMzY5Q3JNRllKUi1qWDQ1OVU5YWF5Q3cxSHBRTVVUdTdiUlNwdXRGOWRMOTBBbUJUc09KWdIB1wFBVV95cUxPbTNWVVYtTEdtLU16ZUlOLTZFWmlyY3ZRR1FlaTlkR0hpcGlrU0diMWVhOHNEYlFiS01ydGdDT1M0Qk9obTdqWmVmQmJ0ZU42NW1KcHVnZTNBaHVIQW1LSmZ4X3F3N2pLZl9GWEJwZ0pib19oV1QwTUVlYUEzTXlrQ1JTWEtOa2NDSFA4bUhvNUoyTlkyVkZlSC1CdWVTWEo0N1czMzY5Q3JNRllKUi1qWDQ1OVU5YWF5Q3cxSHBRTVVUdTdiUlNwdXRGOWRMOTBBbUJUc09KWQ?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 09 Oct 2026 13:15:55 GMT",
+      "query": "Prodata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Prodata",
+      "title": "João Ronco Júnior, diretor-presidente da Prodata Mobility Brasil: inovação, novos meios de pagamento e parcerias estratégicas marcam as perspectivas da empresa para 2026 - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQdHRxa2Vta19Wbm9KNk5TMDk3RVlmUnNUWVRBQ1N6czZiWHpueU11N055T2wydE1iVVRzSmhfVnVXeEhWNnFyaHM4aUc5OENNMVBJLUFDSHNpaTBDa0d4RE1sUE9KVzI1S0NKV0lERzhTSGUwRGZWUEFQLS05Z0FrajVKV3R4MzdUNG9GanNLOWxYdXZFY2FzeTZpM3VlU1o3cEtuc1JVc1FncGx1eUJXaFU2Ukw1VlBWbnJONHJWUDE3M0hQUThVWVVpYm4yc0xYYndmd1RkaVgwRjZZcGJtRVJSYjByMmNLWUh3Ui16RHRndmsya3JHTTMwYkRSQUU1NngtaWpkaXowZFBNUHdnUEV2UGxBNkdOOFdvZF8zSDRIUUhzd2JtbGtR?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "query": "Prodata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Prodata",
+      "title": "Prodata leva clima da Copa do Mundo para os ônibus de São Paulo - - Diario dos Trilhos -",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3lUSmEtS3ZpcVdWdEVWMEdDVWVIaU4xYk5MV1I5WUJjT3ZfTkJMeWpCdzZCYThHM3ljMlJnWmtONlZOWTcxMlBJNHVKc0l0RDFNRFlqaF9ibzRXYk1Qbll0bEkydTNWcEhDRjlwdm1lX0V6TC1EcU5KZDFRdDFVRklmV3BrNzRjUDE3ZHBmbXF6WGtrTVZfZHlpcXJYb0lXanBlQXNqbw?oc=5",
+      "source": "Diario dos Trilhos -",
+      "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+      "query": "Prodata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Prodata",
+      "title": "Prodata Mobility apresenta soluções de bilhetagem e pagamentos para transporte público no MobCo Paris 2026 - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYUppQ2F5UDdyVmhnRXY5QmxhV1poVTd2a210c1lwanI1d3llQnhwaS14SG5ab0d0cVR6Ymc4VEtkY01CbW56QzRfcnNOUEhNTU1fUmlaY0JwQTU0XzBVTGJNRjNzSDlwTnMzd3VuTXJLMGk4OWJoeU9XVXVuTmFic0FQcnJtRHVKQTV1M3JBUFNpVTdDWjNQdnJvSDJITkpONS1xZzhIWV9jaDN6RHZ0eVcxd2F2am9CbVdya0Y2b3RoVUtySGZuN0ZuTWJ2NDBpS1hOTjFQak81dG9ieFBDUE03dnAwM0nSAewBQVVfeXFMT09SdDB4NDFqeGtxZTJJa0FGNGdWamZYaks1WmtyMFp3dWR2dG5MYkZoMVkxN1RTamRyWjB6T2tSUHE3dXdnVExHM2huYlBHdVNHLU1WSjdjSUQyVWVpNTduVVdhZXhrRDhtWmlzVVpURDFfWjByNWlYZ0FjZWhPbnlFOXE2Rkg5WF95Q3RocGpGWjBlb1FrTFhqU3I1NnRwLXJyeVV1MHlDVEgzSk5kb1A5akV1TWY1Y0IzWkdING9vYS1Tc0ZVMU1iamlsVk5PbDYxRFo3WUIwNkZDTmJuTjZ4azNjVFd0UGlqa2k?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "query": "Prodata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Prodata",
+      "title": "Prodata anuncia aquisição da Mais.Mobi - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HUFZ1YTJ3aEt0dUFUeXlBR25ZR3diN1l2QjJ4eEdOcDN0dkxxTmFrMW1fS1FSWldxSmZnS0tveUxNZFo3TTNzRHJfUS1ORnI0RVJvVmE0M3NBOFg5T0FOVjVyUmhfV1k2YlFTRmhkWEx5a2xhUHFBa3hqMGJ3NWs?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "query": "Prodata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Prodata",
+      "title": "Prodata Mobility Brasil participa de audiência pública sobre modernização da bilhetagem do transporte coletivo de Porto Alegre - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNa1lXdUtHY0dERjdJN1RVbmZ1dEpNR2JKbEJyME9KWEl0T3FXZVFnaFNSQmUtN29NblZ2Vy1xbnlKYUhla0N4VGUtY1NMdzlHQmhhcnJHNm9aZmktMXJjME9wclZRQ0JIYVJBNWR1ZFpVVkNNcFlZZVhnSXg4dVI2bno2MmlTZzVRYWs2TFRHRTNrLWZURjBOS0pTYlpEdDBfVFBBaGJJdkkwZzJsc0c3MEt3UU5SQXh2X3F1RkpXZjJDZXBnY1M2Nl91SWFFVnJaOGpmOHIzTHhfSGVDZ3lCdDFpSkY4MmdmWWJmNkg4aWptOWNpaTgxbW5MekRtLVQzVVHSAYcCQVVfeXFMTVdDQjlKVnFrMGFSZkk1SlJPQ0Q3NFJRcDk5R0ZlMVFFaVpWY0RieE9tLWZQXzc2V1Z3T3ltd3JVbzduTWduMkw1cUxuLVV6MEhZMDRBSnh5SDFYYXUyTnJJTVlXRnFUT2k3Y1FtZDJmSlRzM0x4Y0ZRNmtKeUhOdEVhR3Bxd1VqTUhCOUhZVzdoUUU3aWIteVVMcW5UMTIyMWtQaWR0Tm1SYXp1aDV5WGo3TVFrQWdxb1VvY0xaYUJDOEdjem1XSm9zZVV6bUZTZzdvZDhCc2JPWGgxZmJIMW12ZTdlbllPaWhLTHpHOS1VYk1BLXhLUmFMbzl5TlZXZVFUcHMzaVU?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "query": "Prodata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Prodata",
+      "title": "O impacto real do Autoatendimento no dia a dia de milhões de passageiros do transporte público urbano e metropolitano - Imply",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaWpWN2xLZ3ZtcnRqakVOd0ZRY3dzTmlPOWd2QUxZOUphdFl3MGFIcXBxVUQ5VG50dm1US2thTFE4Wm8xOVRRNWVBYWIwcE5EWThsZ3JQeXg3OGN5Umx2UXNlQzBXR2NLc3pmZGdsZ2pWOHBqMFdCLUVUM0JCd0hTUEVONDBQY1YyLVpLN0Q3b1hvNHJrUnVFTmstSE5ZQW9ncXNabkNJRkU4dmZBUkE5aUVMdnRRX2hWT0ZsSEhDZXlTNkNVVWl5Z1VyRm9lM0d0RlUzczNR?oc=5",
+      "source": "Imply",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "query": "Prodata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Prodata",
+      "title": "Prodata Mobility consolida aquisição da Mais Mobi e amplia atuação no transporte público - Frota&Cia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0RDM2lUTXBmWDlmZzU3eFR3V1ZPck1lZzh0V1JNQktIdUo5MTZrc3NqNm56OTBJdERHZGlpbWVqcTlMdS1icWdHdGJBdGRGX2d4Z1R2eE5uNU1zWDdUQlR6VHhKcVFmSFVpMmVXSm1ZanBhSk9zLTdoZVo3MWs4WWJwaWxKS3dtYWpjU241eGVBY2pYemg4MFRmTm9oR191dTVlckxFMEpfaUJRbXFtRDJrcw?oc=5",
+      "source": "Frota&Cia",
+      "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "query": "Prodata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Prodata",
+      "title": "Tecnologia da Prodata impulsiona novo sistema nacional de bilhetagem na Dinamarca - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdG9GdXRoU2pWMnBsVERubUdvMUdwaHRWdmMwbDRLc2JCdEpaUFRZeG96aFdBSk9HU04zNUpEM0V1Q3piNkxXajM0OTNuS2EyZ1NKSnQxVHRwN0xIdGs1VHBqZWdGdkxVNVBhczEzZWdZSVNkRWF6aUJFckVsOG1NXzlGLUdQYUdXbzVfSWpKb1BWR2FwVzlfaElVeFFOY1F0X1NsYzlNWVpJQXVUS3U3RC1QdFM2QkRMOGtJVlBwX0xOREhwakHSAcsBQVVfeXFMTU1mdkZ4aXR0aDFYRHJhTU9PQXMtWWtpaHN1RElmRGFHb1pNblZiTWRnLXJtb3A4RDFaRVM1QkRlTkZZdzBsWER0bkFmM2ptcUNMMG9wX3phTDhyYmJYekVQandsQUhJdlR5bFpZZjN1V0RyYTY4NWZrdVZpOUdsSEJ4UWFMcmVQSFh1elJMeXJ4VnBVblZhcXp3RnRlUzcyYmFWZzJfcjVOVkNwWEM2RGNDQWw0UU5ZcEN1cUlUU3hyZWRva2pwb1dPbmc?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "query": "\"Prodata\" \"bilhetagem\" \"transporte público\""
+    },
+    {
+      "bucket": "Prodata",
+      "title": "João Ronco Júnior, presidente da Prodata Mobility Brasil: “A bilhetagem eletrônica no Brasil tem evoluído com foco em inovação e eficiência” - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOb0xRRGUzMlV5T3IzREZkcWwwRlhZRHY4TWQzMTJhb1RudTlaNk9KNUVrQ1dDXzR3R0dYQ3l1R0o2WlNLZjlhTkZha0cyRmdHUHAwQVN6aFhZZ2J6UGNNTnpnMFVCNktLeW1rSUs2c1lqbmFfUXlDb1dZbURfbHpySldHVC14b1ROejN2UjBnMlo4Mk9WQl85anNYUk5UdFE5SW1wN2gtTVIteU50YjhnNGloVGJEcFQ5ZEF3WFlhQ0ZEcE1GRThoVVdZNXZ4T29pdUxieERfNFNQcnNPMGg2Sm8zOVd1cTVPNkpoQzdjQTU1a0pBT3lqMk9UQVFrLXJRRFE?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Fri, 16 May 2025 07:00:00 GMT",
+      "query": "\"Prodata\" \"bilhetagem\" \"transporte público\""
+    },
+    {
+      "bucket": "Prodata",
+      "title": "Impasse em sistema de bilhetagem gera confusão em ônibus de Manaus - amazonas atual",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcVY5SjRrXzN4LUlsVE5nQ2hOQ1FDVlBvcFhqMlBlQjE1bVJpcE5Wc1ZWbWRlcVRFVkJJc2xIRnNtcVgxdGZFQnBFb2E1RUdIc3NOVmFfNk5wWGU4ZVlqVkxJeGVsal9BZlZxSlRudUVUVUlxN2ZRVGZSSk8xbzVPTm10cGQtRkRLQzNDdTU2NEFVMEk5R09aUTdUUzQ?oc=5",
+      "source": "amazonas atual",
+      "pubDate": "Fri, 17 Jun 2022 07:00:00 GMT",
+      "query": "\"Prodata\" \"bilhetagem\" \"transporte público\""
+    },
+    {
+      "bucket": "Prodata",
+      "title": "Prodata Mobility Brasil completa 30 anos de inovação e tecnologia - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUllbld5b3FfNFBWdS1nNTVlOWNRRkN2R0E4ZnNhSlZGXzRYTWtycnJLTWNUTWY3Y1p1Yl8zTlhpOHQzTUM4N0dxb25zVE9sSGdBM1lZRWF2bEpEVk5ZbHl3Y3hsYXZvMndPWWtxdkpIVVp4amtybENNTi1rQjRmdG9RVTJvN18zMVlwbFY5TmpKUHBVREFDbmM0UkVCSlQ4NUFJ?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Mon, 17 May 2021 07:00:00 GMT",
+      "query": "\"Prodata\" \"bilhetagem\" \"transporte público\""
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Compra de créditos pelo WhatsApp para o transporte público coletivo começa a partir de amanhã, 14/02 - Portal do Município de Piracicaba",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFZTNURhTEVQeUFrNUY3cmFoMEFOZG9aR0NDamowV2ZjUzBqdkxGdEE4UXlkLXpmWUhXOUNjcE5TZzkyLWJvMkxfcTVEam1ZMEs1M0p4Z1hmTEp6dm9mSUZVMks3VzdQUGN6NHFubDBRNm5MTFE1ajFDSkw0VFZvUFJNM0ozM2JrMEpZaWE2ODlqc1k3dHphanpEclRfQURiSnZmSm1zZGtzYkFLWjlDWkI4SC1SM2JHSzA5dmNoTDZPR2hWR1R4NXJ4akRFRll3SW9PUQ?oc=5",
+      "source": "Portal do Município de Piracicaba",
+      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT",
+      "query": "Transdata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Tecnologia e integração de sistemas redefinem o futuro do transporte público, aponta Romano Garcia, da Transdata - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOUh2OWs4a3NuVVJlNWNwRThlamNHMm1mbmZBOUVsYkxUdGVxS01Sc1I1ckxJS0JaZklvWTlqWTRaSzlKUEJMbHZKN2dUTHA0QTRTMGctLXh0MEEzamU4XzdIc1kyeGZOaGVTS0RnRnZZSnN3NGZoNHdKWUQ2RURjOWJld3BTVXpjTllXZEZreFBUZ2dLMnFEbmJCWVZhS3ZlTXhaMjR0UkhRcDh6UURIRGVmZXlZeVNRMFIzdXdxWm54Y3dkQVVwRGQwQXlnTWtUNTE0YVRWazRkYjN1TmQw?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "query": "Transdata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Dia 1 da LAT.BUS 2026 em São Paulo foca no transporte coletivo - Canal VE",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DODYxbnpvcWZNUXFMRXZzdGt6Q1FTenRzVENsb1h5WG12WUFPRnp0ZDNlWGo2ZzdUYUpWSG9YVi05Y1dGQXNPbmxmN01IUExudm5uRllkMDl4QTJpaDV2WlBMNXBFeGxS?oc=5",
+      "source": "Canal VE",
+      "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "query": "Transdata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Transdata lança Pix por Aproximação e aposta em embarque mais ágil no transporte coletivo - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejB3RmZSZDEwTVRKRXEwMFdDRzBzNVhueHdqbWVDMnI0X29OV0JLc3RDS1VKZlNqcWFMSlRFQ2oxMmhGbnJ1U3M4ODRYYkptdTNyMFVRQWp1QU0xTFdpdWtJT3ZpRmE2bzAtQzZoRWFPODh5Q0xFaTV6TktzUl9rWlhJVXpBQ1lKN1RWaHFHMGU2RmZ1VWItaU0ySy12anNUbXFsYnhNeGNMYmctd0dIUVpUQThub0hmWVZMaHBEeVMtbzdGU2MxRUZQN25tR2JO0gHWAUFVX3lxTFBjOVh0cmpXY2lueTZIU3BFbDhCZXkxU3QwY2JxTkM3eDJndFRCZWR0dFhHS0VDUVlUazVmRllBZWRDUmxsUU5acnRXcGZVZTJzMTFVUFlIbEp2Tm41WGc3TS1md0MwZlNYUnpibmV3RW42YW9JM1QwQ0dKbGlzeFNreFRQV1NoZThsMTlvaE9UdURhcXFJVUg5OHdlZkFIWW9TLUhfYTlKZjMzZkhpMExIbTFnSFhmTm81emRqOTlvVTdJdktSZ1o3MXJwaW9GZkI4WXFuZlE?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 22 May 2026 07:00:00 GMT",
+      "query": "Transdata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Grande Curitiba paga o ônibus com Carteira Google - Baguete.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEhjX0VrNlpRdlo5dGNBQU4wSkdkU2hoSzdsTU9PVXdxdnh1eE9vRE5WMnkyVkFBdWtydDFKQS05TmROS0hYbmpqRGlnRXRqU1FUMGYxQ3NsMEpTbU5JaWJkZXNkcElSSWs2X0RSaHRzbzZUNF9ncTNORkhEWWxVWFowd0xsNEJRRUhQZFdn?oc=5",
+      "source": "Baguete.com.br",
+      "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "query": "Transdata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Devanir Magrini, diretor de Negócios: \"A Transdata prepara lançamentos importantes para a ampliação do seu portfólio na Lat.Bus 2026\" - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPR1RObWkyWnl2b0VGT29xa1lnTHdoaUJVUEpHNkZmU1hxejlNM1ZKLVNqVG5jZmpLS1FabUprck5jN3czbURFb1hSaDQyUDhKNWRGYklfUHFiZlI2REdtcTlvOFJOekh6SFpoVk5SYVIzdHg1S2pSSjRORjFNWkpwNks0SGNEVmVkdGFmZndmMmZLdUFpNUV0c0VmOUtYWVYzUmx2X3JMY3ZvVkc3SHRpdi1jaldqdkxuazktWUhhWnN5Rkh5cHpQbS1JNGVNeHNLdl9kLXF1eE5FbjhxbFktcUlqTkVsTGxnc3ZjYVJ6b1o0RFFVd25OOQ?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+      "query": "Transdata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Bilhetagem eletrônica otimiza integrações, agilidade, transparência e segurança do transporte público - Gazeta do Povo",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVzgzWkhleWtFQVRfZ2NQcHFQcXUtRTRXQ2E0THNEQ0J6RnhKVVNaQWxXa3hUZ3pHLUpDeW5kTVAwZVZ5aDVMekhKU1hVSFBtYU9HZFN3NEE3Z3NybnhkSGJBVkhOVW43cS01dmg2eGNJWjBiU0M3V0JHdFVaRkRsc3dsSExUQmV5ZE9jdHgzNXRkYkd3UEtSVDBpTkQ0VWlQZDh6eVdlbzktM2Zxa2MtWDAzQ01tbkdKQ1pBalI1Q081V21OSUdOTVpWUURKZkxyandMTkFnR2VyTWJLOENfLQ?oc=5",
+      "source": "Gazeta do Povo",
+      "pubDate": "Tue, 11 Oct 2022 07:00:00 GMT",
+      "query": "Transdata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Transporte público fica gratuito em Caraguatatuba até às 12h - Prefeitura de Caraguatatuba",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUF9JYkJFaTFVX2lfYUlrVVVpaGdpc2ZFdWZOV2huendUa0lCN1k5dVNDTHptQzBESWx2TTFWSjFvVlFRWjdvSU01THVlYmdWdFZvS0d0a2Qza3hXTEFrSlQtTmlTaGRYZ2lJbWkxTC1vNWRWOTcxMTF4UGk3X3c3Y21UVjRaR0Y1WG51cW5aMWc3TmhwSU5FV3BDd0ZDZWYxOXAyQlVLVHhqSDByRnc?oc=5",
+      "source": "Prefeitura de Caraguatatuba",
+      "pubDate": "Mon, 12 Apr 2021 07:00:00 GMT",
+      "query": "Transdata mobilidade bilhetagem transporte público"
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Transdata fornece sistema de bilhetagem para as catraias do porto de Santos - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPazE4NUtXV1dWOFpSSy1MVC1VY18zNmNSSEo3M0dWN0E2eTJrbm04TWNiTmxjY3BibEZRSE0wUEFMTUtnUVBnbnlIWlJVMHBSNC1zNGRpOTNTNGZRWV96eGpQd0dPZXdGdTNrUDIzQjJSMGZnNEg4VFpXTHVrUlI1YVNCdUt1eThFTnR3OTJib3hWZUkySDJQVVZyRE1zR3dKM29IMUJtQUVvc0d5X3d3cg?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Tue, 15 Oct 2024 07:00:00 GMT",
+      "query": "\"Transdata\" \"bilhetagem\""
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Passo Fundo (RS) tem nova bilhetagem implantada pela Transdata valendo a partir deste sábado (03); passagens estudantis valem até sexta-feira (09) - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdURuMjZNQ0E1QlE3Nzdldy01dzBGRkxHMlJONnZyYTZ2T21NWk9BNnBmbEpVZXpoRnFuZ0RSNTVPYTBkbjFWUHhLM3JMcHNjTjdDU1gzZUYwTFVYaUlyd2xhc194WlpuXzU1cVhhZ1NNblFKZGpuY3ZNY1hpVVJaUkgzVk9fRF9YOEkzZlJEenFRS1lOT0ozZ1F5MGVTSWs1NFBpZmgxRWRzUDFFbWNkc1JJaWpxb0txWlp5QWFjcFlTa2NZZllLTTFlT0xxelc1XzNzMnFhQWxQdGZ2Sm55dFNtSC0tT2dWT2xQTE1iR3JDUkFFeEloeDBSbnJSWU5zd3dFQ01BYktuLW5WbExUMlJ6QdIBmAJBVV95cUxQQm0xZGZvNnl0ZmJieUotUHVUUDlGTUtCaVduT05pR2t0NnhwcXY3eElTZDBKZ0dMbjdocGtwblBRWmU0WDdrSDlvRmlnSl91cWJBVTZEazlrelpUQnAwSDZrUTEzMWczN3BwVmNINnhmR3NHM3BLTXZBZ2o0SzgwWHlYVEJzbUczbXFCaXRUZDQwaEFpclpya2gwSmxGQTZGRi11MGh1aTNSYmQ2Zk1vdUttblpQbWJPNkR1X1kzY3ZXb1kycVU0VmIwMUxnRmNjVm1VWDRzWjRscXBJNURCWlB2Z1hkOVdqQnZZdkYwWjlNWUdaZjl5dVRlT0hDWThGeGFXUzJDdmpPLWI1YlJwOHl4NGZKVTc4?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Sat, 03 Aug 2024 07:00:00 GMT",
+      "query": "\"Transdata\" \"bilhetagem\""
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Nova bilhetagem dos ônibus de Criciúma começa domingo com Pix instantâneo e app - 4oito",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkJCNWtlcDQ3N2pyTF81ckdabE5DTEpLR0ZoSUJqenFaeHgtSzR2RTNJaDFOTURHUjROYWdvcklGYUlWbmlPUUZvc0ZKeGFDNWpYQllRRk9TRGRxMk1yMElXV2FJODVuTzNVcG02RGpDMzdEQXZRYXNldzVMWWxMTWhhYmI0T3VOV2ZtY2s5Umt2WFEwZjJNS2RTbGZJMVg2dlBYejQxZm1CM0EtM3hCc00yaEg3VnRmNUE?oc=5",
+      "source": "4oito",
+      "pubDate": "Tue, 07 Jul 2026 20:31:47 GMT",
+      "query": "\"Transdata\" \"bilhetagem\""
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Novo sistema de bilhetagem eletrônica é testado no transporte coletivo de Caxias - GZH",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVHZ4bldpTHBTck5aM3BYaUlObjFQelhsSEswc1lqaHlpQjlkMTdqd3VWTWFEcWRRX0YwVUxlbTJRak9GOHJKWFRBbkZMa0JVTnVEaFFGZ1J1aTBPaWRRMzUxNGdZMERGdjZ2ZkpEaDhIdVVEbkhEV0plSk1DdEFUT3BuZk9WQXpZbFRWWXh1QjBVXzNxMS00ODB2VHRwaXF0UE5GU1RZVVJnS3I4bm9felVRMlU4bmdvMVFyNnBjeTFLc05VS195SGI1dFpRSUZ2X1Nob3FSalI4ZnVDMVdzOW1kZUVvdElIX3VKY1piWElZdy05TDg3OE01dkUwZHI5MktXOA?oc=5",
+      "source": "GZH",
+      "pubDate": "Wed, 17 Aug 2022 07:00:00 GMT",
+      "query": "\"Transdata\" \"bilhetagem\""
+    },
+    {
+      "bucket": "Transdata",
+      "title": "MP abre investigação sobre suspeita de fraude na bilhetagem metropolitana - Gazeta do Povo",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0FMakRoWlBmSVlGQ2FaUndRZWZmd3JaandONVFmQmMzOVFtaVJBOEVOXzc5bGpMbkE1SGJxUFgtbURKNkZsLXdGOFdTUDBDd1lRTG5jeFJFWmJPOFdOUW5YUVVpeC1VY1RiTUROdVBSaXVzQ2tkTFFQN1ZsLVJ1b3BOM0Jhc1ZNV3hYUGstZVVvS09jcUxuZ1cwT1ZsTUxDWGEtSmpKZ2JfRkVFcFpJUjl6Qzl6bkI2allKbTlBU0FuV2c2eWFNUGFqVm9MQ1U2MFN2cUxJSWZzbXg5OGhCVFU1dw?oc=5",
+      "source": "Gazeta do Povo",
+      "pubDate": "Wed, 08 Jul 2015 07:00:00 GMT",
+      "query": "\"Transdata\" \"bilhetagem\""
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Transdata é premiada por projeto em Brasília - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWdqb0FNS1FaSXNST2FDOTlURG5DUGhxeGlDLU5CNUQwTHhrel90cjZZOGdTTS13WWdneEVHbElVQk9jRVlyNXZYTHo0cWxsUTA2elpKc1FONWpqWmNvVXNjTU44c3d5VmstTnplYzFfR2k1TVg3NUc3YTZoNEg4YkZybVNXVDA?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Thu, 02 Nov 2023 07:00:00 GMT",
+      "query": "\"Transdata\" \"bilhetagem\""
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Transdata começa a implantar novo Sistema de Bilhetagem no transporte coletivo de Foz do Iguaçu (PR) - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ0dxVWFmSDF1UmdoTmg1ZmlHMi1pQmgySnlEV1AwODAwWkFSZ2pzakFRRjUwWThlT1RsLUZQYU5UUWZjcUgyTDBZek5nT1V3bTNZR0ZxZlhlV3M2VlR3Z3BsanlOeXozZGduU3lORFp6V083SkVKYXpTT2FVZ1dscmVYbGJrWnhQd0VmTFZXVGlIMUhrR1JVVDRfOElhMnFZcldXRE1fWDVUTGx6dVpYMExWUDdwQjFaSGcwTnROWWw0YjhEOWFHTFN0eFpHYzk5YmJXVkdOZThlM2lH0gHiAUFVX3lxTE9aM1N6Rlo4aFFGMXMzdHhfd3pSWlF2STdHRlk0cTN6N3RSeHR4WVpDazdVQWlxNFlGMTRQZXdONUdyT2k1Q2xnZ0MyazkwdUlfSmRCQlpMcGxyRzhxZy1tUXVZWnE1clN0Rk1xSzRQZi1MV3lKa1Y5dGRPcWJaWlI0NmxLVXJSUGR1bVBLQVRxMUs5S1gwRnZFN1FUNlMyVDM1Ry11aGdtbmpqUWxTSm9Fb2tCSWFRNXY2T3JXV2pNSzBQN3hVYkhsMVpDRTAyMmpycVJnRkhfUTk5Z2UtWTA1b2c?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Mon, 10 Jul 2023 07:00:00 GMT",
+      "query": "\"Transdata\" \"bilhetagem\""
+    },
+    {
+      "bucket": "Transdata",
+      "title": "Ponta Grossa (PR) passa a contar com tecnologia da Transdata - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHRmTURfYWVOM1JmVExMUzFWSkNqNTRsQzFFSWdHdEVuUWh3UG0tNS1qQUh5czF2ZVQ0VjYxSWdKNk5kbm9iSUtNQ1MxbFZoYmh3cHI3b0F3OEwxa09JQ0ZVM3RHRk01M0xiamNPUy12TjNsZGhoRWhtRmpzV3Y2X3cxcHl0TjQ0UjZjZEhJNlBsQVBqOXJvUHVR?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Wed, 21 Aug 2024 07:00:00 GMT",
+      "query": "\"Transdata\" \"bilhetagem\""
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Maringá adota bilhetagem digital no transporte coletivo a partir desta terça, 12; implantação ocorrerá de forma gradual - Prefeitura do Município de Maringá",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSElDMzVuYXY3ZUpqWUFHN2YtMzBTQ3VEclo2cXd2ckhwMlIxWjI3Nmg5U01GMmNZbGZxd1Q2RDI1azJWQTNmcm95b1M3ek9FQ2drbEVuVEFBZFBrenN3TzlVWDBzSWFNTzk0eFNxYTcxcEFUVEtIX1VUc2pad2Y2U0Q4czc4ZTVzcnd1OThfXzZuTWZkamc5ZUltdXpSSmN0Z3hUMC1PTGVNM0tXUm1KajhHVk5tLTRYSmg1ZDhNMmNOc2RKekMzLTI0cEV1QW94WlMwYkFJMUkxNFJFNEE?oc=5",
+      "source": "Prefeitura do Município de Maringá",
+      "pubDate": "Mon, 11 Aug 2025 07:00:00 GMT",
+      "query": "Onboard mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Agência de Comunicação - Maringá e Região Metropolitana adotam Bilhetagem Digital e passam a aceitar pagamento por aproximação com Mastercard - Estadão Blue Studio",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUVJjeVpGc05wVlc1MzBwRTdOa3ZMYWdoOC1nc2Z1MDZobk5pcHA3RkdGUnpwT2dldjNDZlJFRnUyWnVNUXFJdmpEVFJxSVR1c3BWY1lWVkdObWhxa0lrOENDaGVDUG9ER0FpQUF6NkhGcUJ3VzlSdUtPaEpPbnVXYmMycTkzelBLNm5Ib3pfRV83blpveFgzSExQZlNYdTRJWW5BQVp6NS00azVuRktuR1ZsRy1NTkhxdFJyNHBXcWRUTk5uUHpnOWhwanpMODYxb0ZqTVIxcWRQU1RfenVLLS1MMVpKd3F4MUZ3NzdGZnVENWNMaHBSQy1mYmpxQ1RJVm9idjUtZTQ1bjRKZWlVQ3hEcw?oc=5",
+      "source": "Estadão Blue Studio",
+      "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "query": "Onboard mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Seminário na Alesp defende maior integração do transporte coletivo na Região Metropolitana de SP - Assembleia Legislativa do Estado de São Paulo",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yaGNWcmZuNXBwTW5pQTNTUFFWMy1lLWlVX254aWtnazczT0UzRGhMV0RINk5EMnJad0JZTXNfUHJzbjJYY0pZcEVXQjNJNjN0NGptMlZB?oc=5",
+      "source": "Assembleia Legislativa do Estado de São Paulo",
+      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "query": "Onboard mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Onboard",
+      "title": "A OnBoard Mobility desenvolve soluções para recarga online de cartões de transporte coletivo - Projeto Draft",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaEdVc2V6QWJBd3pIRUdFVUVxampJSGZLeGloMFI4bHdKcFRtdDR1bnhKSi1CeTFrM0NEZFUwNWJMYWFJREQ4elRsSkdUdXJKMlRYZ0pLYXc4YzlpX09IQ1JiTUtrSkh5SW1WWVB3VzhheUJTZVk3Q3JNQlhGM1lTUTBtS3c3bmhxaHp5YmFqVDRVUEI2cGpJNXFEQ2FwSFNHdXhGMlNDc3A5Z0RxWHBmT2JsVTdEcEFUcWFhT2Z0aw?oc=5",
+      "source": "Projeto Draft",
+      "pubDate": "Wed, 05 Dec 2018 08:00:00 GMT",
+      "query": "Onboard mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Maringá e região metropolitana passam a aceitar pagamento por aproximação no transporte coletivo - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkZiWHFvWktpdU1iVkc4OU9JT1R3MmJHZkd4YkpCQUJrWllrRUduTVhWRGplWnJQbWFLUlFvRU13OWFQYXZPdFBuVWN5MjdmdmNVU0FYbXRjVThxSm40bGQzVkVJaFpIbmp6cFRkR2JMLUJoSjh6aFlkemx3dlRMeGRBYzJMWWdBNUdaRmFYSmhWbUU3Q2U0ZkZLQ1I5aVQyYW9uSHB4RjhPbkhBTjhhdkxfUm9mQXEwOGFET2JxbTdMVVFCdG1JMFRWMFM?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
+      "query": "Onboard mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Maringá adota pagamento por aproximação nos ônibus - Baguete.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkFmRmVYeWVtZl84eGhmUzdkalVuUXRVdWdMelFicmR4R0Y2V0hHVFY1WkZaaFRkZzREWnk1ZFFDVWZMaU9fUFJ6cDNiVlRLbUV6MU53cmMwMHZjTXVrXzRFZkhYeU9HWk12d3NvcGw3eW5BLTF5eFRvMXFWdS0zMEdVWEZiaGxQTVFlWERXSQ?oc=5",
+      "source": "Baguete.com.br",
+      "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
+      "query": "Onboard mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Transporte coletivo de Balneário Camboriú lança aplicativo para bilhetagem digital - ND Mais",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGV2eFRzUzNsY2Y2dTE3TjYyTTc4LTlMUndzLWF2R0c4T2Nxc0pQak9XVFZSMnY3b2VmWmE0RF9ZNGRRdUQ0SUNnWTVjd3lpUkJXanZJTnloRXNSTVpXVkVreHRoamNuZWQ5WWxadElyaEd0am5KbEEyR0o0cGtEb2Z2MklrWFhnbTRnWXk4OVlQRUV0UzJzZkpPOUh0RGR5a211cjhHWGJpd0NsclFxdlNmaFhHeDFS?oc=5",
+      "source": "ND Mais",
+      "pubDate": "Sun, 01 May 2022 07:00:00 GMT",
+      "query": "Onboard mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Conheça as startups que querem tornar as cidades mais ‘inteligentes’ - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFhKWHNuclZHNjhGV2lMQ3J3aDhOQnFkaXcwbUx4NzRlNjdYVGFQMnJMY2V4VWh0MTkzdDQ0OUg3V3JSeWIwaElabXg1SnZSMEVnWXRjY1ozRk90dXlrX3NjWmV0VjlzcEl0bGdMQzlLRjhWNk5Gc2NYaG1paTRqazltNkxnY3hfM1hza3djSmZKek84aDdXbFhBYnR3M2tPT3d4aHRvMFhlN1kyQ19hXzVNcW05WUVLZ05YRGgwOUI3NkXSAdIBQVVfeXFMT041UlAxVGpSbmdONUd4eDdWVUl4RzR0MHpuWVlzZGdQX3FhMlBJZUZIcFVXTzd3R3FscGt2bmVET3FVM244a2ZsUE1SaDJ3SGk2aWVtWGNtXzQ5LV9NUTNQUkhBeHl6SklfVzdRSXBKTG1nN3pvbU5GMWtOLWNUQ3lYcEQxMzdoYWFXZjRSclc4UDBxUVVSb1R4VUtETzFFdmpnSDQyOVlEYlF3NWtJTEZXanh3cTFjS2hKWDZZOGFyZ2pob2tsQ1JiZlJTczRNMWhB?oc=5",
+      "source": "O GLOBO",
+      "pubDate": "Sat, 23 Nov 2024 08:00:00 GMT",
+      "query": "Onboard mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Estudante da UFSCar cria aplicativo usado no transporte público de São Paulo - São Carlos em Rede - São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVXVtWVlIVHVCa3I1c2V1bElRbUtkODNnVHF0LTRUaUs5VWw4TlpDLUlzVHEtVGZlRGV3eHFlc0ktR0F4THIweTMxN0VMRkxEUmFvN3F3YUlvSUJabjJRbzk2LTMxNEYzeVpLMl9ZZFoxQ1p4dDNWelV3bzB5eDljS2NXWGFZRm1feld3U2l3SE1WaG9YMnhrbE5saktSM0x3aHY1QlVZNE5uQWVv0gGyAUFVX3lxTFBwb0FkUGNoWnVSekZzbGZ1Wm54VVlrVFU5UUkwUGlmRjlNVFVrTjJ3WmkzVUVscjJSVjg5My11RnRweFMyQlEwZ0xnUGllR0lZSGpQRXRSUzlVNW9uUlpOTmZGbDNrbHJ4bERzRE83ZmlQcl83dkRTU0w4LWdsXzVIc2NmYmRrbnFPOEszaFhhb3pJOTRyOHpYc3owdUVRRGNyMXQ0NVNLcDlOaWt2bE9pMXc?oc=5",
+      "source": "São Carlos em Rede",
+      "pubDate": "Fri, 18 May 2018 07:00:00 GMT",
+      "query": "\"Onboard\" \"mobilidade\" \"transporte público\""
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Divulgadas TOP 10 startups de mobilidade do País de 2021 - Estadão Mobilidade",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWJLVkVEN2JPYlk0UUFnSk9HZmpYQUpockJ3WkgwdW5jOEt6WTBhWnBPd3ZidDU2OEdYbS1xWDlYQ28yQWNreGZCY1FrYV9aQXRmemg4Y1EyXzYxU2VNTmdBMzczU2tpUU1VWFhPT19heW5kQXRfejVaY1JNaVZ6ODRBekJmVlpTdWxKdmZ3VC1Sb2Va0gGaAUFVX3lxTE95VWZTVXBmOWhsc016bGVoUm9VZk1ZZTJ4djVLNXdCQWpldm1lOE9xM3J0eHRDQkxUMlRaWGVFQ1JsVVVFaW1sazQxQkZsUTI2WmRudWlmYkotQzRia283ZVJsM0hfTW0wWW9MUHRQaW4tT2stQlZBQTJPY0trTHdkMVVtSFQtNU5TdWVhUTFOMm16S095bVVkTVE?oc=5",
+      "source": "Estadão Mobilidade",
+      "pubDate": "Tue, 26 Oct 2021 07:00:00 GMT",
+      "query": "\"Onboard\" \"mobilidade\" \"transporte público\""
+    },
+    {
+      "bucket": "Onboard",
+      "title": "Usuário do Cartão BHBus já pode fazer recarga pelo Facebook - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEEtSTBWTC1xSmZvMFFTYmU3aGp1d0tMY2w0STB5YjAwVm15dk1vOUJDUjh6WGk1NWhGYmxZUlA1dXNQRURKUnVYUTlmcGRlZGt6QWxnSldBcnFsQ3c2cjZFU2VQY3VsdkJxd09yY0RwNHJQNXhxaWMtMFpmSFNZWmpOazNZM0RhWDJoamt2SUtHbl9rVGdCQ05LcVBCY2M1bGktWjRxdHjSAa4BQVVfeXFMTUpwQ2JJd2VRTGZGcVNMSmU4TUM4a29yM0JRVks4eUJlelBtTHNKbXRqaWo0ZGgxMkdwYXVhRlI1NkFsbnQxNU5jVk9ZeDctY2RBU0Vob2FRZW5jY25NNFlrOHp0WG9Ga29GdDFqRC1RSzVoWkVRUlh3Xzhyejd4bFFYT1Vpc185UHZxamxfZ3FzbU1NZEdYcHl4YWZYQkhaY2EzXzgxdVVoLUJSclBB?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 12 Jul 2019 07:00:00 GMT",
+      "query": "\"Onboard\" \"mobilidade\" \"transporte público\""
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Empresa 1 leva soluções de digitalização do transporte público à Lat.Bus 2026 - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGRJN3RRVUtCaml2eTVrUGw5MU85UXBEZndXOEpCdm53cDhFMUh4bmZ6ZzZGRy1fMkpTVzVZLUxTdGFUYjQ5OE8yTFBFb2oweld5WkppUUpNdnJ4bHZ6WFZPOGg2dXB4UFdUT0Y5ODI4WllQWXNJVVJGdEJFUVhtNmJSV3RDbGViS1ZYWjZRNkFoU2ZzdWE3cTc1ZGlhbURpX1ZyTG1lN001VlYyZ0ZBckFzVQ?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "query": "\"Empresa 1\" mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Empresa 1 apresenta tecnologias de bilhetagem digital e mobilidade urbana na LAT.BUS 2026 - Frota&Cia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWhCX05WQ25BNHlZQ2NtR2dveDRoYkJ1Y0VzWjN4UF9hQXZhNXU2dHRkU0g1YzZNdUhRWUlYWEV3X3diOTl4RUdwS0x2SGhaX213YVgzTXJ3ekgxb1Y1Ymh5a2N0T2lkUHpYOEtEVU96T0dJb1hOd2IwUmhQaDJNVHhFQQ?oc=5",
+      "source": "Frota&Cia",
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "query": "\"Empresa 1\" mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Empresa 1 leva à LAT.BUS 2026 soluções para digitalização da bilhetagem e gestão do transporte coletivo - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa2l5LUdXME92WW04Z0RlNWlJWjNOS0tfTnVUejBTbGhBTll4Z0JkV0VqcXdhaDJQbndPSTBGNHlfZ1hqd2NyVXN1UktSV1pmakprcTh5VWJmQVlsNXFFb1hteUlXSkJoa3Ezcndmc1BqYmlPZ29kbzZIV1JlZDRsX1FyOURGNUMxZzdpUzRHNzBlVkwyVTFIanFoNlctRkZjNGZqTmtsRGl5eHBBZURmSlJ3cVQ0Z3A4THJ0NVlndEpfTnY2Y0tvRUp2WTRlRllmNS1SOXRwdjR1V0R5T1JJblZfNNIB6AFBVV95cUxNaFo0X2VUangtZ094R0dlODVDLVF0OWVCbzhrVFZ0clQ4ZFhwX2w1RnlFR3JWR2xXNGN2T2hzMkI4Z3haZlFrcHpkLTBOMFNDMTIwY3RsdjdxQ0E1TGU1aTRHSFVWazdKSzZFQkhEVnlTSFZrS2lXLXhWbnZQc1hhWmJtODZwT2hfYTNOWGtOUjdTTEFpbFBxckFmeWpINWdZX3VycVBreVZUUGY1LTFaWXhIcjlqMGptUXFuSlZ6NGlrZGo1ZEFFT0xzeFRYVF9LUm1WaG9hNVh1MHEzQ1ZoeWhDanVLQ1h3?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "query": "\"Empresa 1\" mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "IA transforma gestão do transporte público e avança no Brasil com análise massiva de dados | SEGS Portal... - SEGS Portal Nacional",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ21nOV9HbUJTNFdIc2xRQm5YSmhQbjVHbWNzcFZwVTBJaW1lc0YzWU9fbHRXcXFJcGF2TjhyazJ4WUhfT3Bsb2U0U21sS0xHQjg3T1RfRC1KNjJsZE82TDQtQ1hYM3hFMklDYnpSb2ZyVEkwVkt5Ym5KbzA5ZjhMakMxZjNIZlVxSmFMSHFqM01uRDY5WGppdTBwTVJHZW1DT0J6MzBKTFNaY0xDekhPUUt3V2wwdlJ4R29sZDBxWm42enVVdjJ2VtIBzgFBVV95cUxOcWZISzJWZERMQ2NlQ1Y3QndwWmhKQ0pNT2tDYXo2eXVSODY1NW5TVnZyRkJrTDBVU2FVcGFyU1JiLVFRa3hFaG5VckMyaWdscjNQcFgxdW5EYzNFcktkeWxqcDZ5RDhhWlNuemV3TmppQzVtVlVCd0ozX2k3Ujd1ME85d0dLVGlkRC1rS1U0Tnktdkp6RWZVMG9vR0JQQTN5VUhVZG8wdzVUdGVTSmdKWFFEWWJodGJzUEp4S0xISU1mNHF1NjZVVXdnXzladw?oc=5",
+      "source": "SEGS Portal Nacional",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "query": "\"Empresa 1\" mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Do vale-transporte à biometria facial: o que mudou no transporte público em quase três décadas? - al1.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZng3bEZOSEdMUnlpNFR6Q296RVVBWEc5R2Y1cVdnSFE5WE5YdmJXem1xemVZVkhIOUFWWXZlcEZTbHNkc1JMbzVsYnIwYXdQejRYdUtoZjFhVlo5aWtMdXZqNktNVlFLQnN2Um5wb014eUhLOS1fWV9NWjQ4Mzg0RzNHejZXR3FMZWw4dy1qU3E1S1dyckFzUF9rVzFQMzRRcENZUVc0NC1lMlNvWGJzUk1HX2k0M0RCTTFsYzhvSW5lelAyRHhveUFBUVh3NTJmVmk0?oc=5",
+      "source": "al1.com.br",
+      "pubDate": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "query": "\"Empresa 1\" mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Inteligência artificial: entenda como a tecnologia tem melhorado o transporte público - Estadão Mobilidade",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMDFtcEt1TDNpMjlHZlc1bmdDdm1LY3BWUmJmMGlhWjlHTDd5NkZEc0lvRTlFUVJLRlVBT0xZZDctUzM5cjlXYmVFWXphX3ZHNnNudk14SlpwMGo1TGpsVm0xZzZod0JhQUQwdnZhbC1BNW4zZlhLZnFGQVJ0TU42TlhyaVVidGh3dTJwa2lDWXVpR0hLM1ByUURWLUJ2N3N6RlJkMTMwN3dqVHRpVWlzc0FXTmV4eF9iaFNvV3FZRDFuYVNDcHZaaWdBQ3o0d0JsNnRqZW5EWmxJSk5MZ29z0gHkAUFVX3lxTE1zUEU2NjFkdmR5MUZnR3JRUWI3X1p3cjdna3VhUkJRZGtSLXAtRzVTWVdBUlRFbkQ1VHdqZjBsYWhoNVQwSlFXenFuYVkyWnBXQkJYcnNTTUZwUzFYamdka0dkV0E0dTU4aEE5SklnUzR0ZXlZTmZwNmJUdDh5NmNqdTEzVTVFNXlkejlMZzhLYzBkTjdydE1WNGhNMWQ0T1BIUnpFNDJOY1JWdnhNNzJ5Qmp4N0lsYnZ5a2pOQnZScko3VGlKa1BjbGdXZzBFQUtUV1FrcWM0T2MyTFIyMGZjRUY1eQ?oc=5",
+      "source": "Estadão Mobilidade",
+      "pubDate": "Tue, 04 Jun 2024 07:00:00 GMT",
+      "query": "\"Empresa 1\" mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "4 tecnologias que melhoram a vida do passageiro de ônibus - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdFJ4cWU3MGpxZExrR3RLLTQzMGFRR1BGZHcwa2loTkVySnRXcTAyZ2RKOG9GaGxCaVpMUUdJNmNDaEU1V0RkbXNhRGpuX3pZaDZZRDFQeFVYRjUySkg5cTFtUE5rZk96VDkxS0pWNFFDQkNsbjJBZGp3eDBMUHZKaVBSbmlqWHpXWXAyT1NBSG5aSlNHQTZFLVVNX1pNdW5tRHBjQWdVVVQ1Ulk?oc=5",
+      "source": "Rádio Itatiaia",
+      "pubDate": "Wed, 06 Sep 2023 07:00:00 GMT",
+      "query": "\"Empresa 1\" mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Transporte de Carapicuíba conta com sistema de bilhetagem eletrônica com pagamento em PIX e recarga online - Correio Paulista",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTVUUDRxbXhGYS00aWhfMm8tY3RfVUY2aTFKWG51VXQzZTBEVkRrWjFONGh3b1NWSng2OGk3X0R5dWY3VFZsdFB6UjFvbEc1eko2MTZOQ0ljeU5jT0R6ZTNwSldac2lOSXAzc0JjbVBwazhkOU0zaWlYb2pORG9Xa1pDUE1ncy1tel9NVDU3bVlJUlczczRsVUdsb0pPc0NyeFZqRzBtWnZvalVFeG1Qd0UzaUlocFNTX0VBN3RNSGl6a2xHS0JkNVBBVUJTSTBQ?oc=5",
+      "source": "Correio Paulista",
+      "pubDate": "Tue, 17 Sep 2024 07:00:00 GMT",
+      "query": "\"Empresa 1\" mobilidade transporte público bilhetagem"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Empresa 1, pioneira da bilhetagem digital no transporte público brasileiro, anuncia Marcos Maciel como novo CEO - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVzJSWVdWc0ZmYl9wd3ZYODZ6bHJpZmNhX0tOdWhGeFpQbUNaNExGVzJZLU53NXVpck4yclBGczJqUURydWxFVi1CRmV6N0Q5VkVmTEhveEZyT1IxSk0xNVlJa19LMEdTR1hRTUFnend5QUNJaG93YU9xa2ppT2dHdmhKemQzd2VrbHFxeERSMjN5Q19IVnE1eTZnNTVUazBGUGRQOHN1c3FIaXdjXzk2ZXFPS2xyRm1BYVhMMmxpVTVZTm1UN2xEWWJodWVQTTI1ZWo4aG1DQlBYVkF2ejAxYTV4MEpqTnY2Vmhn0gHwAUFVX3lxTE5JY09US01wVkZwckx1WGd0RDlLRWNJbGdTMWhMbEdaTGhENEJuY1FONU9ydUdFUk5Hd1pTVXlQZVBiMXZYUV9QZ0h6U3BMN2tuVUdwWjhmRkdGMXp6VnNIVzRFMERRYUxpMzlxU0xBWFdqQ0dPdjFzVHFOcnJWVjIwS0duaVVIN0kyV1gtaUFLUE9RazBFZmFqdmk4b1lydDlBdjNnN1JIcElDZUNlOWU0aExTNjRZZDl0ZFJaTGl2elEyMjI5d0lxSVpUOVV1SGNmMEJDRl82b0U2RVMxR0VLMjQ5UGNWYXhmTTlDZG5NYQ?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Mon, 24 Feb 2025 08:00:00 GMT",
+      "query": "\"Empresa1\" transporte público"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Terry Hinman, vice-presidente Americas do Grupo Modaxo: “O mercado brasileiro, assim como muitos outros mercados latino-americanos, é amplamente atendido por operadoras privadas” - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNenAzeXY1MUJYVnFtZW5pUWItMkpjR2hiWVBMc1U4cnhzeThVVzY2TkNCM1lHRVhkUXVsQkJLRk1UbGlFanVrNzVBandjVWtQR0pSMmNhOTA5dEFVQ3h4cWh5M21PV0lZRUVtQ0Q0a3kxdy1JMjhQam9pa21pXzQ1aW84M29TV1lGeU1lWWVkWGx3ejZ0YnFzdEp2ak0yVW55dXhwYzNfTTRvN3h2eUxMamNZTU5HSUZrdGYza2F4a1VieW5MNkxyM0JNNWV2Skx1a0VuWUR6dmlfbnZobHRtOG82WHc0V1lRelliaEFaY2kwQzNGQUFxdVUxT212SVZRTEtXUEd6M1BUYTF2a3pCTHY0UDBncWUyYXc4bUdTTXNCZGw2eEt6ZnZDSW02NnhxZ1E?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Wed, 03 Nov 2021 07:00:00 GMT",
+      "query": "\"Empresa1\" transporte público"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Empresa 1 cria campanha “Moderniza!” para ajudar empresários de ônibus a atualizar as tecnologias de suas frotas - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeGNvbmhDbXl4NHhOckxCbjNmV21mOTFkaXRueFlsUFVENTlUSGJXYVdXcEpFOVVSY1lEYXBVTzV1QUpkZF9jeDZtYy1PMEtDQzVVY1ViQkR2a0dVQUxYOHFxalR1QWlUMGlreF9WdFlkbDFONXVOVXdITXdfZ2MtSzB5cENsVjJmN1dHM3RQMFEzUW11dFFsaGtwbGdpc2JDc3NiLTNqXzhfa0VQbTQzQ0hkZ2R6akNXMzhSM1dxSTluU0pubGxMLTBhUHVBQXZsUjVJM241S3kyVHB1WDBWVDNpSjMxSkpjX0Fz0gHwAUFVX3lxTE1Bdmkya2dTbGN5VUJpMVktWFJVVzJEYVBOUFUzamVkV2lLTW41VS1OejhnaW80ZXFUT0ROalNQeENhTkdFOFpHeDVHUTR4eU8yVnlEUGY2SkZRd0FHS1pwMDhxdXRRMkxIS3hDOWZqdlltWDlRRGFIZE9aNXZMOThVOTdObGc3YjEwX0ZYdUVuLV9OY0tsNTJRaXFMRG8tTVptU0UtS3YwZDBmMHVhRld1V0pmaFZ1UEYyelVaLUtYLXEyZGpHMEJ1RFRXMFU3U0E4QzV2ZDMzWEFPenZaLTJObFY1QVpzbjFNMGpldVJfQQ?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Wed, 23 Aug 2023 07:00:00 GMT",
+      "query": "\"Empresa1\" transporte público"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Bilhetagem de ônibus em Guarapari (ES) é modernizada por Empresa 1 e Expresso Lorenzutti - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlRWOURkVGxTZ0otaS1mYXBYbmlNcUpfVzhxYUpRZ3NnQUdxMUdxLURCZEdoa1pzdlFTckRmQnVJdksxUWNuVXlkY0VjQTN1clNpdF80bGJVZVdGRTVuZkRna2F6OEJyY0dkZXNycU95QUgyYzVTOXBfVVZXbVA3ai1LYzAzZ2R2NXE5ckItS3B4bGZtR2FBckpaanhFMF9ESUhfZy1wN2JFTDZIeDhYbDk0WVJnTXo1ZlNuRmZUcmlEbnE3MXYwQmhrRzHSAdIBQVVfeXFMTlE2aVUyMDRYRHFLZUZrVmJ6OWxGYUVSNW5xZWNvdmZ4UEpmZVowMk1IOHJiUGRqUmNlczA3ZjNrSTJhMnBaRHpmcFhDTTlXNlN3TURLYXRraGs5NERwTHpwbTF0YWRabDlvZ2xnN2c0TzhSOFVIX3lNOWpUMTk5a0lPN1M5NU45aEtRam1pSUItbGdEVTBiN25FemZtd0d2aUFsM3h5SnA5ekdnWXJndjFJekRkUm5PYkVpcDZJejJsNE5mOHR3Um5kWW82YndITnlB?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Sun, 16 Jul 2023 07:00:00 GMT",
+      "query": "\"Empresa1\" transporte público"
+    },
+    {
+      "bucket": "Empresa 1",
+      "title": "Como o transporte público evoluiu a partir da tecnologia - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcm1DSERuWnZkU3NtVXVHMFYxc0Yzem9Hcm9zVFJuNVpmUjItUmR2SWZPTy1YSWdaQzRtWjlWd0ZGc250WkhOWHROMWxZUXpjcS1oRlVXaWtMYzJLMFZveFBZeTJOMXc0R3hXOXBUb2x4ZmxGT3FlVk5VN3hHWHgtNF9FSFVEaGJBUW9pRzhuLWVJdzZHVWNiZnk1RDNaZ0gtSUxTctIBqgFBVV95cUxONFFSZnRCUnYzR2FqUjlqWG9KdkRXRFl2V1F2VXZsUlNpbF9pc0tSYkpUWjBuQzRIOG4wb2RCaHdzNFZlSkh6R1hweXByQ09KMFNBTW9IVVpHTTVPMVNqV3ZxUlplN21KR3F4TFBhNGtGMVRLLWhzTWtiR2Y0bzdqdW9PZkxaX012YTRrT0lRWU54RF9ScWZSRzVoN2J3eXdOMmRENFlCRU9rUQ?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Thu, 16 Dec 2021 08:00:00 GMT",
+      "query": "\"Empresa1\" transporte público"
+    },
+    {
+      "bucket": "Cittati",
+      "title": "JF + Mobilidade: mais de dez mil juiz-foranos já baixaram o aplicativo CittaMobi para acompanhar a chegada de seus ônibus no ponto - PJF - Prefeitura de Juiz de Fora",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkVFZoX1dvaTZZWVRmUGZnSUhzQ0p6T0ZJeFZfWWpXSHNUMUJzS29UdHB6WENzQ3R3UmhXb1JwQ2o0akg1azVkaXZiOWk5YXkxR1BaQ2hVX1ZEMGl5NHFKbGNjOERSZFR6bjlxOGU4V002dEVqU19aQW9qYw?oc=5",
+      "source": "PJF - Prefeitura de Juiz de Fora",
+      "pubDate": "Thu, 04 Dec 2014 08:00:00 GMT",
+      "query": "Cittati CittaMobi mobilidade transporte público"
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Aplicativo que ajuda usuários do transporte público chega a Osasco (SP) - Mobilize Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcHdsNl9STHE3djY2SWdEel9VUlNnZTlIZUUxVmpzMTkzWHV0SmsxdTNlVWNuQmZucWUzWHp1RFE4REZOTndMd19tTElxTFNtTVNOb1FWLVA5WUkxbDNHeHUzVmozbGlPaVlTbF9SVTZocEdGYnV6cmluUXczOGRBWC1HUTFIQnFUWlZLcWlGUWtUSnRRWDdRUDkzVFFERE1SWWRTNDFuRjhua0I2OWZsZklHSXZpWm9aTzBRQ2RNbndJZw?oc=5",
+      "source": "Mobilize Brasil",
+      "pubDate": "Wed, 01 Jun 2016 07:00:00 GMT",
+      "query": "Cittati CittaMobi mobilidade transporte público"
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Central de Transporte trabalha 24h para atender demandas de ajuda humanitária - Prefeitura de Porto Alegre",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0M5R1ZmYXpOSk9MSmtCUF9aWUQ2bW01ZGY5MDB3Yk1zQXdjR09RdldPYjExOTNjQjNDdWFDamFtREVsZk5zSWlWenVFSDMtQV93YzhLdWNnQ05DaWZOdlVYWWF0c0hiZ1N4ZDhWYnQzcUpGckRrSTMtMzVIYzhQUnFkV21TU1Vzd01PN3AyV3dtRWoyZ1VEYS1MX3lxOTVjOEtEb2k4SU80ejFDa3pQWjJqRzFDeVZp?oc=5",
+      "source": "Prefeitura de Porto Alegre",
+      "pubDate": "Mon, 13 May 2024 07:00:00 GMT",
+      "query": "Cittati CittaMobi mobilidade transporte público"
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Empresas de ônibus poderão agora acompanhar performance das linhas em tempo real - Folha PE",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGN0VzZwSmQ0enlXRldtdmg2S0J2MXF5LTR4d2pRaU90eGtwLUJMY2hmeWdiekd5dXJNN0tBTjM2TTh4Xzc4U3A1SHN1SFM1dF81ajJvcUwtSnktMTNOOVdkYTNSRGdCUEdjbkZZSE1BeXFKbWtCaHlvbFl1SWdSa3NQMzFsQkV1OWlRZVRkcWJoa2ZZQ1lJUDUxTExXU1o0MVJCSFpfbUM1YURubDlST0dn0gG2AUFVX3lxTFBtcG8yb0NIc3BuQ3Jkem91cnBiTG1RWlZCU2haeWgwaVdKN2hERjhXdDdiSzd3VFBPWFBHeDMyUzFuNFFIU200b3ZicndiUTJLOER6M3p3ME9QaXVCMXNxWnRHbkxhNXRQZE1ubkxBX0g3UzFKSjF3VDJXeUhYMlVZZXprdXEtbmVXcHVaRnF0VFpjbk52TGJkMjg2enJ2U2E5eXdjOVVFdVVic0UxcGNkMDFGTFln?oc=5",
+      "source": "Folha PE",
+      "pubDate": "Thu, 11 Jun 2020 16:22:34 GMT",
+      "query": "Cittati CittaMobi mobilidade transporte público"
+    },
+    {
+      "bucket": "Cittati",
+      "title": "CittaMobi lança comunicado para reforçar atuação no mercado de tecnologia - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWS1EeUg5XzNBX2otenFrR3lPMkxMMG1vanpuUHRJSjhxTzJ1QVZfbmNUTk9Tbms0Nnh5NzNkSXFNckdhUWpoNnpBZDZxMEhQRkxXN1ZXY0FLZlQ4Qjh4UGZFNURNR1VNVHNlWE1sUGtqWll2N2ZIelh0TmxrXzNGTFhicS1XZW5aVWZfTVR4X3NUOGFiMGwzRGxPS1l0MkZEcDJQVHNpQmVvUzMxRF9tNFdOUWhVVnhMeDNZ0gHAAUFVX3lxTE9oRldweDJjaGM0cWdpTjlONHd4QW9aSnlrY2dOdmJNTFNtQ2F6cDUzVFpVQ0RpQU80MTducVM3c3h4VHFBTjNDaU0yMDBOUloxa0VvM3ZlSkJpaWdYUW1vSGszVzB4Tm9aTGZZT3NWMzl6OUp2T2NQOWhXOXI0MUpMRkNRWFAzOG9FQkxtQ1lMdXlBWGhrUHJkUlFzQ19DVnJ4ZXdXcGRoSnZPcUNPbGZvRk9WV2JMY0hLUThtTjNTVQ?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Thu, 04 Jul 2019 07:00:00 GMT",
+      "query": "Cittati CittaMobi mobilidade transporte público"
+    },
+    {
+      "bucket": "Cittati",
+      "title": "ENTREVISTA: Passageiros do Metrô e da CPTM devem ter programação das partidas no celular pelo aplicativo CittaMobi - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQTJNN1J2dFhsLUoyYVh3RnlybXpKUVpZQnI3eUZIRDRhTkhna25YS2FGMjJfelU3R0V3VHEyNUl0NWlGc25rdHVDY3dWclhVNFFLMGliR1dBTm1iX3k2UlVLRDI3VzFNbjM2S3g3TUJyNnU2MG02ZzV1Mm1SWlJTUHFSaEVUTnZ6YllrUGFqSHl6cEZiNUhQVktiUFozck9sd08tT3NyV21qRHZJQ0FwM2t4SGxVUlZWRWE4bTBqSVRMWXBmWFdNRUw4RGdabGp0UzhONEtuMHZ6Y0dBYXM1SEdrTWk3MlQ0eWthWnpha2nSAfYBQVVfeXFMUFl4Rm95VUFtNVVEU3hKUkROZE5RMF93eVpETmF6UHlqWURkdFJsXzBWMjFjV0I1V3gtNld0Z21xM3Z0ZGU2bVVobWZqTVlHYXE4ZFZ1SEZTR21XSGc0bDdhTG5SdUVEUFVndnBXcWN1Z2lpODRkdmJ0TWZGcWpWc2x1RF9zTERaVHB0Z1BiVEpWTVNnT0pBeUZTWldFSFlaZHlYTTFuVVFTTU82NDlzY3lJenVldXhuQVFvSlJIZk1fdnpmaVFMNl9GYm1OZWc5ODFYcUhQdnZaUEtxaEtRdDI5dVRiVHZPa2xCTGY2MUE1eWFMdWd3?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Mon, 28 Jan 2019 08:00:00 GMT",
+      "query": "Cittati CittaMobi mobilidade transporte público"
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Prefeitura de Jundiaí (SP) testa nova tecnologia de monitoramento nos ônibus para otimizar a gestão da frota - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOEdxQUlBLUZtd1I2NzNrR0NKakVqWVo1bDVfci1wNlZJNUNSSWpKRWFGUUJJOUs2NkQ2MFNkUE9ZYk5LQXVONTJVSExUQXBKZWJuVWg4ejZxbzAzb2pjQXBLRHU5aXFSempaRVlMY1RBcm9xUWtMc0wzWmFBOElMTzRaQkZmWGFuTDJTaVA4ZTBEREh0cENkWVNVR2tkSjQ3MVRXbHpMMVR0el8xdHdvV3loZF9FZlVhaXl0cFFaNnZsXzE0SmlfUnkySEFxaklfRUUwNHQ1YkpFNHRrc01TTDBiQTc5MFnSAewBQVVfeXFMTV85ZVo0M1d0bkFjVno2SFhFSWVBNUg4YXp3R1RRSU84OXY2cXp2NU1PU2tvOGVUSTY0bEttcVE0YnotMmMwbFRMLTVpSEY5NzZkTWFwM0tCZDBsemRFQzEyMExUZEVQdDRtcnBKUHpUT3phWFRadnJtci1hWEVRWVByOXBIRmFZVThJbjF4TnpxaEVZcGZ3T3dpNktFcVdvZXI4ZW94ckQ4Z2dxQ1NSZi00MzNab3dXQW5HdnNIV0hVcHE3aGxxUGYyOGp6WlBDdmFjT0FGcDdTR2JnYTdLTmg4blc2N0Q5VFVPZkw?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Thu, 27 Feb 2025 08:00:00 GMT",
+      "query": "Cittati CittaMobi mobilidade transporte público"
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Empresas de ônibus de Santo André rompem contrato e passageiros ficam sem informações em aplicativo de celular - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQlkxY3F0RDI1eXdoS25PVnZxTjE0SjBnS0liVWxwOWVvSTAtajlTenlWNmZqdEtTYlFXRUVCUE5kaDFNejJTdnE5cTJGWk0tb2pnbmRTaTFubG81VGZhNUV1Y29yQ29TVWJnay0xREx5Q1p1bnhMN2RfMWtlb2FpamEtQVF3WkhueXVpbFhOdG54UFNuYUg1UnRiNjR3R1RxQUZRUFhjUzMtQzNtTVJFdDFhNU45Y0dxLVpsQVRSdDR1ZHh1aC1maW5ndWRGTUliaklROHFLb2stRVdLbUVTSXNTSWw3OWw5Y2JSM9IB8gFBVV95cUxQUTF3YUZ3TUJQRDBta2pTV3dCNHI1dlN3VHpBMGZhYmpZLUt1MjBKa1Ixekd1S0JrdW5VczA1akpMNU9LMko0cTNUd2d6V3RNVjJCU1pEeWs0MjJnU01xc1JBTy1uSWZyaFVrdEJWT3ltNUkxUDVkbUx0UlQtVHU4am9leHlNU3J0d3dWLVRBNElEMkxuNzdXd1F6Mkx4Zmhkc1BBNlFpczZkZTlSRGxSVFYxMmdUUUx1UEN6Ylp5UllQYUFnZS1qSHQzQ1c0cTVlU0NrbjRmdEVOS0ZIMVF1ZG9pTjFHVDhYdWMyRTNIRWJuQQ?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 02 Feb 2018 08:00:00 GMT",
+      "query": "Cittati CittaMobi mobilidade transporte público"
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Novo aplicativo de transporte coletivo de Uberlândia Cittamobi já está em funcionamento - Portal da Prefeitura de Uberlândia",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM0E0U19CQTY0OFdnMHVGUkxMbzlqaHotSERFUlVmdFViUHZWem1ISXo0czJkbXFvUzFXWTg0NmFidnZ2NmxGTFY2bE9iaU5pc2RYaEt5WjU2eU9kaHBWXzdHeV9hMDFseE11LWJhSWY1RWlsZkQ4V1c3X3poZEZHQ3dlOFVxVC0wRjliLTdITFNOcTZEX184TndvNFFNN2pmWnB4aTFyQ3MtTzRnVnp0SmoxdUgta0ZvSFJvRnhuWk9MdGdXb2tVUFVPdjE?oc=5",
+      "source": "Portal da Prefeitura de Uberlândia",
+      "pubDate": "Fri, 02 Oct 2026 10:39:00 GMT",
+      "query": "\"CittaMobi\" \"transporte público\""
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Novo aplicativo de transporte coletivo de Uberlândia, Cittamobi já está em funcionamento e ultrapassa 850 downloads - V9 Vitoriosa",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTUlFenZlSE1KVFBiVFhjSnVBZTMxcXVXWUpmYWdPX3NWd3FFOUQtR0pEX0dnNUpweHB6TGI3bmFJZXdMREhQdUY3SnRmek9BUHNpOUQtakVWZFJXTV9HMjF3bmNYcWJMbVpSS0wzM3lITWpkbHo3b0gxLWxFeVZBekRJWURaTW1pNXFFandIcldrTVVXbGVVNnM3VzFFQUNSWnlxdUdCakV1bFdwYktmaDhwQ3dKanJ6UW9tMm9EN3dvSE1rNmZoanZuRmFOWkxDUlc3amljVTA?oc=5",
+      "source": "V9 Vitoriosa",
+      "pubDate": "Thu, 08 Oct 2026 16:08:22 GMT",
+      "query": "\"CittaMobi\" \"transporte público\""
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Uberlândia lança o Cittamobi, novo aplicativo de transporte coletivo - Diário do Comércio",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50NmdCZFNaT3MxRWx1UkxOXy1MM01wakdpTkFqSWp3LTlJZ3h0cHpaSm5INEkyRkF1cHBPSE1ZcG5FX1hOeWtNRmpObEdOWmpoNDRqOGpaOTJnSWxL?oc=5",
+      "source": "Diário do Comércio",
+      "pubDate": "Fri, 02 Oct 2026 12:45:00 GMT",
+      "query": "\"CittaMobi\" \"transporte público\""
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Grande Florianópolis passa a ter aplicativo para monitorar ônibus em tempo real - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN1V4QnhydnN0dTBSZzZhNFNCQ0kzeFNDSVotOTFxanpKT1h6WWNlOF92cXZPaU8zeldvVTVzWlFjbjZZZGhaUk1KU1RJREhWdnBmNHZHOXhnSmh6bGJtUzRNc1dnLTB1SE02UXZHRU9SYUpBSGFtdUVCM0ZsV1V0dkY0azlvT1NtUlJCSlljV015MERtYzF5V3pDTnRTem96T3hxcVk4NGliTktFdjZ5UUpqOV9zRmQyNFRvRVBqM1lENkV5YjZXWW8wdllzdw?oc=5",
+      "source": "NSC Total",
+      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "query": "\"CittaMobi\" \"transporte público\""
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Passageiros do transporte público podem acompanhar linhas especiais no Cittamobi e recarregar o Mais Aracaju no Arraiá do Povo - JL Politica",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU056Yks3c1VtYnZJaFBBLVZPVmc1U1BGUGFjdUp2SHBuNGtJQWFaeU93MkV1SWsxWU5ob2Q0c01paWVPSlFZSXA5ZHRUZjloaE8wVWl4bm4yZkxBSjBpaE9MQWtka2hoTmtJSWh3ekxnVnZ5UkFydXpRRnRMa1JTSUZUQ1M0NUNVMmI5ZlotN3I1czBmT1YtcFRsWmZqTmtLUnVRV2RTcEhnZ0dzamFseVhmNHI2RGF1WkQwVEdGeXp3TEhaaVdZWkNpQzNreHptSl9qcm53VEQ0TWVzRlVxOEROX0djbm5mMDNGQnRJWkRVMXVneW1yaXIzMFliNGxSZ3Q4?oc=5",
+      "source": "JL Politica",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "query": "\"CittaMobi\" \"transporte público\""
+    },
+    {
+      "bucket": "Cittati",
+      "title": "IPT disponibiliza parecer técnico sobre aplicativo Cittamobi como solução tecnológica para Cidades Inteligentes em Mobilidade Urbana - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPS1NNc2NUOVk0V19RdU84TWZtM1Bxd2ZPNWdpdC1FTzdra3AzdGVUUnJ6QnNhX2ZoMk9GUWNYNkVHVG11YzFKS3VZMHZEWTV5MHk5OFFCcVo5N09aQ2duX0Q4S3h1X1JqRHV5V1pPUk5WNV9MOU51ZHFZUThpUnJsN3d3ZjdkbUFHS05YYkpQNWNKdHRCZkhiRDJjZTNFVnJ6cE9TYVJtdWdZYnpGZWNfMFVHR25fR1V5Nnc3YTR6UFBnMzFYalUxVlRwZXN4dDdmNjJUN0hjZzE2MUV3NDVnVEd0VFhVNDRHQ3RFdlFCYjFPbEZQbFlFQjcyYzZjWXFlQWw5bjFLb1Bld9IBjwJBVV95cUxPbWNrdUxkMzNGc2Mzc0xiZjFMbXkxT1piYnhrMG5QTldITGVDcmtBR0lmUHZKRUk0WmpNTFFSS0FKSUs2UWxZT2R2dzFSMzN6WWRZclBQQWZzallpZVdLcVhPLUlRcG1QUmFPSDE4SkFOTVRBVmVnSGYyUTlFd25LMnU3dW5MTDNBVi1DbG9aZzNIVnVQbmhKOThLWFg5NFUwTC1rSHRnQVV2WHRiZ0J4ZE16U05PTGdSQ2tfeVc3UlR6dGZ6aGNFSTktTEhfc2o4SnNpenRvTkNsM3NjZ0p1cE5kVXU0UURuSUZoLTNLbXl1bnhGcGpHUHdiUXBBVktUTDhKRVhOMERiclJ0YkFz?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "query": "\"CittaMobi\" \"transporte público\""
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Cittamobi é o aplicativo oficial de mobilidade da Villa de Natal São Paulo - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXk5YmNMTENrdWtsbzg1ZUx1Z3Q4ZDlvdXFSaGhMbENyVUZoNnFzYkFFTDdoVTA2YmdtMjVkRWg1YmhjQWc1cy1JRHdXbzhULWttY0VmRmpEbDhYZGtLWFFNRWE0SjFDMjdRVXZkSEdvWGdwNndjVUhRckNHLWMxdUVMZVk4dXFhWEtsM0pKNjBMclg2cmZMSUg3dVZkYlRZSkpJWEUyMmNuSkpaV1Fr?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Mon, 01 Dec 2025 08:00:00 GMT",
+      "query": "\"CittaMobi\" \"transporte público\""
+    },
+    {
+      "bucket": "Cittati",
+      "title": "Prefeitura de Jacareí e Cittamobi lançam atualização de aplicativo do transporte público - Prefeitura Municipal de Jacareí",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONW1wVkphaExmcmlFVEY2QXNLX3ViQ3lncEJIV19GMkhweDFnTWFIM01EYmVwVThMajdXdHpUeHRrdWVaTEV0TlBzUGE2VHptTEY3bV83a2tiME1Kdm9oVHplZUFIWk5EQ2d3ZVJDZmRpa1ktT2trcDk0V3NHcWVTcEhnX3VheEdmeXA0Ym1zUU00VlpmNjR4cTZZQUJqUlZ0T0ZYOUpMcnZsdF9aY3V5N0FZcC1CSXhUOEdZ?oc=5",
+      "source": "Prefeitura Municipal de Jacareí",
+      "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+      "query": "\"CittaMobi\" \"transporte público\""
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Sonda apresenta tecnologias para transformar transporte e mobilidade urbana durante a Lat.Bus2026 - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPazNGSk11U1FkTTFqS1hfVmI1akRnaUp5R3pQTTlKRFBwN0l1bEdOUWFyNXp5SGdZbm1MWlRSMlE3Z0NjWnVhbzA0U0p1UzNUVG9VeFYwUHE4UDhuT0VfRUQwQUdQNzJYX3p2bkVaOFk3QXVua0xpZ3c3RTA1aWRoanpDeXpKS0ZYTTR3b2Rybm1SOG5jRTU4eUcwZkxsMElJd1NmVTF3Z3lTNEU2bHJTZDFZUEpycU1Ha0ZtUVhrTGcwS3pwdHE3ZlJEV3ptUQ?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "query": "SONDA mobilidade transporte público bilhetagem smart cities"
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Sonda foca na modernização do transporte público e melhora a experiência do passageiro - Inforchannel",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVYtdWpKdjcyc3FMc1dvNURCYlFZOTBlRXdUcTE2UjE2Zk5LSE5tSFlqNGZ6WE5uNU1PRXFMbFRNLWp1R0UxMWxkYU9Wcy1MbTFldXYtZzc5cXVwTGIzVmt3dnZCM0dwOW9IU3RNTExIVWxocDFiRi03dmJRdEJpNWVmZ3RxTmlKaFZ5Z3dIem1vUnh0dUVLOUNteXptbEMxLTBDa053SEZHLTBqRzl5WExZMmVIT3ZoMG9JbV9SaTREUV9D?oc=5",
+      "source": "Inforchannel",
+      "pubDate": "Tue, 19 Aug 2025 07:00:00 GMT",
+      "query": "SONDA mobilidade transporte público bilhetagem smart cities"
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Sonda apresenta estratégia de mobilidade urbana - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZW14R1BYZHplcFF4RExMSGVhS1A0RkRoZTlxUFpicEVzN1hjU2pxUXMxSk9PMjAtdjNsQ195REtrV1JhWFRwREVUVmYxZlo4ck1zX2ttemJWdkcyUVUzeGtTWF9vUWdwdFJ1VVRicGRJQXloRS1qMWVheV9zb0hVNUhISVNLU3pJV1dZ?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Thu, 14 Aug 2025 07:00:00 GMT",
+      "query": "SONDA mobilidade transporte público bilhetagem smart cities"
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Fortaleza transforma aplicativo de ônibus em plataforma de mobilidade inteligente - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGVOYTYxVHpLdl9sWlBPMWxjckFvVndtTFJxaS1Na1d2dnQ2c0p1bU1LWllBS1ZaYnl4MG0wTTgyNkFCdFVCRzFSNXQyNjRZZzN3WGFpVTJobGVNbWZoV1BjUHVnREdXeHBWSUxWdDJ6S0tkUlhOZVhNMTJzN1NSQU42RmNuVlhrV2F0bi1SSnhuN2wyeE1mWm5hTFFQRWwxSXpQeGZUVXdpZEJ0WFFRbG1Qa3lOLXVD?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Tue, 31 Mar 2026 07:00:00 GMT",
+      "query": "SONDA mobilidade transporte público bilhetagem smart cities"
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Sonda, empresa chilena integradora de sistemas de transporte, vê Brasil como mercado estratégico - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblB4SFB4akNHbk41RFdWRVZkazZkZ2lBWnZ2Rm1FWWswNjNNQmtPMFlJZHkwclpOUkg5X1l2SmJlWkxaLUstOGFVNFVDRk1GcFlWV2dYRWdJcGxwMHlPUFAwQ1FfU0YwQV8wUUJnSmRLR3R4amZhN1dWckFFTGRlVmZYMHNNODc0Znl0VWhiNHFpWUlMdVd0WVRRVmdMQUFuNDNNb0tHbVpsSHhZckVIdHgxRThGSjc4a0ZreE1zdUZXdG5NNkJ3UE8yUFFwU3ZrM3FJU3ZSONIB3AFBVV95cUxOYmVUUTZtNkpRRjBUTFRsTndGY0VYUUhGdDA3WW5kcmZUTVJYUG84VDh5cS1SQ0JFSWhCcXRIT3BHRDFDd0ZhVWNfSHNLS1NGUjdqZFNLTHcyQWU0TG01aUk2ellKbHg0bXdSRkc1N0ZTYU5kdHNwRnd6TFpXSHZsXy03UV9xZk9DU1ZxNFhmZVg3Q29lOXV0b19UQnRHQmJNMC1Qdm5vejZLVGtpU3dYV2V4dWZMTnZ5bzJVb0t4TnVWbHU3cmdZdU56a0V2NUoyc1F6cXprUE9RZE1F?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Mon, 29 Aug 2022 07:00:00 GMT",
+      "query": "SONDA mobilidade transporte público bilhetagem smart cities"
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Fortaleza moderniza app de ônibus com Sonda - Baguete.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEF6WFNfQTRVYUtZMlRSU0p6MnBOaFJXbThVTTR6VGxud1pGQXp2aElCbnUxNDh1c3FuM3RQRkVZSGlFRUlxUEd5UjR1TGtXZjZtZGhfTHpaT3ptcG5vcWMzMjR3NmRUZXRMUEtrVmw4WjkwMVpfLTdfb3ZrZDRZYlotZXdYUQ?oc=5",
+      "source": "Baguete.com.br",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "query": "\"SONDA\" \"mobilidade\" \"transporte público\""
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Transporte público de Jundiaí tem nível de excelência com mínima emissão de poluentes - Prefeitura de Jundiaí",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanV6SnA1ai1KX1FUOEpGQUkxdUUySFVTa2R4V2p1Qjl0Zkw3Q0tMcXFZTkVJOXdHOXRYcjZKWUNTSUd4MWUybnpQZzdlSlhYSXh0MEdrYTBTQy03ZmgyUWZMdXg4SUFob1pSTEd2OW5HNUJZLUtid283ejRQaTdhMTlBbDBLUFIyeUZtNGdmdVR2QWRsVWZMWl80U3MwbkR4SVVZR002NzQ3OTlwTVpkSnFBOEhsb1ZEQnBJdzE2a1lueWhuNnYxcFFXUTc?oc=5",
+      "source": "Prefeitura de Jundiaí",
+      "pubDate": "Thu, 20 May 2021 07:00:00 GMT",
+      "query": "\"SONDA\" \"mobilidade\" \"transporte público\""
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Sonda, do Chile, paga R$ 43 milhões pela brasileira M2M - Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHpnNjczTGRBYzdORUNCZE4ydXhxc2FKLXAwdlBQMERZNHdidXRrMnk0V1MtTlFBYlBKVkN0SV9KdUxJUDk3R0FuSmFwUllXM3ZnMncyVDJPQ3FJWjVEdWFaMDVIS3d1Q1hIaThZMXRuR3RLekVGTk9FbnJsZWV1TDJSdGxYc2h5aHRqb0xMajlNcXU1OUpqQkZweDcyQXk2YkFhVGFVRE5aN201WnJv0gG-AUFVX3lxTE1aZmZPT3IwWFhXWk1LY2ltWFNTdXBCeHVtTWJBaTFUaVVwOGplQ29WS3Zvb3VZMS11N1kwNFYtaWoycm15emJic3JldXRRdlFCSXNONlI0S0xhcjJObUp4cGpjamdJSVZpZmwwNWgzNGMyNFB6MWFrVFJnVHVyVnNUSDd4bVl4YzczQWNZZDU3eDgxdnlrenRJUTlWS0dJTV8xamYxZm9EWVZCNGNDaThEVWdvbi05bVNXTWZURWc?oc=5",
+      "source": "Valor Econômico",
+      "pubDate": "Tue, 22 Jan 2019 08:00:00 GMT",
+      "query": "\"SONDA\" \"mobilidade\" \"transporte público\""
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Pagamento de tarifas de transporte público via QR Code: SONDA é pioneira no modelo e acumula mais de 1,5 milhão de usuários do sistema na América Latina - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaXZwbEJnTVQ3VUQ4aWRwc185UzBvQUt5aGdDbF8zNTZ0M0xyY2U0SWxwTmY2andIckdNS2hnOFF3Y0ZzdnVHMlYzSWI1RDdvUTRQSGtMbktUSVRvdVhDend5WEVsTW4tMGpCWGpyVTdQNGwyNTVYTEtCVHFKSzdDRndfWlBYcEllVVg5R1g1TkdQQ1JBVGRjeEdLTEpicVNPUFlZVmlHSXFDdWRzajgtbFJGNnBDRVFpMlhyYWY0Y2lQMXdaUmNtVUxiODdUTFpNNl9Ba0NzcmhqdFZEWTRHUW9DV0NMMzNtY0lKbHVUSnV1T2NfZElfOWNOdHJkWUJIRGF5RnNkbHFfbjl2LUNWcE9CZm4zWjNPVlVvbG1KV0o2TzDSAagCQVVfeXFMT09iZ01ZRTFyZlRNMXk0YkQtb191bUxTLXBpZ3B6d1JNV3VlVVpTaFFITVNjU2tYRGVuWHV1VlJFalJUczNDdXpNZURETWU0eHcyMG9CT3A4ZENDblhTSUdMemNuZ2pWWnpXMVJVSTRqcU9zb3h4WXJpUmVSRmFNNjZCalVLRGhWOEtZeWNiMHl4OVhxd2RpVm4zN2hTRFpyVnZCODdEaWt5Vy12NnVneGRlRFBVblZpeERUYm1SWUdWbW1DcEN2ZFRqZHYybHdCUTBCa18xaTFmQlVVdEttaF9DZjE5WjNBYk1vdXJkQkFVdVlGZ3lGOEcyamRoSmc4Z3NZN1ZoVVdycXhJNEhhOEpSSnRhSUJhMVRxV0hMb2F0UXRuSG9yMzY?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Thu, 06 Oct 2022 07:00:00 GMT",
+      "query": "\"SONDA\" \"mobilidade\" \"transporte público\""
+    },
+    {
+      "bucket": "SONDA",
+      "title": "Nova linha de ônibus começa a atender o Metrô Parada Inglesa - - Diario dos Trilhos -",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkhaT3laVXdhemRkSjZJVlRGNWRIRUE3R2VLUm9ZeU9mYlJmYkJxOUNoVHMxcjc3eHRyMm5rdzNLOUhLOEhFZG83NmN4Y2hYWVV1eUh3b3hKTnI0N2ZoMDZ2bjZudUx3ZGhxTTRNMFExME5RTWJITWZzbkNzQmhFZWhzYWtEb1ZuS0hsMjJOSWpUZEdGNG1EWHV1X3BWYnNxd1pR?oc=5",
+      "source": "Diario dos Trilhos -",
+      "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT",
+      "query": "\"SONDA\" \"mobilidade\" \"transporte público\""
+    },
+    {
+      "bucket": "Planeta Informática",
+      "title": "Marcelo Sarralha, head de soluções de mobilidade urbana da Visa do Brasil: “A pandemia contribuiu para impulsionar o uso dos pagamentos por aproximação no transporte público” - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZlBFenc2d3BnQXBGc1lHQTh4eXlSZkYzbUwtWEp6U2tSTG5Wa2Fjb0JSQmF5T1MtYmFIaUV4Y0RvXzZUZVAwZDBucDVQYUZNcGwwZFFIWnZpLXpsMWh4TEZsRXdmelFUbkJlYXFSRHhWbmRseDlqSjJGUG9TWVB3MDNLRG1IR3R0YWhLS3h2RFdMWE5KTDVOY09DV0dpVUpZbHVaaUdUNXRDVGkxYU84YkZHcWQyNE5oWDV6NXJXMnREOEM5TFNMOFZMVS0takdtMFhoWkhtYzA0UFRWVXpHUTltMG1rQmJoZlhzM0NJMkNRX1FyeUdTa2dVbFZRUzV5X2UwSnpqanBYZlBDX3c0dXpsNTJka3daWHdUOWRZd1ZSaF9wQjFWbFZHZU1zVDA?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Mon, 03 May 2021 07:00:00 GMT",
+      "query": "\"Planeta Informática\" mobilidade transporte público"
+    },
+    {
+      "bucket": "Planeta Informática",
+      "title": "MetrôRio adota pagamento por aproximação direto na catraca - Mobile Time",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXFSR2ZBa3B0eTVGeE1ZYU5zRll0bnFRM3g0ZENpam9XR0txTGIyRVNvZkc5WlBtblF3dWhOc3NkbkQwNmEzVXRvWjB0aWFUZTJEWklYTkdadVNZTWhRT2Jxa3IyT2U0ZExOQ01VWmNhQmlRalN1dXJ3UjBuM0dON1QycmQzNEpDXzR0M3RQNDhJQU1VVmg4NHJ6UlBZVFJuMDAyZTM3cVo2R2hSZFE?oc=5",
+      "source": "Mobile Time",
+      "pubDate": "Mon, 29 Apr 2019 07:00:00 GMT",
+      "query": "\"Planeta Informática\" mobilidade transporte público"
+    },
+    {
+      "bucket": "Bus2 / Aequante",
+      "title": "Lançado o primeiro app de mobilidade do Paraguai com tecnologia Bus2 - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDFMRGJ3VkwyV25fVGV0bzIwbWtZYm1hNm5qU2NtQkNjb1Qxb1h5Tm4xN1RIUEZTNHFOc0NtMlFsUEZIdE1JZU1wSjV4cVZ5a0w4MDZrMk9YU2xuOTZaODZoT2pMT0xFYVlTUHR4OWFSR0FzN1QyclhKRWNGZ3lZMkU2YzVtb1JtcXhTeTVvZy1KSjFOYTNOaF84MklPU2hGZUlIdVI4Zw?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "query": "\"Bus2\" \"mobilidade\""
+    },
+    {
+      "bucket": "Bus2 / Aequante",
+      "title": "Linhas de ônibus em BH terão mudanças a partir desta quinta-feira (5); veja - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmRXRVN2UW50LUpPNG1xSEEyX25xeDRuSTBBYVNxVTViTC1QXzhITkZCdWhWb3ZNcnQ2OGtnSDJZN2tNdUdMRUJ4VER5NDg5bG0tMDNNaDM0YXVqR09Wemx3d3l6UHdRelFyTDhxby1wWUg3WWJrcDdxa1ZKaTlLY2pOVmdCUHJFTEtiUGR3eFlNYXZ3TWlMb2wtNGRIVmprSmEwdDhNWmJIZ01XdlJBZUtjNGp0YnZIclBN?oc=5",
+      "source": "Rádio Itatiaia",
+      "pubDate": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "query": "\"Bus2\" \"mobilidade\""
+    },
+    {
+      "bucket": "Bus2 / Aequante",
+      "title": "Aplicativo brasileiro vira peça-chave da mobilidade da COP30 e orienta mais de 20 mil usuários em Belém - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLVFMR3pOVnJrS1hFTnozTFlacnRuT2RrdVludmRaX2tFZE5XQkpLZWcyYmRndm9XNXRWbERPWVNSTmIwYlVPVUJuS09yTVJzV2hMWVpPMl9zdWJpVEgwMjllVDhreDh4aHhiSWF0ZU5ZR3FQSE5IY2dSd0ppenlUaXgybi12bVh3T2dkQVV1dXdWakJLUFFnVV94d3NpRTlnT01mWG9NVWRLdnVZQzhZTHdsbmVhUzdKWlozR0lxaENqQWJhaWxJTm04dXQ4eC1MNWllMFZuSjJhdV9XeHRDX3dnRdIB6AFBVV95cUxOSjBsTlN3MTE2NHh1dkRlWlNNTkpmM1hLY2V0WjFMZkxVMHNuNXc1ZGw4OWRSMHQ3LTV4OGl6RVRYUmlxLTA5aERveWkwZEtjV0ZKXzJ0ZlZJdW1HemQzakNKd0J1WEh2ZXVJaVJSTkdDeWhwY1g0bVhNS1Z1QmdTT05yZWhSd3V3eWNPdWhieHBBMGIwdTd0SDVRLW9oZ3Z5cW9OSjYtOVd5aHVneEdVeFF4RThwVUZWdWc2VGJoNllETU1VUEdPNFBZaEFLNnN1eWs0Sk9DbXJZa3ZoWHFaOGxZRWRCZXlh?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 12 Dec 2025 08:00:00 GMT",
+      "query": "\"Bus2\" \"mobilidade\""
+    },
+    {
+      "bucket": "Bus2 / Aequante",
+      "title": "BUS 2 já está disponível nas lojas de aplicativos - Portal do Município de Piracicaba",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTXh4UmFZWS14RUZHbFdSQ0FoT3lvdGFPRWZ1OFlOUFdwb1BEQXp4ekxxeXA5WDV4ZFVYcUIwNXRSbDVlcFh5WUx6QktXRHRRTGRvdDBFUk0xRnhsWDdNQVJwVElkUnVfV2UtdWlCY2UtYzA2dHhHN25tRV9iWGxPNHExMGNKdEpHcDRYXzZSZWE0UQ?oc=5",
+      "source": "Portal do Município de Piracicaba",
+      "pubDate": "Thu, 13 May 2021 07:00:00 GMT",
+      "query": "\"Bus2\" \"mobilidade\""
+    },
+    {
+      "bucket": "Bus2 / Aequante",
+      "title": "Aplicativo BuzzPY com tecnologia da brasileira Bus2 estreia no Paraguai com monitoramento em tempo real de ônibus - Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS1VrVXljdVQwY2xDLV94TWhraGN0SmFkSDlwTmJleFZsa1V4ZHM5ajVid0hpcVN0eEg5MHVXRG1kS3pPQWRxeW4tR0JBSmk4VTJEMVhhTW9OZ203QmlPRGR0Tko2VG5EdlFRS3AwRmFlM2hhVmpPbm45UFBnUTZVcnJzaV82THpzdmk2RDROa3gzekgwbGtWZmlrM01aWDFjcEFHa25XeVhBSS1rM21wTy01QTRKcEU5d2FwM3hhSmZtVmMxOGNFLXJTVDd2LWs2VDVwWmkyY0lKdUtQdWNtYld1TVJ1ZVZlbnAtRUprM3LSAfYBQVVfeXFMT0hQaDRDWlVuSUVib2hCRV95NURyQkIwVWN2M3BFMUdPYjRVNEdGdFJJNDJZZVVWazE5N29yVUNncVZXQ3pGYUUxN0QtcVhlNmJybHB4aDFzcVNKRkZjeENXa2UydTRxbXhVLUx0eDNCbXJ0RTkzU0FMaE1fQjVVb3J1Q0dKenRuOTVMYVBwVzR5X1JwdERMMHJmTGh2OU5tQ1YyRlY0Y2paMUk0WmdJNm5WcDV5M25STU94dFpvY2lDeWtkZXBOcTZvR0YtUXExZFVjR01FcGdvWXZiLVp4OUFvdkl4NnVDUEZzTDZfbXZ0am5lZTVn?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
+      "query": "\"Bus2\" \"mobilidade\""
+    },
+    {
+      "bucket": "Bus2 / Aequante",
+      "title": "Usuários de transporte coletivo de Petrolina já podem utilizar novo aplicativo de mobilidade - G1",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZy1GX19WcUdDMHdxOUZ0clhFa3FhRG1DZ09UWHJvYi1vc2pGVW1Pb0xOQkswaFZpNVBVY1hjTlJqVmRpeDJoUjU1NXh2bk4taEoxQ2pFMnFCWXdrdmhsMm5raWZnVUZFX1hnUS1pV2x4cGdiT3FIVk9MTkFaWjdreTl5cVJfYUdWRzhjMkFkdHNSZjZwZjRrb3B1Z1BtajJkYTAwOVFXZXJKeGV4LWx3dnBFLTdWd1BwUk1iaVJNQWw5NTVjeURNVFhwc2dtS09oWWZHazdsSHBRVEdaNU91dWZ3VXRVRzByYTZTUkcwc9IB_gFBVV95cUxOQzBVcTRPVDRObG5hNld6V05rWjRKNkVfU3g2MDA1Qk1ianNpczROU1J0RGJnZHV3OVAtejZNOGFxQTdFZnJtNjJROG5wcEJWV1pDN0hPTy15WjA0Y1hPbHVHS3VkRmtOcEQ1bkJOd0JXbGJDNkZsc2cxQ1lJU040cVNPdjZ3RmNDVXZuSi1WMzJsMDBEb1dfRmNFd0Jpc28zSXdLVEh5MGl2ajZzQmlCUnZXNFNBcHJEXzJlcWVRczBvend0SlNJS3pPck9wR1phdVhWc0ZaNndhdkt3RVdlLXZDNTd3SjNRZW1Pc3JONDV0YmtrR0JHRUZtQUJLZw?oc=5",
+      "source": "G1",
+      "pubDate": "Tue, 06 Apr 2021 07:00:00 GMT",
+      "query": "\"Bus2\" \"mobilidade\""
+    },
+    {
+      "bucket": "Bus2 / Aequante",
+      "title": "Prefeitura entrega oito novos ônibus e lança aplicativo para acompanhar os transportes em tempo real - Folha BV",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcVAtSU96SmxRYm1mV1lyb0FvZmV4QzF3SXg3cEJzb3BFZl93YjFzT0JndnpfZWdDbmgyMEVHYm5VVFp0Z3pTUmtYQkVQVjYyaHVFeDIxQl9LQnc4RHVSakxLRHFldHExT08xZzE3TUMzbkJnaFBqVkZkeDgwVjNtTFItWnB2UVAxYW1YVkUwRXl5VVZZYUhWdHBBaDdQdXlZUDFUN2VIaS1XNzBuaUxGeHlONUZkV0ZINGZpTk9jdXk0Tk5KSUV4Y3VaQWNiUFZBTW1SLQ?oc=5",
+      "source": "Folha BV",
+      "pubDate": "Mon, 24 Jun 2024 07:00:00 GMT",
+      "query": "\"Bus2\" \"mobilidade\""
+    },
+    {
+      "bucket": "Bus2 / Aequante",
+      "title": "Linhas de ônibus 62, 63 e 6030 terão mais viagens a partir desta segunda-feira - BHAZ",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkMklGcU00aV9VS21IdTh4WWNabXdhelYzVTJZeEVqTUdGUnE0VTFlMTkzb2QwRHlWaFFqZUVYYXNUU2V0T29HLTZ4Q0lVNkE5YVR4NlVjMmozR01qUHFlR1I5TWZ6YzlsdURKUjZpUWY5V3AzSHdXOVhmNA?oc=5",
+      "source": "BHAZ",
+      "pubDate": "Sat, 29 Nov 2025 08:00:00 GMT",
+      "query": "\"Bus2\" \"mobilidade\""
+    },
+    {
+      "bucket": "Temas",
+      "title": "Goiânia ganha destaque nacional com ações de modernização e mobilidade - Zelo - Portal de Noticias",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGNjU1p6UnlPcDdpd0RKN0s1N195V3ZNeVY5XzJtdTlsaG5oTVkzTjRzdFF1Ukc3bDNJU0YzZFBtM0dOMElLQmJEcVVob20ybEpqeXBNLU5TV0dIZldCcXFLcWl4SGNWeWRxNDdFdGl2WTRJcDBxcFZlb1NCalpROXQxZ1ljSkN6cHR0REpneDJvT2t1VXRQVy1yYzRwbWM?oc=5",
+      "source": "Zelo - Portal de Noticias",
+      "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT",
+      "query": "\"smart cities\" mobilidade Brasil transporte público tecnologia"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Goiânia é reconhecida nacionalmente por inovações em transporte e mobilidade - Notícia Toda Hora",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3JwQ0RkMUpqZS1wNlFIeUtFN0N0dElXNVVRM0FlSjhfT291U0t3aGFoNDY2Xy0wMUdBTmZCNDlXbHNlZE5nRXN2d0tWMTdRM0I5NGRnSE1hbGhZSXhvcEd4dWVqdjJBVFZUeUFObHF2VDVMX2dJdXhQX2twWDJCUjc1MkRZMEZNc0pHVm9iZllhZU1qSllSWWV3YkRqNEctUkRkMGZCbllJNzJ1?oc=5",
+      "source": "Notícia Toda Hora",
+      "pubDate": "Sat, 15 Aug 2026 17:00:00 GMT",
+      "query": "\"smart cities\" mobilidade Brasil transporte público tecnologia"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Goiânia recebe premiações por projetos de mobilidade e gestão urbana - Poder Goiás",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmVzY19QTjVGOVY2OWx5NWJSTUVNRFpMMUxvTHBxUmY4UjNORXJPRGFHcjRnV1c4RENmcnRrOUt5U19nRW8zckZYOUUzSFZLTERZVFF6Y01UenlxSy1kS0hlYlFYRFdfVjVKeHNIR2J3eG5TQzJWZlI3T2FxbE1KWXVWVmZqTGt4SnpjdEJOcDMyRnEwNUszQ2RHeTdaYndvMDhOWkVTOUlvelkwSXVOMkZ3?oc=5",
+      "source": "Poder Goiás",
+      "pubDate": "Tue, 18 Aug 2026 11:49:00 GMT",
+      "query": "\"smart cities\" mobilidade Brasil transporte público tecnologia"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Encontro em Santos debate cidades inteligentes e o futuro urbano - Juicy Santos",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3pjOGJ2WXVPZG1fbVZYQnp6Um1rR01objhXWHFrN0dXNzJkWDVfZzJvTjFzSl9fZUhmd0Y3Skl4MmZ3YkxTUy1TRVNCQS16Y3NsTE9VNnRPbjVWbFVQckFXaXpkcExRMTJDTk5BdU5TdXJDeGo4ZWtxbWVLT3dHR3laV0JQYlo0MWxvM0lxeVpKdWNBMi15R1U5a2pmWXhwMkhzV01JSTViVXdPV1JQdUNOV2R3Zw?oc=5",
+      "source": "Juicy Santos",
+      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "query": "\"smart cities\" mobilidade Brasil transporte público tecnologia"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Escola de Governo realiza palestra on-line sobre contratações diretas em licitações - Blog Londrina",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzUHI4dmV6dFQyc2VYVTdHd3pqS3JIQmRyU0x4TnU2TlMtQnVDMmxTckJaNTFXS0pMQjl5RHIwbThVUkRQeEd1R2dpQVYwNkRxLXhR0gFYQVVfeXFMTTMzSTkxcG8zcVFGdE8zeDJIZHM5VUdvTG01TWtzeGJpc1FzbTdSSmN1cW5jTUdhS25JYi1hV0dLOXp4cEd0aGZjV0stcG1qNTdDS3AwUnctZQ?oc=5",
+      "source": "Blog Londrina",
+      "pubDate": "Thu, 21 Dec 2023 08:00:00 GMT",
+      "query": "\"smart cities\" mobilidade Brasil transporte público tecnologia"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Rio Preto é uma das 50 cidades mais inteligentes do país - Prefeitura de São José do Rio Preto (SP)",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMFB2MFRrM0I3aFFKX25xMEw2NUNXalFhTC15SWRiLW10dm55T05TRDhEWmY4S2pHQ05iemppMWE5MXlOUzF4a0xPYmpRUkpNdFAwbXBEb2dTWFdGR0pjWFpWazU3al9pRlRZLUFfeXpNcmF0ZkRQaU1oUEJ0cXdiUW5pZG1iLWxYZDk2WC14X1Q1bGpYMEtuMXdmTkI?oc=5",
+      "source": "Prefeitura de São José do Rio Preto (SP)",
+      "pubDate": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "query": "\"smart cities\" mobilidade Brasil transporte público tecnologia"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Metronização de Goiânia é premiada no Connected Smart Cities 2025, em São Paulo - Jornal Opção",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlpLZExzWTlSTEE0emUzOThoejZoRVFvNzFTejJ0T2E0QjBJX0xpc1I0aWdLNGpNSl9FdGJIcmh6M2RJQUdEcU5Zb0FleXNQSkdNVG5IMjdVQldURzZwR1pyY2toZ3ZOdWtFQkN1QmN3YmdmUUxyeTI5alVIbC1rc2ZIQXVHZEpDWC01ZVNKRmZTdnVFZDltVmdCZXltOXJyTVVLUUtNOUt0eC0xV1h1VS1XUEZhZWN1X0VuNlJZNnlwOFhRRlpFek0weWtEb3M?oc=5",
+      "source": "Jornal Opção",
+      "pubDate": "Fri, 26 Sep 2025 07:00:00 GMT",
+      "query": "\"smart cities\" mobilidade Brasil transporte público tecnologia"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Cidades brasileiras que viraram exemplo mundial em mobilidade urbana — e o que Jundiaí pode aprender com elas - Tribuna de Jundiaí",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVk9tX1VOVElQb1ZSMWhkcENoSUo3T0w2OTk1b3p2c0hjeVdlOFFOZUNvbWxSSjMtSHB0dTRDcERoaHFCc0J4bnJTb2QtQlVNc2ZHT2NjMEJJb2ZwQnZhaTQ0Mm5CSTVLcnVXWXFPdW1iUDFFRWw0dUtoMmpacjVmVEZTTklVZXBEeDBOTlRZTnN6NU1CQXl4aC1Zd3pCQ3B0V0pz?oc=5",
+      "source": "Tribuna de Jundiaí",
+      "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+      "query": "\"cidades inteligentes\" mobilidade urbana tecnologia transporte público Brasil"
+    },
+    {
+      "bucket": "Temas",
+      "title": "‘As metrópoles têm a cultura do carro. Precisamos glamourizar o transporte coletivo’ - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV19nZWZqaEsxdl83eTVhbXU0R05lQzVvSnFpQlRmSzNWMlF0dlJkQUVUeXlYYV9jUkdqZG96QkwyT0JBRjBiR1RjVEhMUjdXSEFLWGw0OXdHUjlhYjFiekNhSHNlU1gwNk9JbHY1Z1dzbUQ2aU5iQUJJNFJNdnNqSkNmM3VabXlJaE4wN0ttdG45S0Y0SUdJUmMzOWRKeU9VOXBvaTVZT2NxMEFFZ3NEY0thOGE1LVHSAbwBQVVfeXFMTVNFZkFUZDA5SWpUM2ZBck9WcmlkZlNqVkdoYVhzWGgzaW10cHdaZHFxZ0hVVHQ5MFREeVJ1T0N5bnBkUHBES29kRUFyZkp1dFlMTlRweEtrel9OcEhyRkpxUjE1VGpmUDEyN1dWa3pzMmx2QkdVbE51amVvVHdhZ2FjMGwycDB5ak1ibmQwa2xtMjJZd2pYUndDMGdhUHctQ3RlZmYwTkNWZEpxcm9lQTBCaEtkQ3N0TzhhY2Q?oc=5",
+      "source": "Estadão",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "query": "\"cidades inteligentes\" mobilidade urbana tecnologia transporte público Brasil"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Mobi+ Porto Alegre integra modais para o planejamento de deslocamentos na cidade - Prefeitura de Porto Alegre",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTQyTEJibE9xWVpkMVR3ZndiZnpNUnBybHBfbTBFZVhTQVZUVU8yTHpmREgyZDBYWmNWV0doZ2dMMUxnbWRaUnh2eWppaF9MZmUwQTVaNE9rSTF0NXZCVzVJWUMweEVyQTFIMlpkWkpTLWZUU2ROSVJkUmxLbXM3OUpJd3l1S0poZnktTUdsQk1BNHJBOTNMSFpwOXlsbFFPVXdLSC1nZUhFbW9QYWNWYlJGZ0JCR3JlLVVR?oc=5",
+      "source": "Prefeitura de Porto Alegre",
+      "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "query": "\"cidades inteligentes\" mobilidade urbana tecnologia transporte público Brasil"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Mobilidade urbana: saiba como a tecnologia impacta na circulação de pessoas e de cargas - AJN1",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODRyanJsM1hURjZWQzFhM1QtOS1YWEdwM0dJd0Zaczg0bWJZb0Y1WTVDdzNmcXpnM3pOTmF4SGh1Y3ZjSmZkX1VHTTdqS05uSmFWOXVvVm80dmxJWUVMUHJYTEF1b1p5UmVTRGduSXVqd1pGYWtDbXFDVTNBR19sSWNLRENOWWozWXpSVlJVcnFXbkhFMkhvVXg5c3YwN29uUGhtbjNhM3hiVUk?oc=5",
+      "source": "AJN1",
+      "pubDate": "Sat, 17 Jan 2026 08:00:00 GMT",
+      "query": "\"cidades inteligentes\" mobilidade urbana tecnologia transporte público Brasil"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Smart City Business 2026 - Mobilize Brasil",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1STExlUXl3QVgwX0hyU204OWhXQ2FINXh1ZFdpTkVPZzNUeUxaR2hadFhDanFsWmJlQVdIdUJoVFhCT09fS2E5dEtfTzUtb015SHBrZm0tSU5CeVpmcHdKRDlOeVV4Z1pmdWRLaFBrdzBPLW9nOGsyRQ?oc=5",
+      "source": "Mobilize Brasil",
+      "pubDate": "Tue, 24 Mar 2026 21:40:22 GMT",
+      "query": "\"cidades inteligentes\" mobilidade urbana tecnologia transporte público Brasil"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Mobilidade urbana inteligente: como tecnologia e planejamento estão redefinindo o transporte nas cidades brasileiras - Engenharia é",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTVF2TFpDZUNEaDh3ZTRDRlFLLThfdHRFeDMzVUw5U3VOWURhUGFuenhaM3BUT3RwUW9vNDJnN29NREwxX1p4MGxSMDFFWE5WcUJTOV9aOHQ0YmhnX0pfandXUElCRTEzbVNnZmE2Y1E1aXJhaTVTcjIweldtUVFPYlBKUjFqX1lWQnlqZ2h5SEd0LUxMbE9WdjZHeFJvSDZkZzhFcWtoT0Q4LTRfYXc2XzJZeEpGVkdNZFVxVGxYSDBIcXpqTUk0QXg3QUhsOUV1M1hndjhuODBkTndRVVN0cjVXbnJ4anoxRXlVT3h6dnFqRS1MdVNpenFLM3A2bXVn?oc=5",
+      "source": "Engenharia é",
+      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "query": "\"cidades inteligentes\" mobilidade urbana tecnologia transporte público Brasil"
+    },
+    {
+      "bucket": "Temas",
+      "title": "As 10 cidades mais inteligentes e sustentáveis do mundo e o que elas fazem diferente no dia a dia - Revista Fórum",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbXMyRmxwZmwtMVlqNTJlcjg4OTBad3c2anBXckVZdC00czU5bm1kb2JxbnJBTFUyRmZnY1MwTkljZGlVSG9CM1pPYUZBN2FZX0ZCNzlDeU5ZMzJveFdDUEZDRkNMNEJOWm9ZU2VBcEthQ194RThkRmZobGQ4NVlXXzJJUGg1WTRlQnhOVGZPZWNjSkxzbGN5VDF6TU0ybDY4X2RyS3JuR1ZGMkhoWERjTWpXTlVsbGR2aWxSNHFjQVlrbXNfUmcxS3AyYUI5bHkzc1RrZ05HYjdLR3p3WjJZ?oc=5",
+      "source": "Revista Fórum",
+      "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
+      "query": "\"cidades inteligentes\" mobilidade urbana tecnologia transporte público Brasil"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Grupo Urb realiza ação exclusiva na 125ª Reunião do Fórum Nacional sobre Mobilidade Urbana - URB News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0N4MzBPMmFkMEdiY2R5T284N2VyRXRSV2Vjd0NiUFdmT2lPaWZtS0xFTlpZbjFIQkYxRnRObGFMUTl5dzRLSS1EWmktSzA2d0NVakNjTS1JbktLMWRUTDAzdldxTFNGWmp6UFZZallobmhac2dGSW9WNWkzNUc4VzdtcnB2SldtcWhqcHBUaS14bjNHdnM0ZnBiczh6SE9zcVF5VlVIOWZlZXk3X0NoXzAwejBQZVpSMElaNmdRT0NyWUE?oc=5",
+      "source": "URB News",
+      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+      "query": "\"cidades inteligentes\" mobilidade urbana tecnologia transporte público Brasil"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Novas Tecnologias a Serviço da Experiencia do Cliente Oficina de Tecnologia da Lat.Bus 2026 - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlR1a2hfS3p4SWNvdlRERmpzaHdvM2RtSk9JcmxLUTFpZHJKZ19qdmw0VkRHeUllRUpvOWZsYlI4TkpPRWppdms0MnFaemFQVUJ0ZmgtSDhQMkdDSWd6M3VZTFVuMmRzNjEzMnJSNlI0Ni1VQ1dKRUp2TEM5UTV6aElUNW5rSktEamlodk96blAxdnpWZUdxSncwOVNwTzdIUHBENVBzU1dIMVZDT2FkZU5MZzJFcmdDUzRSRjMwZW8xMFlFcGc?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Mon, 28 Sep 2026 11:26:14 GMT",
+      "query": "IA mobilidade urbana transporte público Brasil bilhetagem"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Fim do ônibus de graça? Cidades começam a cancelar tarifa zero por falta de dinheiro - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWpTR213eG8tcVhhWmladURsM2RjcDJUV1hkVWdWc3B2UFdydkpQRENnaFRmNlhhSTlCYVRfSEY2ekNqaFRXMjBMVlEyUXFMWW1IaElKekRTYkR5VFQ5RXM5NFA2aHRXZGxkR2dBTE9WMFZ3b19QUWo5NC1VSkV2NmlmbEhkYWYzZFpZaDRDSGJOWTVKZnIzYQ?oc=5",
+      "source": "NSC Total",
+      "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT",
+      "query": "IA mobilidade urbana transporte público Brasil bilhetagem"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Foco no cliente e uso de Inteligência Artificial (IA) dominaram os debates da Oficina da Tecnologia - technibus.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWN0c2J2eEhZaXJ0SnFBV1VFTlBpVG1BY0N5Z3ZUS25PdzJsOHpsX2N5WGlCdUZtN2hEXy1nNHdRUEFHZmhENUpLd2ZxSlJwSDhXQWJQd2d0QlQ0LWs5NGQ2YWw2WDd6LTZIYXZKYkFfYWl1cEg4cFpzMkZHaHBYMlNEUUhFcWRkbjExUlF1aDlBbHp1SnlaRFY2OVpKZ1h0RW81YV9ueE9YSXNJWUdoR1BUSTRJNnJvWHU0VmxkQnpvT3FmWHNZTHdBb29JUQ?oc=5",
+      "source": "technibus.com.br",
+      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "query": "IA mobilidade urbana transporte público Brasil bilhetagem"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Lula sanciona novo Marco Legal do Transporte Público com veto a gratuidades - InfoMoney",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUms1R0FxS2p4NGFYN2FwaEtyTnhiUF85NmlEc0VHdU02aVdmbm9wWnhjdGxIYXVZTGJBUnpxSE5sRG1LamtjS3dLMmNjcmRqNVZNd295Y0RzNVBuYy1tVnU5czNtTEhpdkcyQlM5cEo1NHkteVdIbklTRWRUQkk3aFpCY3luVG14VlNBUFFNV1ZvRUFuUlo0c2RUMTl1MHpSaTNydllFR29yQkQzbjk3SmVTbUvSAboBQVVfeXFMTjRFZWNOU1hyWFhhSDV0UFN6a0lnLXV1bnZiczVxejdkLWN0UDlOQnZsZGVvTmpoOExDcEI0TnMyZmcwRHBzUmZReUlxRGthZEV3cHU1Wk9MUTh4S2MwV3RNUWVxTkNsWE5HWUdoajVfdk52U3dsYUx6ZzRRaVRSb2ZkdlpRLXE2RGc4VGxMOGYyUVVfYnZtV0Y3SEJGa3pDUVBCRDBuNkxSU0JMV0pBWjRLRWVxUkJtMk9n?oc=5",
+      "source": "InfoMoney",
+      "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT",
+      "query": "IA mobilidade urbana transporte público Brasil bilhetagem"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Brasil projeta 187 novos ramais de trilhos e pneus - - Via Trolebus",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUZUajFlNFAtaTNYWWZ6bUsxWEZIS0FEcng0OVhXYmdVWGs4MUdWSzdFVXdZSUlDQW16QmJSbFVPbGMteUtIQ2xwTXBNaTdrTXN4amY0OGNBRS1tN2s2NWh0cG9FVmFvaFdZRjUxdFk5ZVd3Z2lZOFZaTkRHbkRFU3lPRVliTWNoUV9tVEg4WQ?oc=5",
+      "source": "Via Trolebus",
+      "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
+      "query": "IA mobilidade urbana transporte público Brasil bilhetagem"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Serviço com IA permite recarregar bilhete de ônibus pelo WhatsApp - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2NPenBtQXVGaURRSmNLZkpSY3ozWnF5NDFYNUY2QmFrRi1CR2FFbDVWaThidDEtQnZXTkNjYkd5dVRmbVVZamFKSzVZWkptR1FHVWp1dzAtR2ZoRVNqbk1sYkNrenVmamx5d3FHWS11MjBhT3ZoYkRDeHFya0VUT3FfNy1wbUR1aTVWSEdjcmpfb2hCQVJicUFyVWhkdzEwZjg3NHkyRkRWNVFEMk04?oc=5",
+      "source": "VEJA",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
+      "query": "IA mobilidade urbana transporte público Brasil bilhetagem"
+    },
+    {
+      "bucket": "Temas",
+      "title": "Pagamento por aproximação no transporte de SP impulsiona Autopass sob pressão do TCE - Economic News Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmJYeGpFX2N3Mjk3cUtWU0FFN0RiZGFvLW4zTHY5UHJHTkdYR0htZ2RIdFJlQVNpSUFHUURaaDg3amJ1enBYa1Z2N2gyX1B1NUNmeEplRVJ2LVVSYVh2UUh3Y1BUd0tqVUNUSmIwbW9TUDhtV0VWUFM3SkR2MXNOWUNLYWxuNXBvRWtta0tzUlM3aEhSbHk4NWJ0a0szWm4wOXlB?oc=5",
+      "source": "Economic News Brasil",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
+      "query": "IA mobilidade urbana transporte público Brasil bilhetagem"
+    }
+  ]
+}
