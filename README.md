@@ -10,16 +10,23 @@ Monitoramento semanal de inteligência sobre **smart cities** e **tecnologias ap
 
 Rascunho interno. Não publicar em GitHub Pages aberto sem decisão explícita de acesso.
 
-## Associadas iniciais
+## Associadas oficiais mapeadas no site ABtec
 
-- Prodata
-- Transdata
-- Onboard
-- Empresa 1
+Fonte validada: https://abtecbr.org/associadas
+
+- Bus2
 - Cittati
-- SONDA
+- Empresa 1
+- ONBOARD
 - Planeta Informática
-- Bus2 / Aequante
+- Prodata Mobility Brasil
+- SONDA
+- Transdata
+
+Arquivos estruturados:
+
+- `fontes/associadas_abtec_oficial.csv`
+- `fontes/associadas_abtec_oficial.json`
 
 ## Estrutura sugerida da edição semanal
 

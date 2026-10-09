@@ -1,0 +1,26 @@
+{
+  "data_validacao": "2026-09-17",
+  "fonte_principal": "https://abtecbr.org/associadas",
+  "entidade": {
+    "nome": "ABtec Mobilidade",
+    "nome_completo": "Associação Brasileira de Tecnologia para a Mobilidade",
+    "site": "https://abtecbr.org/",
+    "cnpj_publicado_no_site": "66.394.481/0001-75"
+  },
+  "associadas": [
+    {"nome": "Bus2", "site": "https://bus2.me/", "logo_abtec": "https://abtecbr.org/assets/images/members/bus2.png", "aliases": ["Bus2", "Aequante", "Aequante (Bus2)"]},
+    {"nome": "Cittati", "site": "https://www.cittati.com.br/", "logo_abtec": "https://abtecbr.org/assets/images/members/cittati.svg", "aliases": ["Cittati", "CittaMobi", "Cittati Tecnologia"]},
+    {"nome": "Empresa 1", "site": "https://www.empresa1.com.br/", "logo_abtec": "https://abtecbr.org/assets/images/members/empresa1.svg", "aliases": ["Empresa 1", "Empresa1", "Empresa 1 Tecnologia"]},
+    {"nome": "ONBOARD", "site": "https://onboardmobility.com/", "logo_abtec": "https://abtecbr.org/assets/images/members/onboard.png", "aliases": ["ONBOARD", "Onboard", "Onboard Mobility"]},
+    {"nome": "Planeta Informática", "site": "https://www.planeta.inf.br/br/", "logo_abtec": "https://abtecbr.org/assets/images/members/planeta.png", "aliases": ["Planeta Informática", "Planeta"]},
+    {"nome": "Prodata Mobility Brasil", "site": "https://www.prodatamobility.com.br/", "logo_abtec": "https://abtecbr.org/assets/images/members/prodata.png", "aliases": ["Prodata", "Prodata Mobility", "Prodata Mobility Brasil"]},
+    {"nome": "SONDA", "site": "https://www.sonda.com/pt/inicio", "logo_abtec": "https://abtecbr.org/assets/images/members/sonda.svg", "aliases": ["SONDA", "Sonda", "SONDA Brasil"]},
+    {"nome": "Transdata", "site": "https://www.itstransdata.com/", "logo_abtec": "https://abtecbr.org/assets/images/members/transdata.png", "aliases": ["Transdata", "ITS Transdata", "Transdata Smart"]}
+  ],
+  "observacoes_editoriais": [
+    "Lista extraída da página oficial /associadas da ABtec Mobilidade.",
+    "Empresa 1 e Planeta Informática exigem busca com contexto para evitar falsos positivos.",
+    "Bus2 deve ser monitorada também como Aequante/Aequante (Bus2).",
+    "SONDA exige recorte Brasil/mobilidade para evitar ruído corporativo amplo."
+  ]
+}

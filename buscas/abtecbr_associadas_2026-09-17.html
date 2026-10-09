@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5E2GBM9H8K"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-5E2GBM9H8K');
+    </script>
+
+<!-- ================ CHARSET & VIEWPORT ================ -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<!-- ================ PRIMARY SEO META ================ -->
+<title>Empresas Associadas | ABtec Mobilidade — Associação Brasileira de Tecnologia para a Mobilidade</title>
+<meta content="Conheça as empresas associadas da ABtec Mobilidade — desenvolvedoras de pesquisa, desenvolvimento e engenharia nacional em mobilidade urbana." name="description"/>
+<meta content="ABtec Mobilidade" name="author"/>
+<meta content="index, follow, max-image-preview:large" name="robots"/>
+<meta content="Portuguese" name="language"/>
+<meta content="BR-DF" name="geo.region"/>
+<meta content="Brasília" name="geo.placename"/>
+<!-- ================ CANONICAL ================ -->
+<link href="https://abtecbr.org/associadas.html" rel="canonical"/>
+<!-- ================ THEME / PWA ================ -->
+<meta content="#14296a" name="theme-color"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="ABtec" name="apple-mobile-web-app-title"/>
+<link href="site.webmanifest" rel="manifest"/>
+<!-- ================ FAVICONS ================ -->
+<link href="assets/images/abtec-logo.png" rel="icon" type="image/png"/>
+<link href="assets/images/abtec-logo.png" rel="apple-touch-icon"/>
+<!-- ================ FONTS ================ -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet"/>
+<!-- ================ STYLES ================ -->
+<link href="css/styles.css" rel="stylesheet"/>
+<style>
+        .members-full-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 24px;
+            margin-top: 36px;
+        }
+        .member-box {
+            background: var(--white);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            padding: 28px 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: var(--shadow-sm);
+            transition: transform .25s var(--ease), box-shadow .25s var(--ease);
+            min-height: 120px;
+        }
+        .member-box:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-md);
+        }
+        .member-box img {
+            max-width: 160px;
+            max-height: 60px;
+            object-fit: contain;
+        }
+    </style>
+</head>
+<body data-i18n-page="associadas">
+<!-- ============ HEADER ============ -->
+<header class="header" id="header">
+<div class="container header__container">
+<a aria-label='ABtec Mobilidade - Página Inicial' class='header__logo' href='/'>
+<img alt="ABtec Mobilidade" decoding="async" height="64" src="assets/images/abtec-logo.png" width="220"/>
+</a>
+            <nav class="nav" aria-label="Navegação principal">
+                <ul class="nav__list">
+                    <!-- ===== DROPDOWN: ABtec ===== -->
+                    <li class="nav__item nav__item--dropdown is-active">
+                        <button type="button" class="nav__link nav__dropdown-toggle" id="navAbtecBtn" aria-expanded="false" aria-haspopup="true" aria-controls="navAbtecMenu">
+                            <span>ABtec</span>
+                            <svg class="nav__chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+                                <path d="M2.5 4.5L6 8L9.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </button>
+                        <ul class="nav__dropdown" id="navAbtecMenu" role="menu" aria-labelledby="navAbtecBtn">
+                            <li role="none"><a data-en='About Us' data-es='Quiénes Somos' data-pt='Quem Somos' href='/quem-somos' role='menuitem'>Quem somos</a></li>
+                            <li role="none"><a data-en='Manifesto' data-es='Manifiesto' data-pt='Manifesto' href='/manifesto' role='menuitem'>Manifesto</a></li>
+                            <li role="none"><a data-en='Members' data-es='Miembros' data-pt='Membros' href='/membros' role='menuitem'>Membros</a></li>
+                            <li role="none"><a class='is-active' data-en='Member Companies' data-es='Empresas Asociadas' data-pt='Empresas Associadas' href='/associadas' role='menuitem'>Empresas Associadas</a></li>
+                            <li role="none"><a data-en='Working Groups' data-es='Grupos de Trabajo' data-pt='Grupos de Trabalho' href='/grupos-de-trabalho' role='menuitem'>Grupos de Trabalho</a></li>
+                        </ul>
+                    </li>
+                    <!-- ===== DROPDOWN: COMUNICAÇÃO ===== -->
+                    <li class="nav__item nav__item--dropdown">
+                        <button type="button" class="nav__link nav__dropdown-toggle" id="navComunicacaoBtn" aria-expanded="false" aria-haspopup="true" aria-controls="navComunicacaoMenu">
+                            <span data-pt="Central de Comunicação" data-en="Communications Hub" data-es="Centro de Comunicación">Central de Comunicação</span>
+                            <svg class="nav__chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+                                <path d="M2.5 4.5L6 8L9.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </button>
+                        <ul class="nav__dropdown" id="navComunicacaoMenu" role="menu" aria-labelledby="navComunicacaoBtn">
+                            <li role="none"><a data-en='Communications Hub' data-es='Centro de Comunicación' data-pt='Central de Comunicação' href='/comunicacao/' role='menuitem' style='font-weight: 700; color: var(--abtec-navy);'>Central de Comunicação</a></li>
+                            <li role="none"><a data-en='Articles' data-es='Artículos' data-pt='Artigos' href='/comunicacao/artigos' role='menuitem'>Artigos</a></li>
+                            <li role="none"><a data-en='Press Releases' data-es='Comunicados' data-pt='Releases' href='/comunicacao/releases' role='menuitem'>Releases</a></li>
+                            <li role="none"><a data-en='Sector News' data-es='Noticias del Sector' data-pt='Notícias do Setor' href='/comunicacao/noticias' role='menuitem'>Notícias do Setor</a></li>
+                            <li role="none"><a data-en='Gallery' data-es='Galería' data-pt='Galeria' href='/comunicacao/galeria' role='menuitem'>Galeria</a></li>
+                            <li role="none"><a data-en='FAQ' data-es='FAQ' data-pt='FAQ' href='/comunicacao/faq' role='menuitem'>FAQ</a></li>
+                        </ul>
+                    </li>
+                    <!-- ===== DROPDOWN: GOVERNANÇA ===== -->
+                    <li class="nav__item nav__item--dropdown">
+                        <button type="button" class="nav__link nav__dropdown-toggle" id="navGovernancaBtn" aria-expanded="false" aria-haspopup="true" aria-controls="navGovernancaMenu">
+                            <span data-pt="Governança" data-en="Governance" data-es="Gobernanza">Governança</span>
+                            <svg class="nav__chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+                                <path d="M2.5 4.5L6 8L9.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </button>
+                        <ul class="nav__dropdown" id="navGovernancaMenu" role="menu" aria-labelledby="navGovernancaBtn">
+                            <li role="none"><a data-en='Statute' data-es='Estatuto' data-pt='Estatuto' href='/estatuto' role='menuitem'>Estatuto</a></li>
+                            <li role="none"><a data-en='Principles' data-es='Principios' data-pt='Princípios' href='/quem-somos#principios' role='menuitem'>Princípios</a></li>
+                        </ul>
+                    </li>
+                    <!-- ===== CONTATOS ===== -->
+                    <li><a class='nav__link' data-en='Contacts' data-es='Contactos' data-pt='Contatos' href='/contatos'>Contatos</a></li>
+                </ul>
+                <div class="lang-switcher notranslate" translate="no" role="group" aria-label="Idioma">
+                    <button type="button" class="lang-switcher__btn notranslate" translate="no" data-lang="pt-BR" title="Português">PT</button>
+                    <button type="button" class="lang-switcher__btn notranslate" translate="no" data-lang="en" title="English">EN</button>
+                    <button type="button" class="lang-switcher__btn notranslate" translate="no" data-lang="es" title="Español">ES</button>
+                </div>
+                <a href="https://abtec-portal.abtec.workers.dev/login" class="btn nav__portal"><svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="8" cy="5.5" r="2.75" stroke="currentColor" stroke-width="1.4"/><path d="M2.75 14c.85-2.45 2.9-3.7 5.25-3.7S12.4 11.55 13.25 14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg><span data-pt="Área do Associado" data-en="Member Area" data-es="Área del Asociado">Área do Associado</span></a>
+                <a class='btn btn--primary nav__cta' data-en='Join Us' data-es='Únase' data-pt='Associe-se' href='/#cta'><span data-pt="Associe-se" data-en="Join Us" data-es="Únase">Associe-se</span></a>
+            </nav>
+<button aria-expanded="false" aria-label="Abrir menu" class="nav__toggle" id="navToggle">
+<span></span><span></span><span></span>
+</button>
+</div>
+</header>
+<!-- ============ PAGE HERO ============ -->
+<section class="page-hero">
+<div class="container">
+<nav aria-label="Navegação de migalhas de pão" class="breadcrumb" style="margin-bottom: 16px;">
+<a data-en='Home' data-es='Inicio' data-pt='Início' href='/'>Início</a>
+<span style="margin: 0 8px;">/</span>
+<span>ABtec</span>
+<span style="margin: 0 8px;">/</span>
+<span class="active" data-en="Member Companies" data-es="Empresas Asociadas" data-pt="Empresas Associadas">Empresas Associadas</span>
+</nav>
+<h1 class="page-hero__title" data-pt="Empresas Associadas" data-en="Member Companies" data-es="Empresas Asociadas">
+                Empresas Associadas
+            </h1>
+<p class="page-hero__lead">
+                Conheça as empresas brasileiras de pesquisa, desenvolvimento e inovação tecnológica em mobilidade que integram a ABtec Mobilidade.
+            </p>
+</div>
+</section>
+<!-- ============ CONTEÚDO PRINCIPAL ============ -->
+<section class="section section--light">
+<div class="container">
+<div class="section__head">
+<span class="eyebrow">Quem Faz Parte</span>
+<h2 class="section__title">Nossas Associadas</h2>
+<span class="section__divider"></span>
+<p class="section__lead">Empresas com centro de P&amp;D e engenharia instalados no Brasil, comprometidas com a soberania e qualidade do transporte público.</p>
+</div>
+<!-- Grade Estática Elegante de Empresas Fundadoras em Ordem Alfabética -->
+<div class="members-static-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 24px; margin: 40px 0 50px;">
+<!-- 1. Bus2 -->
+<a class="member-card-static" href="https://bus2.me/" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow-sm)'; this.style.borderColor='var(--border)';" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--shadow-md)'; this.style.borderColor='var(--abtec-blue-light)';" rel="noopener noreferrer" style="background: #fff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 32px 24px; text-align: center; text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 150px; box-shadow: var(--shadow-sm); transition: all 0.25s var(--ease);" target="_blank">
+<img alt="Bus2" src="assets/images/members/bus2.png" style="max-width: 150px; max-height: 55px; width: auto; height: auto; object-fit: contain; margin-bottom: 12px;"/>
+<span class="notranslate" style="font-size: 0.85rem; font-weight: 700; color: var(--abtec-navy);">Bus2</span>
+</a>
+<!-- 2. Cittati -->
+<a class="member-card-static" href="https://www.cittati.com.br/" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow-sm)'; this.style.borderColor='var(--border)';" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--shadow-md)'; this.style.borderColor='var(--abtec-blue-light)';" rel="noopener noreferrer" style="background: #fff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 32px 24px; text-align: center; text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 150px; box-shadow: var(--shadow-sm); transition: all 0.25s var(--ease);" target="_blank">
+<img alt="Cittati" src="assets/images/members/cittati.svg" style="max-width: 150px; max-height: 55px; width: auto; height: auto; object-fit: contain; margin-bottom: 12px;"/>
+<span class="notranslate" style="font-size: 0.85rem; font-weight: 700; color: var(--abtec-navy);">Cittati</span>
+</a>
+<!-- 3. Empresa 1 -->
+<a class="member-card-static" href="https://www.empresa1.com.br/" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow-sm)'; this.style.borderColor='var(--border)';" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--shadow-md)'; this.style.borderColor='var(--abtec-blue-light)';" rel="noopener noreferrer" style="background: #fff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 32px 24px; text-align: center; text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 150px; box-shadow: var(--shadow-sm); transition: all 0.25s var(--ease);" target="_blank">
+<img alt="Empresa 1" src="assets/images/members/empresa1.svg" style="max-width: 150px; max-height: 55px; width: auto; height: auto; object-fit: contain; margin-bottom: 12px;"/>
+<span class="notranslate" style="font-size: 0.85rem; font-weight: 700; color: var(--abtec-navy);">Empresa 1</span>
+</a>
+<!-- 4. ONBOARD -->
+<a class="member-card-static" href="https://onboardmobility.com/" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow-sm)'; this.style.borderColor='var(--border)';" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--shadow-md)'; this.style.borderColor='var(--abtec-blue-light)';" rel="noopener noreferrer" style="background: #fff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 32px 24px; text-align: center; text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 150px; box-shadow: var(--shadow-sm); transition: all 0.25s var(--ease);" target="_blank">
+<img alt="ONBOARD" src="assets/images/members/onboard.png" style="max-width: 150px; max-height: 55px; width: auto; height: auto; object-fit: contain; margin-bottom: 12px;"/>
+<span class="notranslate" style="font-size: 0.85rem; font-weight: 700; color: var(--abtec-navy);">ONBOARD</span>
+</a>
+<!-- 5. Planeta Informática -->
+<a class="member-card-static" href="https://www.planeta.inf.br/br/" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow-sm)'; this.style.borderColor='var(--border)';" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--shadow-md)'; this.style.borderColor='var(--abtec-blue-light)';" rel="noopener noreferrer" style="background: #fff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 32px 24px; text-align: center; text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 150px; box-shadow: var(--shadow-sm); transition: all 0.25s var(--ease);" target="_blank">
+<img alt="Planeta Informática" src="assets/images/members/planeta.png" style="max-width: 150px; max-height: 55px; width: auto; height: auto; object-fit: contain; margin-bottom: 12px;"/>
+<span class="notranslate" style="font-size: 0.85rem; font-weight: 700; color: var(--abtec-navy);">Planeta Informática</span>
+</a>
+<!-- 6. Prodata Mobility Brasil -->
+<a class="member-card-static" href="https://www.prodatamobility.com.br/" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow-sm)'; this.style.borderColor='var(--border)';" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--shadow-md)'; this.style.borderColor='var(--abtec-blue-light)';" rel="noopener noreferrer" style="background: #fff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 32px 24px; text-align: center; text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 150px; box-shadow: var(--shadow-sm); transition: all 0.25s var(--ease);" target="_blank">
+<img alt="Prodata Mobility Brasil" src="assets/images/members/prodata.png" style="max-width: 150px; max-height: 55px; width: auto; height: auto; object-fit: contain; margin-bottom: 12px;"/>
+<span class="notranslate" style="font-size: 0.85rem; font-weight: 700; color: var(--abtec-navy);">Prodata Mobility Brasil</span>
+</a>
+<!-- 7. SONDA -->
+<a class="member-card-static" href="https://www.sonda.com/pt/inicio" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow-sm)'; this.style.borderColor='var(--border)';" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--shadow-md)'; this.style.borderColor='var(--abtec-blue-light)';" rel="noopener noreferrer" style="background: #fff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 32px 24px; text-align: center; text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 150px; box-shadow: var(--shadow-sm); transition: all 0.25s var(--ease);" target="_blank">
+<img alt="SONDA" src="assets/images/members/sonda.svg" style="max-width: 150px; max-height: 55px; width: auto; height: auto; object-fit: contain; margin-bottom: 12px;"/>
+<span class="notranslate" style="font-size: 0.85rem; font-weight: 700; color: var(--abtec-navy);">SONDA</span>
+</a>
+<!-- 8. Transdata -->
+<a class="member-card-static" href="https://www.itstransdata.com/" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow-sm)'; this.style.borderColor='var(--border)';" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--shadow-md)'; this.style.borderColor='var(--abtec-blue-light)';" rel="noopener noreferrer" style="background: #fff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 32px 24px; text-align: center; text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 150px; box-shadow: var(--shadow-sm); transition: all 0.25s var(--ease);" target="_blank">
+<img alt="Transdata" src="assets/images/members/transdata.png" style="max-width: 150px; max-height: 55px; width: auto; height: auto; object-fit: contain; margin-bottom: 12px;"/>
+<span class="notranslate" style="font-size: 0.85rem; font-weight: 700; color: var(--abtec-navy);">Transdata</span>
+</a>
+</div>
+<!-- Botão Seja um Associado -->
+<div style="margin-top: 40px; text-align: center;">
+    <a class='btn btn--primary btn--lg' data-en='Become a member' data-es='Hazte socio' data-pt='Seja um associado' href='/#cta'>Seja um associado</a>
+</div>
+</div>
+</section>
+<!-- ============ FOOTER ============ -->
+<footer class="footer" id="governanca">
+<div class="container footer__container">
+                                                            <div class="footer__brand">
+                <img src="assets/images/abtec-logo-white.png"
+                     alt="ABtec Mobilidade — logo branca para fundo escuro"
+                     class="footer__logo"
+                     width="240" height="80"
+                     loading="lazy"
+                     decoding="async">
+                <div class="footer__boxes">
+                    <!-- Box CNPJ -->
+                    <div class="footer__legal">
+                        <p class="footer__legal-name"
+                           data-pt="Associação Brasileira de Tecnologia para a Mobilidade — ABtec Mobilidade"
+                           data-en="Brazilian Association of Technology for Mobility — ABtec Mobilidade"
+                           data-es="Asociación Brasileña de Tecnología para la Mobilidade — ABtec Mobilidade">
+                            Associação Brasileira de Tecnologia para a Mobilidade — ABtec Mobilidade
+                        </p>
+                        <p class="footer__legal-line">
+                            <span class="footer__legal-label" data-pt="CNPJ:" data-en="Tax ID (CNPJ):" data-es="CNPJ:">CNPJ:</span>
+                            <span class="footer__legal-value">66.394.481/0001-75</span>
+                        </p>
+                    </div>
+                    <!-- Box Núcleo de Comunicação e Marketing -->
+                    <div class="footer__legal">
+                        <p class="footer__nucleo-title"
+                           data-pt="Núcleo de Comunicação e Marketing"
+                           data-en="Communication &amp; Marketing Core"
+                           data-es="Núcleo de Comunicación y Marketing"
+                           style="color: var(--abtec-yellow); text-transform: uppercase; font-size: 0.72rem; letter-spacing: 0.05em; font-weight: 700; margin-bottom: 6px;">
+                            Núcleo de Comunicação e Marketing
+                        </p>
+                        <strong style="display: block; color: #ffffff; font-weight: 600; font-size: 0.88rem; margin-bottom: 2px;"
+                                data-pt="Renata Veríssimo" data-en="Renata Veríssimo" data-es="Renata Veríssimo">
+                            Renata Veríssimo
+                        </strong>
+                        <a href="mailto:renata@impactorvcomunicacao.com.br" class="footer__nucleo-email">
+                            renata@impactorvcomunicacao.com.br
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+<div class="footer__nav">
+                <div class="footer__col">
+                    <h5 data-pt="ABtec" data-en="ABtec" data-es="ABtec">ABtec</h5>
+                    <ul>
+                        <li><a data-en='About Us' data-es='Quiénes Somos' data-pt='Quem Somos' href='/quem-somos'>Quem Somos</a></li>
+                        <li><a data-en='Manifesto' data-es='Manifiesto' data-pt='Manifesto' href='/manifesto'>Manifesto</a></li>
+                        <li><a data-en='Members' data-es='Miembros' data-pt='Membros' href='/membros'>Membros</a></li>
+                        <li><a data-en='Member Companies' data-es='Empresas Asociadas' data-pt='Empresas Associadas' href='/associadas'>Empresas Associadas</a></li>
+                        <li><a data-en='Working Groups' data-es='Grupos de Trabajo' data-pt='Grupos de Trabalho' href='/grupos-de-trabalho'>Grupos de Trabalho</a></li>
+                        <li><a href="https://abtec-portal.abtec.workers.dev/login" data-pt="Área do Associado" data-en="Member Area" data-es="Área del Asociado">Área do Associado</a></li>
+                    </ul>
+                </div>
+                <div class="footer__col">
+                    <h5 data-pt="Governança" data-en="Governance" data-es="Gobernanza">Governança</h5>
+                    <ul>
+                        <li><a data-en='Statute' data-es='Estatuto' data-pt='Estatuto' href='/estatuto'>Estatuto</a></li>
+                        <li><a data-en='Principles' data-es='Principios' data-pt='Princípios' href='/quem-somos#principios'>Princípios</a></li>
+                    </ul>
+                </div>
+                <div class="footer__col">
+                    <h5 data-pt="Comunicação" data-en="Communications" data-es="Comunicación">Comunicação</h5>
+                    <ul>
+                        <li><a data-en='Articles' data-es='Artículos' data-pt='Artigos' href='/comunicacao/artigos'>Artigos</a></li>
+                        <li><a data-en='Press Releases' data-es='Comunicados' data-pt='Releases' href='/comunicacao/releases'>Releases</a></li>
+                        <li><a data-en='Sector News' data-es='Noticias del Sector' data-pt='Notícias do Setor' href='/comunicacao/noticias'>Notícias do Setor</a></li>
+                        <li><a data-en='Gallery' data-es='Galería' data-pt='Galeria' href='/comunicacao/galeria'>Galeria</a></li>
+                        <li><a data-en='FAQ / Common Questions' data-es='Preguntas Frecuentes' data-pt='FAQ / Dúvidas Frequentes' href='/comunicacao/faq'>FAQ / Perguntas Frequentes</a></li>
+                    </ul>
+                </div>
+                <div class="footer__col">
+                    <h5 data-pt="Contato" data-en="Contact" data-es="Contacto">Contato</h5>
+                    <ul>
+                        <li><a href="mailto:contato@abtecbr.org">contato@abtecbr.org</a></li>
+                        <li class="footer__address"
+                            data-pt="ST SCS, Quadra 01, Bloco M, Sobreloja 09 a 13 — Asa Sul, Brasília/DF — CEP 70.305-900"
+                            data-en="ST SCS, Block 01, M Block, Mezzanine 09-13 — Asa Sul, Brasília/DF — ZIP 70.305-900"
+                            data-es="ST SCS, Cuadra 01, Bloque M, Entreplanta 09-13 — Asa Sul, Brasília/DF — CEP 70.305-900">
+                            ST SCS, Quadra 01, Bloco M, Sobreloja 09 a 13 — Asa Sul, Brasília/DF — CEP 70.305-900
+                        </li>
+                    </ul>
+                </div>
+            </div>
+</div>
+<div class="footer__bottom">
+<div class="container footer__bottom-container">
+<p>© 2026 ABtec Mobilidade. <span data-en="All rights reserved." data-es="Todos los derechos reservados." data-pt="Todos os direitos reservados.">Todos os direitos reservados.</span></p>
+<p class="footer__slogan" data-en="Brazilian technology for mobility." data-es="Tecnología brasileña para la movilidad." data-pt="Tecnologia brasileira para a mobilidade.">Tecnologia brasileira para a mobilidade.</p>
+</div>
+</div>
+</footer>
+<!-- ================ SCRIPTS ================ -->
+<script defer="" src="js/main.js"></script>
+<script src="js/i18n.js"></script>
+</body>
+</html>
