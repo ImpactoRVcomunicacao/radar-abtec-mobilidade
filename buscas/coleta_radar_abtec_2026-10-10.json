@@ -1694,6 +1694,20 @@
       "empresa": "Prodata Mobility Brasil",
       "score": 6,
       "keywords": [
+        "transporte público",
+        "BRT",
+        "IA"
+      ],
+      "title": "Prodata Mais Mobi leva tecnologia brasileira ao maior evento de transporte público dos EUA - Diário do Transporte",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbTNWVVYtTEdtLU16ZUlOLTZFWmlyY3ZRR1FlaTlkR0hpcGlrU0diMWVhOHNEYlFiS01ydGdDT1M0Qk9obTdqWmVmQmJ0ZU42NW1KcHVnZTNBaHVIQW1LSmZ4X3F3N2pLZl9GWEJwZ0pib19oV1QwTUVlYUEzTXlrQ1JTWEtOa2NDSFA4bUhvNUoyTlkyVkZlSC1CdWVTWEo0N1czMzY5Q3JNRllKUi1qWDQ1OVU5YWF5Q3cxSHBRTVVUdTdiUlNwdXRGOWRMOTBBbUJUc09KWdIB1wFBVV95cUxPbTNWVVYtTEdtLU16ZUlOLTZFWmlyY3ZRR1FlaTlkR0hpcGlrU0diMWVhOHNEYlFiS01ydGdDT1M0Qk9obTdqWmVmQmJ0ZU42NW1KcHVnZTNBaHVIQW1LSmZ4X3F3N2pLZl9GWEJwZ0pib19oV1QwTUVlYUEzTXlrQ1JTWEtOa2NDSFA4bUhvNUoyTlkyVkZlSC1CdWVTWEo0N1czMzY5Q3JNRllKUi1qWDQ1OVU5YWF5Q3cxSHBRTVVUdTdiUlNwdXRGOWRMOTBBbUJUc09KWQ?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 09 Oct 2026 13:15:55 GMT",
+      "query": "\"Prodata Mobility Brasil\" mobilidade transporte público tecnologia"
+    },
+    {
+      "empresa": "Prodata Mobility Brasil",
+      "score": 6,
+      "keywords": [
         "mobilidade urbana",
         "transporte público",
         "IA"
@@ -1703,20 +1717,6 @@
       "source": "Diário do Transporte",
       "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
       "query": "\"Prodata Mobility Brasil\" mobilidade transporte público tecnologia"
-    },
-    {
-      "empresa": "Prodata Mobility Brasil",
-      "score": 6,
-      "keywords": [
-        "transporte público",
-        "BRT",
-        "IA"
-      ],
-      "title": "Prodata Mais Mobi leva tecnologia brasileira ao maior evento de transporte público dos EUA - Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbTNWVVYtTEdtLU16ZUlOLTZFWmlyY3ZRR1FlaTlkR0hpcGlrU0diMWVhOHNEYlFiS01ydGdDT1M0Qk9obTdqWmVmQmJ0ZU42NW1KcHVnZTNBaHVIQW1LSmZ4X3F3N2pLZl9GWEJwZ0pib19oV1QwTUVlYUEzTXlrQ1JTWEtOa2NDSFA4bUhvNUoyTlkyVkZlSC1CdWVTWEo0N1czMzY5Q3JNRllKUi1qWDQ1OVU5YWF5Q3cxSHBRTVVUdTdiUlNwdXRGOWRMOTBBbUJUc09KWdIB1wFBVV95cUxPbTNWVVYtTEdtLU16ZUlOLTZFWmlyY3ZRR1FlaTlkR0hpcGlrU0diMWVhOHNEYlFiS01ydGdDT1M0Qk9obTdqWmVmQmJ0ZU42NW1KcHVnZTNBaHVIQW1LSmZ4X3F3N2pLZl9GWEJwZ0pib19oV1QwTUVlYUEzTXlrQ1JTWEtOa2NDSFA4bUhvNUoyTlkyVkZlSC1CdWVTWEo0N1czMzY5Q3JNRllKUi1qWDQ1OVU5YWF5Q3cxSHBRTVVUdTdiUlNwdXRGOWRMOTBBbUJUc09KWQ?oc=5",
-      "source": "Diário do Transporte",
-      "pubDate": "Fri, 09 Oct 2026 13:15:55 GMT",
-      "query": "\"Prodata\" mobilidade transporte público"
     },
     {
       "empresa": "Prodata Mobility Brasil",
@@ -1922,19 +1922,6 @@
       "source": "Diário do Transporte",
       "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
       "query": "\"Empresa 1\" smart cities OR \"cidade inteligente\""
-    },
-    {
-      "empresa": "Prodata Mobility Brasil",
-      "score": 5,
-      "keywords": [
-        "transporte público",
-        "IA"
-      ],
-      "title": "Prodata Mais Mobi leva tecnologia brasileira ao maior evento de transporte público dos EUA - Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY0V3ZzhvZzhNc1FTd3l4cTFkZ1p5cjNOOGQ5MDUwUk9wOURLNUtYZnBwb1dORTMybHRGZjh0UVExbU9RWG05S3JPVlhnZWtVWVR4a2NJSHJ3ZTI3QlVsRURxOVQxeEFoeDEtQzRnSk5Vc3Nmazg1QnlhUWRIX2llM0gzWE1hZm9UM0J6WWJlTzUyWmZJUWdONG5RNGxySHREcUZPNlhJYV9zeGh3eGlxX2dQTnQzTEFuSTBiMi1RX2JDdkV2OThaMmJxbWJGT0JvVmfSAdcBQVVfeXFMT20zVlVWLUxHbS1NemVJTi02RVppcmN2UUdRZWk5ZEdIaXBpa1NHYjFlYThzRGJRYktNcnRnQ09TNEJPaG03alplZkJidGVONjVtSnB1Z2UzQWh1SEFtS0pmeF9xdzdqS2ZfRlhCcGdKYm9faFdUME1FZWFBM015a0NSU1hLTmtjQ0hQOG1IbzVKMk5ZMlZGZUgtQnVlU1hKNDdXMzM2OUNyTUZZSlItalg0NTlVOWFheUN3MUhwUU1VVHU3YlJTcHV0RjlkTDkwQW1CVHNPSlk?oc=5",
-      "source": "Diário do Transporte",
-      "pubDate": "Fri, 09 Oct 2026 14:43:07 GMT",
-      "query": "\"Prodata Mobility Brasil\" mobilidade transporte público tecnologia"
     },
     {
       "empresa": "Prodata Mobility Brasil",
@@ -2208,19 +2195,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3BaTThEYWZULXlIQXUza1FyN0FCWXZONWdoVnA3ZEFZb2ZxMk92M2pPTDhSMGZSS2VIQWR1aHN2WmNzOWRlSzB3NGlfTXVLZmNLbzNrclkyVklScFlqbUk4M1ZrTGdkQVN2bnM2Z3Z4a2NXSkZocWpXSS1XNU5Td1FORnRlOWZZMWhqektSb1VuLVY3QW5EWTlSM3JMRHJRVlBLZXJJMTFLQ0huV1VnLXJRZ0YwaWZpUUtqd1hTdDQ2d9IBxwFBVV95cUxNM1ExaUdVUVlpaF9PYUZWWW1pODIzU202TlQ5c3YxNzg4NkQyOVF2RVBfR2dyR1lab3NUNmJJZDFfX3hlWENqM0ZWSUVUWm1KY0FxV0xXMTRtVElnMko4Sk41MmRyZTVZMF9NMHJ6V0U5WXhkN3FYSE5kY3lidURsSjJxLW9sRnpsXzBtLWNZOFlCU2ZLVkdabEVEMy1GWjdlSDVvZUVXRzNLaTFhbVJtTUtjV1k5WF83LWtCS296V0FJNFhrdThN?oc=5",
       "source": "Estadão Mobilidade",
       "pubDate": "Sat, 15 Apr 2023 07:00:00 GMT",
-      "query": "\"CittaMobi\" mobilidade transporte público"
-    },
-    {
-      "empresa": "Cittati",
-      "score": 4,
-      "keywords": [
-        "transporte público",
-        "IA"
-      ],
-      "title": "Alertas pelo celular podem garantir viagens confiáveis no transporte público. Conheça a Central de Alertas do Cittamobi - JC",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVWhYdzRLNEZWLVZYRXhBbTZhV3F6VFBUOV9RREZSM0JiWk9TSWFKUTkwUllDclM3amlKNEh1ZEx4VkZoN0o0NHRleDFsVW9UMTBacUpXdU8yeTZValA2Vl9ZNXBkbk15dE1abjRrUWJuSlNCVmxCNzJpSGJzMVZfTzZsY2NoT29QZ2xaWlNHYy16d2F2OVkzZ25OOGtwQUFMMHNUMDdac2REZmVuUDFROWJCWnhfbnBTaXdTOGgwbTBDUmNIZ0p5SURTTTlodW01TTltejEyODNfN0ZmRUtyYjJmaWxRQURmc2hSdUtEcXhyRXNONF90bmtBUFhFeElxX1R4dzkwbUU5WDVGQVZ0YlZUTlrSAZoCQVVfeXFMTmFEdVROR3laaEprS2ZwSVZobHBQdFBtWVU3UjVZSW53bVpqSFJzZUxDMVFRcTRHOEZialk5S19uY1kzbHFTbzRTUWJaY1BSeFNyUlBobEJscFpjUVY3UzZkbTFXZjlDT2E0T01mN0NrdkdZekF2d3NVVnZSeUNaRE5yVXpRN2hVdy02dllKdXRPaGZoUE42aFlxd0lGX2RmR0M0Q0NJMHZuZGRIMHhFdlNmeDB1MHZLUWVleDAwS2MwUGJ4TFNCQkx3eHB2cnc4UGF5RGdBYlVnV1dIdzhMdmpYU0lBdWdmRk53emdVU0pJWU5TQU12ZmJCb2VYMnB5aUREd3pRemlQaG02VFFDMEhiem1kUEhobF9n?oc=5",
-      "source": "JC",
-      "pubDate": "Sun, 03 Dec 2023 08:00:00 GMT",
       "query": "\"CittaMobi\" mobilidade transporte público"
     },
     {
@@ -3222,6 +3196,19 @@
       "empresa": "Cittati",
       "score": 2,
       "keywords": [
+        "transporte público",
+        "IA"
+      ],
+      "title": "Passageiros com deficiência visual contam com novas funcionalidades no transporte público de Sorocaba - Portal do Trânsito",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNdlUyQ2ZMMy13TUlOWXNOWjV4OXRmWHppYjNTVm0xc2t0OVBvZzFNTDR6MDBST0ktdlozNjVfNjg1RmtZMkVFNzc2blcyQnk1dnFnTV9NUWJaeS1zd1A3RE5nczVLQjV0dGFVZUFCUE9oVmV6T0Nqc3lzbXpxdmRIUkpfOHcwRVhiZnQ5Y1lRMklFa3gwVy1MT1RSd255dG5McTlIc3VPVDJKVG45SE9wRnJnN0ZSb2RQTjYwNm1aUWwtRF84Q2xaaktxSzRuSnBMaGEya3g4NHJJT0ZVMDNDWXhjaDhWM3g4RGk4ckFCcTZnXzY0Tk5YSkNtWS1wcjE4MUwzbGFqYmF6cnd1TjBzT2E3bG05VlJp0gGeAkFVX3lxTE5SMkotSEFtdlVFdWcyYk91Ym9lVHhXd2FiRkxKLXNuZnFoNl9uZTZnSnBfNnUtbVdvLXM4QU9paUV0TUphRzVPdUtuZHlMMmpMZ2EtNFpIYkF0ZTk5MzlJRkdXWDRhX3lfQzMtdEpkeFBkNmVPSnNlM0VCeFA5MGFZcGxRcnJhQnFKUjNCV2l1YzZfbXJKWHFIbEpUeEVzSU9jZmVpTWVBTHhtejZ3S05kbS1nSVZmampNdWU2R3ZBTnZZUFdZY2FJcHViX1BtTGR5U3VKNndqblBFUEk0Y1I5UmgtbFVrdWdXM1lHT2dMM25kcUJjekR2VS1LMEFJMGotYTV4b1JrSzlWVjBYVjZWTlJVZGZlLWJhd0FGNFE?oc=5",
+      "source": "Portal do Trânsito",
+      "pubDate": "Tue, 14 Nov 2023 08:00:00 GMT",
+      "query": "\"CittaMobi\" mobilidade transporte público"
+    },
+    {
+      "empresa": "Cittati",
+      "score": 2,
+      "keywords": [
         "mobilidade urbana"
       ],
       "title": "Mobilidade Urbana e Transporte - Prefeitura de São Paulo",
@@ -3832,24 +3819,24 @@
       "empresa": "Transdata",
       "score": 1,
       "keywords": [
-        "ônibus"
-      ],
-      "title": "Documentos apontam esquema para fraudar licitações de ônibus pelo país - G1",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbmJsckMtX3VSdnN0bnhFUXNSV0ZTd1VjbGVveGlkX05DSDdxQnVDZzBYLS1KejYzUTE1WGVFY0ktZ09Qb2tCSWF4MnItV2lXRzkwVHV1RWtMT1NmVG1Sc1V2d2tCeGFVcktJQ0wwcUd2bThOM21XaEdINnB1VTA1enRwSHZycGplZDc1dDZwMGxmWndNRHdEWEIxRWY5c00tQ08tZ3hSVlVqTG1QSTVydGd3VjdlN2o1eTRFMkpn?oc=5",
-      "source": "G1",
-      "pubDate": "Thu, 04 Aug 2016 07:00:00 GMT",
-      "query": "\"Transdata Smart\" mobilidade transporte público"
-    },
-    {
-      "empresa": "Transdata",
-      "score": 1,
-      "keywords": [
         "IA"
       ],
       "title": "Brasília adota Bilhete Único - Transporte Moderno",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lZ09GNm9yQm00b1JPYU4zcm9XcVpmYjQ1eFhuZjlqWERXWWp5elRyMW1tOWgzS3FyS3pxSGQyeGxDWFdSTjBtU1ZWUmhzbW1odmxUSnZaeDh6WGpJYmlkYUNFbThkc3NYcWRWUlVUZ2EzVXR2emljaTh1M2lmZw?oc=5",
       "source": "Transporte Moderno",
       "pubDate": "Wed, 22 Nov 2017 08:00:00 GMT",
+      "query": "\"Transdata Smart\" mobilidade transporte público"
+    },
+    {
+      "empresa": "Transdata",
+      "score": 1,
+      "keywords": [
+        "ônibus"
+      ],
+      "title": "Documentos apontam esquema para fraudar licitações de ônibus pelo país - G1",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbmJsckMtX3VSdnN0bnhFUXNSV0ZTd1VjbGVveGlkX05DSDdxQnVDZzBYLS1KejYzUTE1WGVFY0ktZ09Qb2tCSWF4MnItV2lXRzkwVHV1RWtMT1NmVG1Sc1V2d2tCeGFVcktJQ0wwcUd2bThOM21XaEdINnB1VTA1enRwSHZycGplZDc1dDZwMGxmWndNRHdEWEIxRWY5c00tQ08tZ3hSVlVqTG1QSTVydGd3VjdlN2o1eTRFMkpn?oc=5",
+      "source": "G1",
+      "pubDate": "Thu, 04 Aug 2016 07:00:00 GMT",
       "query": "\"Transdata Smart\" mobilidade transporte público"
     }
   ],
@@ -4761,6 +4748,20 @@
       "portal": "diariodotransporte.com.br",
       "score": 3,
       "keywords": [
+        "AVL",
+        "BRT"
+      ],
+      "title": "Artesp abre processo para caducidade do contrato da Next Mobilidade após atrasos do BRT-ABC, em São Paulo - Diário do Transporte",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUkMyZ0ZUQVVNRVJ3ME9aSl84VEJYN1RqOVBGMmwyT1JXRktqaXhHSEVwYlFzT2xuUzRfMUhXOXppZjAyaElEYTFOemFqN0U1MW9GdEptY25Dc0VDQ09oYzBUa3pzTE5uOXFzRzNhTEZqcjlSUUNQbGRNZTVjT3ZTb3VFdkdpek9ZLUNENzNHR2JaMEpWWEM1d1VoNk5JNFFWb0xOTjhqREZ3Z3Vhdnk5cWtTQkRWRFBWRzNKRTVlSlc3TExvY2ZfNkdQb3NqZkZRbmRIR3ZmQVdZQ3lYZXdPbTh1eFUweXNyVGVLSTlQVdIB9AFBVV95cUxPZmdUUUNvaFNQZDUxV0xlaVdkcmIyYlZvdEM5QWw0NEc1b2pHTGd0RUx2VVRlU1FJM2lhRjdwWEJ3QkU1azJUandZUDJHZ3lqUU9WOVc5eUl3QWlVOTRmRm56TXBMRzdJaVU5SVRUZmZoY1QweTVfZkNfUURnLS1DV3pXUXd6MExndkpmb3d1aFR0RDBEekp1RmJZMVpUeUp1UE1mZFJEbUpwbWhEaVlYa1ptM0JXa1ptRkFXSS1BXzN5amtnWTlHRFFQVWZJME9VZFpOaHJxclVsRkJhMzhmOGk4Q0FGSHFIVkYwZWJqc0ZhX195?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Tue, 06 Oct 2026 18:18:39 GMT",
+      "query": "site:diariodotransporte.com.br \"Empresa 1\" OR \"Empresa\" mobilidade transporte público tecnologia"
+    },
+    {
+      "empresa": "Empresa 1",
+      "portal": "diariodotransporte.com.br",
+      "score": 3,
+      "keywords": [
         "BRT",
         "IA"
       ],
@@ -4775,13 +4776,13 @@
       "portal": "diariodotransporte.com.br",
       "score": 3,
       "keywords": [
-        "AVL",
-        "BRT"
+        "BRT",
+        "IA"
       ],
-      "title": "Artesp abre processo para caducidade do contrato da Next Mobilidade após atrasos do BRT-ABC, em São Paulo - Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUkMyZ0ZUQVVNRVJ3ME9aSl84VEJYN1RqOVBGMmwyT1JXRktqaXhHSEVwYlFzT2xuUzRfMUhXOXppZjAyaElEYTFOemFqN0U1MW9GdEptY25Dc0VDQ09oYzBUa3pzTE5uOXFzRzNhTEZqcjlSUUNQbGRNZTVjT3ZTb3VFdkdpek9ZLUNENzNHR2JaMEpWWEM1d1VoNk5JNFFWb0xOTjhqREZ3Z3Vhdnk5cWtTQkRWRFBWRzNKRTVlSlc3TExvY2ZfNkdQb3NqZkZRbmRIR3ZmQVdZQ3lYZXdPbTh1eFUweXNyVGVLSTlQVdIB9AFBVV95cUxPZmdUUUNvaFNQZDUxV0xlaVdkcmIyYlZvdEM5QWw0NEc1b2pHTGd0RUx2VVRlU1FJM2lhRjdwWEJ3QkU1azJUandZUDJHZ3lqUU9WOVc5eUl3QWlVOTRmRm56TXBMRzdJaVU5SVRUZmZoY1QweTVfZkNfUURnLS1DV3pXUXd6MExndkpmb3d1aFR0RDBEekp1RmJZMVpUeUp1UE1mZFJEbUpwbWhEaVlYa1ptM0JXa1ptRkFXSS1BXzN5amtnWTlHRFFQVWZJME9VZFpOaHJxclVsRkJhMzhmOGk4Q0FGSHFIVkYwZWJqc0ZhX195?oc=5",
+      "title": "NEXT Mobilidade diz que dialoga com Artesp para evitar caducidade e pede que Governo considere reais motivos de atrasos do BRT-ABC - Diário do Transporte",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWDZXbGNub0FDLUpMbjV0eXptcktRS2stSXBPanVYdjFfMkdLaVVhbl9yVjBZWmtIVHlBeWxlb3N0LXp3WWxyUmxOYk1qOE44Ry1Bb282NVVYOGdLZncwRGNYMjZEV0xUX09GdFZYUnNsLU1GS1N6d3NuVExBMi1GQ0dUNGJ5aHpjRFBGby1IWVRiY2VlWWt4SkkzS1lFbEVGbmNyek1MVnpqWWpWeTdzT2xXYTZjU1VVZkxlZ1FpVk82N0owTGlaNW5QY1RieEpTRFhGVTdiVGxKTVpzcUpGRkZLazJfa2tiNDFoWjBqUVFtaUZYbnFsZG9zME9rMnRicGE3VDN6Y9IB6ANBVV95cUxNRkptbWxqUnVMOHZmU0lYaG1uMklWS3FJOVBxYnM1VnpDRHBTT1IxQ3huSkp0UlFrTGZ3c0Z6czRSeFJNUXBrbVotSHVCeTdKcHotcXU1U3k4aENmX2RGNUJwam5ZbWVxbEFGeFdNdXNvSWYyZ0hfT0lkZVU1ZVQ3R3lSUEMwTk5TVnJkZnBrajhTNlo5X3pheVU4enlvUE45bktIamVLWWprQVQtNlcyWFJqRkxXVEU1TS1zTFFjUjFwcmNzRm13b2k2bUlvUUp6d3RjdjJTQXZ5TFd0a3FIZU1YLThya3ZtSjBDQllSSFhLem9WNlViWHF5cWxZcjh1aXNuNmdMYTIwVVp6ZFF2UzctMVRaOHRsZnliaDhIR3ljLUFlanNjX1N0c3Jtb1dhRlVkS253N2hMbVBBZ214MGpFMmhoTXl4cGlvSUVDVFFXRDBidkxnYVFXNkFMMFlKckVaWjNJYlhVVEgwMC1haVdaYkhsWnY4NlFiMDVyYmJuQ2JxRG5VRGpOOGJzTDN6R3NGamZpSC1qZnVjMGcwR1BVUHhEb2xldTJfNHZWUHNEWnlwTy1JQ0NwR3YxZXZfdTZHWWdlSnpiQTU4WmlCYlJhVHZhZXF3VFJqNUZ3SlBVV29KcXRocA?oc=5",
       "source": "Diário do Transporte",
-      "pubDate": "Tue, 06 Oct 2026 18:18:39 GMT",
+      "pubDate": "Tue, 06 Oct 2026 15:59:28 GMT",
       "query": "site:diariodotransporte.com.br \"Empresa 1\" OR \"Empresa\" mobilidade transporte público tecnologia"
     },
     {
@@ -6108,20 +6109,6 @@
         "ônibus",
         "IA"
       ],
-      "title": "Santiago, no Chile: quase um ano depois, Diário do Transporte volta a encontrar ônibus mal conservados, inclusive elétricos novos - Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNclFaQmdUNDZ4bGl5Tkp0ZFhESU52bGpPSjRNa1gzYWRNM0NickRtd29PN1k5czBLSVNZR3FDdW15ZG5yaWpNNkRxVnBHb2RhdjNDTDJSX0pfOWV0QlZKYm9kTnY3QnZrZHpYRzQtak50QUJweXZESG9DWk8zRGItbUVMUERhLTRFMG9HVU1RRnJTODVxaFIzUDZXWWdSMklsdW1Nc1Fud0JqTUQ1RHptUG9BQ0xjTVFQQTRub21hQ09DaUpyeEpFRGRtVWRLVnhTZ3VQYzZjM09uUjhkSXVfR3NaMHpyRjFQU1hmNEhNSGd4aHJxQkVEMWRRcmlmdm9v0gGGAkFVX3lxTE1OdG5rUmRoSGh0M29wNlBWT3ExbnNjSmhwb0NhbGN2WEgyX2J2U0NZSEtfX0wzU2Q2WmVwdGc2WC1DSUxyNUNtb0d4TFNZYmtxaWE1Q00wcXZrZWtsaUtSUThOcGZUU25IelkxV2RRWU9kM2pVVHRRWVlGNTM0cFR2SjFwTjBEVWNYb2gzYVowWE9CVWFnOVZqU1lPRkZ1T19hZkEzUDJzSjZobkFIUlJFZ3BHZHJhWGc5cDBfZ0V4eW8xcjRXdFdZUl9DcU5WeE5NSlAwWWQ5Z1FWMF9pOHc4b0RRZFgxdktqc3NYdzVpTkpsS1JDV1hoYWp5dzJzMF9DZVNIV3c?oc=5",
-      "source": "Diário do Transporte",
-      "pubDate": "Tue, 06 Oct 2026 10:03:56 GMT",
-      "query": "site:diariodotransporte.com.br \"Empresa 1\" OR \"Empresa\" mobilidade transporte público tecnologia"
-    },
-    {
-      "empresa": "Empresa 1",
-      "portal": "diariodotransporte.com.br",
-      "score": 2,
-      "keywords": [
-        "ônibus",
-        "IA"
-      ],
       "title": "Rio Negro (PR) e Mafra (SC) buscam empresa para ligação de ônibus após histórico de crise e operações provisórias - Diário do Transporte",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQmd3bzBfbWE3SnhSRGItak9qSFozbHZUVnJUa0tjZ0pHNXdnUnUxYXExaExydnU2aktiWlRvTzJpaDF4N0czRG9lbVFlNS1KWFBvUnN3YkRvM1V0SERHSnNCZVBpVW93V3hsRElxSGVqLWZzNWxhQ3JJSzdXcUVFWHhYRWVjM0w4bS11RHJwd0FDbVBrd0dfRS1EUXUwbVV5ZWdzZE9rRFkzT1ROX3pPN0NqaWN1MzJFY1B1eWIzam8yV0RXeHVMblFJSngxaW1qLXowc0xjT1RzUl9kQkk5ZWtucklpS2pRM2530gHwAUFVX3lxTE9adkhNTkNVWFVmbU5HZnF5TzIyWXJaOUROSnBCQldvS1U0WkY5a0FLYTY1R3NaVHFGNjB1cGJMRzR6eDc2b1NpUGhJYUhjX29WbnE0UUdDcm5Xd1FyeVpQSVBSVEI1V3RUdURLQ1dqWTVEVG80clJ1QmQyTU9ZUEwwVm1TbGRLMkd4dEo1MHJjLU5Fd25qZDlab2lRQ0doZm9HaUNkdTNKM3ZDRnFWTTN4LTJIOTRWeTZlYXh5RWNCSlVZams5dFY3ZElTbFdHU2dZal92WHlHY2dZei14ZGdRSE1pMHEtM0tEWENXaHRxUA?oc=5",
       "source": "Diário do Transporte",
@@ -6133,26 +6120,13 @@
       "portal": "diariodotransporte.com.br",
       "score": 2,
       "keywords": [
-        "metrô",
-        "IA"
+        "SAE",
+        "ônibus"
       ],
-      "title": "CTC, Flumitrens, antiga estatal do Metrô e Ciferal Comércio e Indústria firmam acordo para conduzir liquidações no Rio de Janeiro - Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaEk5UXhEVXB2bFFiWjE4Y1hFNHZQTjJxdnB5aEZlbEZoZWRFWnFWODRCNjhwdVNqbTV0TGdXaDYzaWp6Yk1NVmhjeWRmWE1TS1dMdEotSHdqNWJtbEpwOUFSMDRyT0c1R0d2LV9uZ2pyZU1FaTVJWkhqcG5LRDBxME1kZno5T3R1QzNoSEVkeElscWJ3Y0NqYVl3WE9PQ3d4SVRYQVluMF91N0tFU3lCQnpOX21VS3JFNGtmTFhYLUE4RmczcnJsb2RIRGxWdmNibW9ZeWZBbnRUcDFxN1AxNncyX3F3TE1sNnJqWkFyTkJWSldNcm8wRV93OEdyWEUtRmxZ0gGIAkFVX3lxTFAzVDdMYVBEeVNVOEtoZXNKaHJ4S1l3TWU0QmdzbkxmNHFEb3M0TlJjUkw3S28zR0lpNXpXWE95R3otVEZrMDM3Y3hZOEtMRDRLVzR5M1pQblgxVlJ6RHkwY0pKVjBVUnNUekp4N1djakVyeldNdER3bnc4TmFOcFk2Z1FCSmNmcFdKTDh0bkU3N2FtRVplMWxmOE1LdXRzcThkRW03cUpzMEVHSVh3LTdnY3A0SkxacHkxT2llcnRKSXM5VEVkcUV5RmlLOUFBSEdadm9mWDhvdTRYc1E2WEE0NGdkUDhPVjBPR0tVS1dmeF95MU5XWnJQZFJQd09VOUs2eW5OLW5DZg?oc=5",
+      "title": "Passo Fundo (RS) homologa concessão dos ônibus para a Coleurb por 20 anos, com tarifa técnica de R$ 9,39 - Diário do Transporte",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeXBwa2FyUVczUjAtT0ZQYkxMWEgxNnNMSm5keEJvN0s2ejczQWxobGxRbHh4OEowQkdSdlRtb3AxSTB5Z1FkOTExZF85TTZJNUVZUGhvamlCVGp6T01KT0MtMmxEQmF2WUZaNmJKTUhrRndsVi1taWRwcFhJbzF6VGh4SnNvb0lPRmdCSFFWenh0WnFBeHJwU0pHcUt6Y0VkQUw2YmtsWlN5VkQ4ODV4Z2hUanI4dkkyN1VKSEVhUENINzBTRm1INDNwRld4WEFjRkdxQzF1SVNBQk9Md1HSAeMBQVVfeXFMTlBDVno1V2ppcFZhQnRWS3FmYmJfM1FURE9vN1F3ZENjdHVSM2tVZ1paOGNrZWZsQXR6NlVEMEJhUkVEcDRpTEVzTTZfLThpUmRzal9WRUVmRUlpb0FybDZPWlNEN3AycDJyWXZDR0pQNm4ydlI5a01HYnFOcTloLXVVcFRtVlpNSHA4QzQ0WFZER1BnUllmR3liNWRBZWV1dXhpb1ltWFR2UHZ6c0ZTMkE2R19sbjdHMGs2aWUyRG1QLXFMck9VS3hmS1dudmRQbHVrSHdPSDU3aWl5VHhMZmFRalE?oc=5",
       "source": "Diário do Transporte",
-      "pubDate": "Thu, 08 Oct 2026 16:13:03 GMT",
-      "query": "site:diariodotransporte.com.br \"Empresa 1\" OR \"Empresa\" mobilidade transporte público tecnologia"
-    },
-    {
-      "empresa": "Empresa 1",
-      "portal": "diariodotransporte.com.br",
-      "score": 2,
-      "keywords": [
-        "IA"
-      ],
-      "title": "Licitação das áreas da antiga EMTU: Após 10 anos de vencimento do prazo dos contratos, TCE pauta análise de recursos das viações da Grande São Paulo - Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWFVTTHRiZnk1aldyaTN5NEl4NWM2bGF4bmhFWk52OGNSVDVLVWdrMXJLdC1oZUVVdVMyYU1oRm5DZzVub1lWMHg3TGxsTmxBa3hXbElRQ1J1Ml9jN3U1REYteUViVVhpell5cFdKRHNONXctblRvbWYtOUdSc0hNelAtVktuX3R1WU5lVUswSk9TSXJ0OW5udGtHNWdJWTlBRFUzZ0hyNmhXWi1QaXBqVEpsTW1CX1F3NHRvbHhSRUxoSmdHR1hpWjktWVVNOUQwSVQxUlRMWlowcWRIc0tNdHBORDdYTzBZX3QxS0hXNDBpMm1zci1FblZCYnNjalFtbFVneEp2N0IyYTAwdllaSmM0Y2FZaVQ0eXZ6ddIBogJBVV95cUxPanBtYms5N0ZkdXp3TVF1WWM5UHhnRzdReThGMjBvSEZmUDdKSmo5dEV6OElkX0hEbG1nbEJRTWpablRsMFlTRmQxWW5OZjRESE9rVGhPOTRudTZ0NnhlTjUzQmJXd0RoXzluRlRGdmNZaGx3bmVNelV0YlVqYkZ3LWh1U2E0Rk05V2xjallFbm9NSGhvYTdnck5DSjE5VGRicFZBcjQtci16VnpFb3p6d2ZOVjh6SE8tYnZWdFd2b2tZMXZfeHlQeE5pclMybXdFRVAzcGxoNWlEclpzcHMwWDlSWHZCUzYxTUpua2ZWUjNOaFdfUlZ0RWo4UjQ1VzN5dDlEaEVXU3ZrSExPSG0zZy1vanNLc0ZUS0ZhY05xckNpdw?oc=5",
-      "source": "Diário do Transporte",
-      "pubDate": "Fri, 09 Oct 2026 19:38:02 GMT",
+      "pubDate": "Fri, 09 Oct 2026 20:08:02 GMT",
       "query": "site:diariodotransporte.com.br \"Empresa 1\" OR \"Empresa\" mobilidade transporte público tecnologia"
     },
     {
@@ -6316,6 +6290,33 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUXJmdVNpM0FyVVBlUkk0RW5fWThiQjdHUDlXcENUTDRhZHpnZklKUklkRlZCUGxxUWpVclJDcEVLYkFSTXRJTmhRb240amllQk5kWFdTaFNvUGVrcFdicGZLeDUtSzlkb1oyWEdBOXRrVWpHT3RGdjlBMk9HWEs1aDdLWkZERE9ZMklKNzZOMU5ydUtVQnBFTmxLejVQTTFzWkxoLThWM1ExZXZWcE1TVjk2RmRTQ2ppYWJGUlBDajZxMm9UTWlIaHhmZVlTQWVVWXA0eFdMTdIB3AFBVV95cUxOVkhPS3NUSXdVdDdGOVI0LVZyUkZyUHM2X0V2NVRQVUxzMUNpZ2RydEU4Q3plN19zWXh3UjNvS3ctejB4elNFSWVVRVA2YW5aVzdhRGRsVU5uUWdsa0VZZEszSVFyQjhGZVZEdEtvX3hGX0pLYkdXbmYybUxPZ1hLMVNEY04yVGlVZ2RtZmhpZFYzNmwwVndlNTY5SUdtY0ZnZnRPTm52UWhBaWo0OU9pVlJGaW5tVnBubmFxeml3REpycGV0Q0VLVTRGRm1BaTBneHEzX1VGYnVzaFo2?oc=5",
       "source": "Diário do Transporte",
       "pubDate": "Fri, 09 Oct 2026 14:07:59 GMT",
+      "query": "site:diariodotransporte.com.br \"Prodata Mobility Brasil\" OR \"Prodata\" mobilidade transporte público tecnologia"
+    },
+    {
+      "empresa": "Prodata Mobility Brasil",
+      "portal": "diariodotransporte.com.br",
+      "score": 2,
+      "keywords": [
+        "IA"
+      ],
+      "title": "Licitação das áreas da antiga EMTU: Após 10 anos de vencimento do prazo dos contratos, TCE pauta análise de recursos das viações da Grande São Paulo - Diário do Transporte",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWFVTTHRiZnk1aldyaTN5NEl4NWM2bGF4bmhFWk52OGNSVDVLVWdrMXJLdC1oZUVVdVMyYU1oRm5DZzVub1lWMHg3TGxsTmxBa3hXbElRQ1J1Ml9jN3U1REYteUViVVhpell5cFdKRHNONXctblRvbWYtOUdSc0hNelAtVktuX3R1WU5lVUswSk9TSXJ0OW5udGtHNWdJWTlBRFUzZ0hyNmhXWi1QaXBqVEpsTW1CX1F3NHRvbHhSRUxoSmdHR1hpWjktWVVNOUQwSVQxUlRMWlowcWRIc0tNdHBORDdYTzBZX3QxS0hXNDBpMm1zci1FblZCYnNjalFtbFVneEp2N0IyYTAwdllaSmM0Y2FZaVQ0eXZ6ddIBogJBVV95cUxPanBtYms5N0ZkdXp3TVF1WWM5UHhnRzdReThGMjBvSEZmUDdKSmo5dEV6OElkX0hEbG1nbEJRTWpablRsMFlTRmQxWW5OZjRESE9rVGhPOTRudTZ0NnhlTjUzQmJXd0RoXzluRlRGdmNZaGx3bmVNelV0YlVqYkZ3LWh1U2E0Rk05V2xjallFbm9NSGhvYTdnck5DSjE5VGRicFZBcjQtci16VnpFb3p6d2ZOVjh6SE8tYnZWdFd2b2tZMXZfeHlQeE5pclMybXdFRVAzcGxoNWlEclpzcHMwWDlSWHZCUzYxTUpua2ZWUjNOaFdfUlZ0RWo4UjQ1VzN5dDlEaEVXU3ZrSExPSG0zZy1vanNLc0ZUS0ZhY05xckNpdw?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 09 Oct 2026 19:38:02 GMT",
+      "query": "site:diariodotransporte.com.br \"Prodata Mobility Brasil\" OR \"Prodata\" mobilidade transporte público tecnologia"
+    },
+    {
+      "empresa": "Prodata Mobility Brasil",
+      "portal": "diariodotransporte.com.br",
+      "score": 2,
+      "keywords": [
+        "metrô",
+        "IA"
+      ],
+      "title": "CTC, Flumitrens, antiga estatal do Metrô e Ciferal Comércio e Indústria firmam acordo para conduzir liquidações no Rio de Janeiro - Diário do Transporte",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaEk5UXhEVXB2bFFiWjE4Y1hFNHZQTjJxdnB5aEZlbEZoZWRFWnFWODRCNjhwdVNqbTV0TGdXaDYzaWp6Yk1NVmhjeWRmWE1TS1dMdEotSHdqNWJtbEpwOUFSMDRyT0c1R0d2LV9uZ2pyZU1FaTVJWkhqcG5LRDBxME1kZno5T3R1QzNoSEVkeElscWJ3Y0NqYVl3WE9PQ3d4SVRYQVluMF91N0tFU3lCQnpOX21VS3JFNGtmTFhYLUE4RmczcnJsb2RIRGxWdmNibW9ZeWZBbnRUcDFxN1AxNncyX3F3TE1sNnJqWkFyTkJWSldNcm8wRV93OEdyWEUtRmxZ0gGIAkFVX3lxTFAzVDdMYVBEeVNVOEtoZXNKaHJ4S1l3TWU0QmdzbkxmNHFEb3M0TlJjUkw3S28zR0lpNXpXWE95R3otVEZrMDM3Y3hZOEtMRDRLVzR5M1pQblgxVlJ6RHkwY0pKVjBVUnNUekp4N1djakVyeldNdER3bnc4TmFOcFk2Z1FCSmNmcFdKTDh0bkU3N2FtRVplMWxmOE1LdXRzcThkRW03cUpzMEVHSVh3LTdnY3A0SkxacHkxT2llcnRKSXM5VEVkcUV5RmlLOUFBSEdadm9mWDhvdTRYc1E2WEE0NGdkUDhPVjBPR0tVS1dmeF95MU5XWnJQZFJQd09VOUs2eW5OLW5DZg?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Thu, 08 Oct 2026 16:13:03 GMT",
       "query": "site:diariodotransporte.com.br \"Prodata Mobility Brasil\" OR \"Prodata\" mobilidade transporte público tecnologia"
     },
     {
@@ -7054,6 +7055,20 @@
       "query": "site:antp.org.br \"ABtec Mobilidade\" OR \"ABtec\" mobilidade transporte público tecnologia"
     },
     {
+      "empresa": "ABtec Mobilidade",
+      "portal": "antp.org.br",
+      "score": 2,
+      "keywords": [
+        "transporte público",
+        "IA"
+      ],
+      "title": "Até quanto e quando os entes públicos suportarão subsidiar os sistemas de transporte público coletivo? - ANTP - Associação Nacional de Transportes Públicos",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1doenBUZ3MtWFFQc01VWlhPczBOOTlmVlFoYUZDME9NOFRzTEtQVnhwREc1cVZyQ3d0bHJoTnFsdzd2UllxdXpBRkk4M1RsWG92TVV1YW9pdmRWRFBZVHNhdG1SQ2NYNEJGbzc5RFF1SjhGSHIzblJNZWdITlF6cENSVDJmdXZiLXJMbVFZYU9yVC1QeUxPQzUxY2t3RVVic1lzdTZsdXpGU2NzS3AzQVd1QkJwZlNhTHd1TzhDS3lUeTROaEgyNUdDdVZDSEJNd3FObHBTdFFNQ3Vnbllpako0WQ?oc=5",
+      "source": "ANTP - Associação Nacional de Transportes Públicos",
+      "pubDate": "Wed, 31 Jan 2024 08:00:00 GMT",
+      "query": "site:antp.org.br \"ABtec Mobilidade\" OR \"ABtec\" mobilidade transporte público tecnologia"
+    },
+    {
       "empresa": "Bus2",
       "portal": "antp.org.br",
       "score": 2,
@@ -7132,20 +7147,6 @@
       "source": "ANTP - Associação Nacional de Transportes Públicos",
       "pubDate": "Wed, 20 Sep 2023 07:00:00 GMT",
       "query": "site:antp.org.br \"Planeta Informática\" OR \"Planeta\" mobilidade transporte público tecnologia"
-    },
-    {
-      "empresa": "Prodata Mobility Brasil",
-      "portal": "antp.org.br",
-      "score": 2,
-      "keywords": [
-        "transporte público",
-        "IA"
-      ],
-      "title": "Até quanto e quando os entes públicos suportarão subsidiar os sistemas de transporte público coletivo? - ANTP - Associação Nacional de Transportes Públicos",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1doenBUZ3MtWFFQc01VWlhPczBOOTlmVlFoYUZDME9NOFRzTEtQVnhwREc1cVZyQ3d0bHJoTnFsdzd2UllxdXpBRkk4M1RsWG92TVV1YW9pdmRWRFBZVHNhdG1SQ2NYNEJGbzc5RFF1SjhGSHIzblJNZWdITlF6cENSVDJmdXZiLXJMbVFZYU9yVC1QeUxPQzUxY2t3RVVic1lzdTZsdXpGU2NzS3AzQVd1QkJwZlNhTHd1TzhDS3lUeTROaEgyNUdDdVZDSEJNd3FObHBTdFFNQ3Vnbllpako0WQ?oc=5",
-      "source": "ANTP - Associação Nacional de Transportes Públicos",
-      "pubDate": "Wed, 31 Jan 2024 08:00:00 GMT",
-      "query": "site:antp.org.br \"Prodata Mobility Brasil\" OR \"Prodata\" mobilidade transporte público tecnologia"
     },
     {
       "empresa": "SONDA",
@@ -8098,19 +8099,6 @@
       "portal": "diariodotransporte.com.br",
       "score": 1,
       "keywords": [
-        "transporte público"
-      ],
-      "title": "Artigo sobre comportamento do usuário do transporte público é publicado em revista internacional - Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUUN3NEZtcE1ZMVhkUXFZb2hHZ3djNmtFNlhIXzZ4dlhHUUd0NS1jLVhQNWdOM09XZEhoYktIRXYwc2puQnZoS0d1QUZHNnZaVGhZZWF3a0YtamNWeG04WjZwcGhIQXpINTFsSS1CNV9jc1Jaai1LcUFlRVdveUxxV2JjVUdTUEJ5MEhFckpKTGtqOEhSZW1jR1FuNVExOFFtRkFjN3VQZnpfa3BNelFaZnJFYjh3MzdTWXJVdFBPd3dPUkx3amZQZktMQTU0aFdNTFJMYm5rWDJfZ9IB3wFBVV95cUxPakxKSGhSSmJ0cE82Q3k1MlNROE85Z3JMYVpEdDJlVFBBdWZBSGt3SUFMRUNxWDlEeEJtMElGdDJEeE5ldU1lRnNsRUkxUms0b1JSaF9qSjJnYWFfU3ZEdnY4U3lpR3pEeWh4Z2RoNHNjcnc4Y1BVa0dPdmk3dzYyVHNXT29oM01HakpQN0RjbUhVdzh4ck1PY0pfbHp6bHhxa0tEVFBuOWp0NllCYkZIRmJVWkNDdkhOYmtzcnJfUVFKLTdTWl9aaEtTZHR6WDJFemR5cjFBdWZXeTZUWnZR?oc=5",
-      "source": "Diário do Transporte",
-      "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
-      "query": "site:diariodotransporte.com.br \"Bus2\" OR \"Bus2\" mobilidade transporte público tecnologia"
-    },
-    {
-      "empresa": "Bus2",
-      "portal": "diariodotransporte.com.br",
-      "score": 1,
-      "keywords": [
         "IA"
       ],
       "title": "A revolucionária experiência do transporte coletivo na Grande Goiânia é destaque no Podcast do Transporte - Diário do Transporte",
@@ -8180,9 +8168,9 @@
         "IA"
       ],
       "title": "Viação Piracicabana completa 89 anos, data é lembrada pelo Grupo Comporte e companhia já está entre as maiores do Brasil - Diário do Transporte",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOU1NTmJhWjBNaUc3UUpiRWtIMmVTOHZLUTROakFvczRCNnR6N25EMnh0alZuS2NxdTdpVy1DQ0RiZURnQlBzbmU1UmI1S1NwcEdPcnJSanBENFFRUVZCWHFBbE1SdExuUEE3Vy1ncnZSN3c3YXVYTm9LU1p3NHM2ZTdSeGVNeWxZQVItMm5yWGxBYzFRd0NWWDA5cHRzZXlYRGJFWkU0VUJ3dWpScFJsSGNnRnlQa3Z0YXQ1MlE2OUVUZGtIbklTRkI2Q09SWmJXTEtQUzdCUXZpQmw2MmpfdVNROGpQYVNWTjRpX3dLT25aWlRzVl9z0gH8AUFVX3lxTE03M3Z1d2Rnamhic0Jod2E4eWdxUExHYUpxNDc1U01XRHpFTWRIZi1KTjF6VVNlYmcweFlBcVFoSWtsb1hRWmd6cnNtSEpIMTEtWXB2eWs5dzBLQmFmUnctSjFVUUxFbGVOMGpFcEx3eHRQamVadVVXOW95bDE4Y0lCbmZWNWI0b19lcThRWlNMNkJ5c3lVS19qMld0dFBPVDhCLWlHSEY4dlc5Z3VvNjNUZ1FqN2M1cHB2b0dKT3IyNFFhM09uSEd3YkdJUnhWZFM1VDNSZ19ZTjJldUh4T1hvd0N6T0JTNzI2YUczWUswd3NseTZKN0l2a2pYdg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbXgwV043MDZtcmNrYVVSNXJreFBGMy1rX3BzMWFkUWpPSWNzcGVlSWktMHdnT0FxV25WM0tFZm1jV25KQkFxRDFQeW93dWZyTlZRTDVfTHdGY1dVUzNaZ0REbWRrMjcxTUhrNy1xM1htTTBxaVRjamNJTWFKeDBzNTVobnZoTXcyTVF0WlpqNzZnN3pLRmlRbE1rTF9MOGVSS2JXbUpicHVSUkQwVnlTLVNSbHZocHphajBzMk1aTVhSSm9vM0NiZmptTzI5SGxvbU5oMGR3U1R5amNKOVQyQWM3RVdlYVBsV0pvUmxFY05aZFZyOS1uRNIB_gFBVV95cUxQclpSbkVYeFBmaGt4WHpfTTdUbUlUZ1F3TzBzZkdqZHVhWjBmS3I1QXJEcEJSTFA4bDZuNERuTFl1aEhDWURsN3B5SVM0NkJGMG9qb0NMd3YwUUliNzRLV1g2alZHZ05VMy1WVXkzZXppSnZYRTZFaGQzVVZBY0FRMEdpMjRXeWtzZ3JkYVhMREtYdlFfVlBITHhmTXlBcS1OQnE3UHNpSldJTkVyT3dJbzA4VURlZExuOGFZYjQyOEs1bTNWeGRpTzJMZ19yTmFJaUxoSkxXRWx2bEFUcUZ4VHN2MjZtNWppME1vdlE5V052UmQ3eG9nbGdMNWZvUQ?oc=5",
       "source": "Diário do Transporte",
-      "pubDate": "Fri, 09 Oct 2026 22:58:07 GMT",
+      "pubDate": "Fri, 09 Oct 2026 22:38:41 GMT",
       "query": "site:diariodotransporte.com.br \"Empresa 1\" OR \"Empresa\" mobilidade transporte público tecnologia"
     },
     {
@@ -8249,6 +8237,19 @@
       "source": "Diário do Transporte",
       "pubDate": "Fri, 29 Apr 2022 07:00:00 GMT",
       "query": "site:diariodotransporte.com.br \"ONBOARD\" OR \"ONBOARD\" mobilidade transporte público tecnologia"
+    },
+    {
+      "empresa": "Planeta Informática",
+      "portal": "diariodotransporte.com.br",
+      "score": 1,
+      "keywords": [
+        "IA"
+      ],
+      "title": "Viação Piracicabana completa 89 anos, data é lembrada pelo Grupo Comporte e companhia já está entre as maiores do Brasil - Diário do Transporte",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOU1NTmJhWjBNaUc3UUpiRWtIMmVTOHZLUTROakFvczRCNnR6N25EMnh0alZuS2NxdTdpVy1DQ0RiZURnQlBzbmU1UmI1S1NwcEdPcnJSanBENFFRUVZCWHFBbE1SdExuUEE3Vy1ncnZSN3c3YXVYTm9LU1p3NHM2ZTdSeGVNeWxZQVItMm5yWGxBYzFRd0NWWDA5cHRzZXlYRGJFWkU0VUJ3dWpScFJsSGNnRnlQa3Z0YXQ1MlE2OUVUZGtIbklTRkI2Q09SWmJXTEtQUzdCUXZpQmw2MmpfdVNROGpQYVNWTjRpX3dLT25aWlRzVl9z0gH8AUFVX3lxTE03M3Z1d2Rnamhic0Jod2E4eWdxUExHYUpxNDc1U01XRHpFTWRIZi1KTjF6VVNlYmcweFlBcVFoSWtsb1hRWmd6cnNtSEpIMTEtWXB2eWs5dzBLQmFmUnctSjFVUUxFbGVOMGpFcEx3eHRQamVadVVXOW95bDE4Y0lCbmZWNWI0b19lcThRWlNMNkJ5c3lVS19qMld0dFBPVDhCLWlHSEY4dlc5Z3VvNjNUZ1FqN2M1cHB2b0dKT3IyNFFhM09uSEd3YkdJUnhWZFM1VDNSZ19ZTjJldUh4T1hvd0N6T0JTNzI2YUczWUswd3NseTZKN0l2a2pYdg?oc=5",
+      "source": "Diário do Transporte",
+      "pubDate": "Fri, 09 Oct 2026 22:58:07 GMT",
+      "query": "site:diariodotransporte.com.br \"Planeta Informática\" OR \"Planeta\" mobilidade transporte público tecnologia"
     },
     {
       "empresa": "Planeta Informática",
@@ -8897,19 +8898,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2xTRHl1Vy1vOHpzVU9FS0xLWWRRengyZXplaWxJVEdjQV9UVld5d3ctb0JfU3VvMk5KOXVQVG9BNU9vakZpb3g5Ykh5dUFFTkJhdC1sVjJEUWNPZm5PaGRpdUE3MHpZRDZ5bThDdUY3MTNrX2pBQ3NHQWZNeFFVVktJblZZaTlONi1DSQ?oc=5",
       "source": "ANTP - Associação Nacional de Transportes Públicos",
       "pubDate": "Fri, 14 Aug 2015 07:00:00 GMT",
-      "query": "site:antp.org.br \"ABtec Mobilidade\" OR \"ABtec\" mobilidade transporte público tecnologia"
-    },
-    {
-      "empresa": "ABtec Mobilidade",
-      "portal": "antp.org.br",
-      "score": 1,
-      "keywords": [
-        "IA"
-      ],
-      "title": "Associação Nacional de Transportes Públicos - ANTP - Associação Nacional de Transportes Públicos",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQREUwSEJFQ2xUN2pETEdnM3ZXRnRmSjl2OHFCc0U1djhPcVRjSjYxd2VxOWJlVGp3OG8zN0xHQVlucjI4MGVqVU9GU3BGdUFsN1BjVEdjbEptWFBpdTdJdk0wVlNPWHMwMzk2VEFCRXNwa3V6Mlp3MHJYUWtFODZkT1h6b1hVOHhWUVMxLVZ4MllCN29nSy1BZ2NRQVpFdjlmNU1rQzlzLW14dHV0WnVTZ1VncDZOeDBiRXFFV0tVVUVBRlNCRncyX0FFX0gzLVhhNWFxNldTV19ISkdZc0JTSWR2emJrS09yX2FwaEVPRUR5RXJSejlzWm5valZ1blBTWXlVU3E3U0lzenRZcVh2MGpuS18?oc=5",
-      "source": "ANTP - Associação Nacional de Transportes Públicos",
-      "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
       "query": "site:antp.org.br \"ABtec Mobilidade\" OR \"ABtec\" mobilidade transporte público tecnologia"
     },
     {
@@ -10089,13 +10077,11 @@
       "empresa": "Empresa 1",
       "portal": "gov.br",
       "score": 1,
-      "keywords": [
-        "IA"
-      ],
-      "title": "Home — Acesso à Informação - www.gov.br",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55a2dvMWZZWTRxVzlIa0s4dFlGakUyeFJ0b21MQzRwcnBFNzFBWjVJb0ZCcFpoRFdDMnVUZDBWNENEeUxnYzRURW95allpZUxmZzJwXw?oc=5",
-      "source": "www.gov.br",
-      "pubDate": "Fri, 21 Feb 2020 18:39:09 GMT",
+      "keywords": [],
+      "title": "Prefeitura de Capão da Canoa | Capão da Canoa - Capão da Canoa",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qTmZYUmRPNlVWNTh6MEhtaWlYcVlPNms2UXhhLXd4eFBIRGNyOUJ5ZGw1V1ROOVVLbWZXUXlhMDJvdXhfdW52ZzY5aw?oc=5",
+      "source": "Capão da Canoa",
+      "pubDate": "Sun, 26 Jul 2020 04:56:04 GMT",
       "query": "site:gov.br \"Empresa 1\" OR \"Empresa\" mobilidade transporte público tecnologia"
     },
     {
@@ -10291,6 +10277,17 @@
       "source": "Portal do Município de Piracicaba",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
       "query": "site:gov.br \"Transdata\" OR \"Transdata\" mobilidade transporte público tecnologia"
+    },
+    {
+      "empresa": "Cittati",
+      "portal": "prefeitura.sp.gov.br",
+      "score": 1,
+      "keywords": [],
+      "title": "Untitled - Prefeitura de São Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXBWMnNuRnV4Z2lzNVBzSTdqSDVaWW1lMjBjT2dvdlcwLU56X09xWXl2aGlqLU1IbHQ5c3J2ZzlCUm9xNkxuWHFzVUxVbDg0c0tGcGhENVpwdFk2NG1zWmhibWxWYVNfUEFSb21pWVB2Y01va0lrbUpDdkxBanFyY1kwSW1wbUZqa0lpaUhxQ2VHYlhZbmcwcGdiVjdURS15MkhDWlk4angzajl2N2FRdXVpMmZ2N3QzeUlR?oc=5",
+      "source": "Prefeitura de São Paulo",
+      "pubDate": "Thu, 06 Nov 2025 08:23:02 GMT",
+      "query": "site:prefeitura.sp.gov.br \"Cittati\" OR \"Cittati\" mobilidade transporte público tecnologia"
     },
     {
       "empresa": "Empresa 1",
