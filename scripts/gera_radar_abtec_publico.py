@@ -59,17 +59,20 @@ items=[]
 for r in qa:
     if r['status']!='ok': continue
     items.append({'empresa':r['empresa'],'tema':r['tema'],'titulo':r['titulo'],'url':r['final_url'],'fonte':re.sub(r'^www\.','',re.sub(r'/.*$','',r['final_url'].split('//')[-1])),'id':f'achado-{len(items)+1:02d}','resumo':summary.get(r['tema'],'Achado curado no radar.'),'impacto':impact.get(r['tema'],'Relevante para monitoramento da ABtec.'),'tipo':'Fonte externa' if 'diariodotransporte' in r['final_url'] or 'technibus' in r['final_url'] or 'antp' in r['final_url'] or 'stgnews' in r['final_url'] else 'Site oficial / produto'})
-# trends require real grouped evidence
-trend_defs=[
- {'id':'governanca-transparencia-dados','titulo':'Governança de dados e transparência viram pauta institucional da tecnologia de mobilidade','leitura':'A ABtec aparece sustentando dados, tecnologia e transparência como agenda pública. Isso desloca o debate das empresas de tecnologia do papel de fornecedoras para o papel de infraestrutura de governança do transporte.','uso':'Criar pasta ABtec sobre transparência, dados, ENMU, interoperabilidade e indicadores públicos.','themes':['Governança de dados','Transparência / ENMU','Big data / bilhetagem']},
- {'id':'open-payment-bilhetagem-digital','titulo':'Bilhetagem digital e open payment avançam como infraestrutura de relacionamento','leitura':'PIX, Carteira Google, pagamento digital e bilhetagem embarcada aparecem em vários achados. A tendência não é apenas trocar meio de pagamento, mas transformar a bilhetagem em camada de relacionamento e dados.','uso':'Criar pasta sobre open payment brasileiro, Pix, carteiras digitais, validadores e inclusão financeira no transporte.','themes':['PIX no validador','Carteira digital','Bilhetagem digital','Bilhetagem / Lat.Bus']},
- {'id':'apps-plataformas-confianca','titulo':'Apps deixam de ser vitrine e viram plataformas de confiança operacional','leitura':'Cittamobi, Bus2 e SONDA mostram apps/plataformas conectados a tempo real, experiência do usuário, gestão e mobilidade inteligente.','uso':'Criar pasta sobre informação ao passageiro, app como canal público, SLA de dados e integração passageiro-operador-gestor.','themes':['Tempo real / internacionalização','Apps de mobilidade','Smart cities','Mobilidade inteligente']},
- {'id':'ia-dados-gestao','titulo':'IA, dados e sensores entram na narrativa de gestão da mobilidade','leitura':'IA aparece em Prodata/Mais Mobi, big data aparece na Bus2, e reconhecimento facial/monitoramento entram no portfólio das associadas. A tendência pede análise criteriosa para diferenciar caso concreto de discurso genérico.','uso':'Criar pasta sobre IA responsável, analytics, sensores, biometria, privacidade e governança algorítmica.','themes':['IA / gestão','Big data / bilhetagem','Reconhecimento facial','Segurança / tecnologia']},
- {'id':'tecnologia-brasileira-vitrine','titulo':'Tecnologia brasileira de mobilidade busca vitrine nacional e internacional','leitura':'Prodata/Mais Mobi, Bus2, Empresa 1 e SONDA aparecem em eventos, internacionalização e implantação fora de seus mercados tradicionais.','uso':'Criar pasta sobre indústria brasileira de tecnologia para mobilidade, exportação, Lat.Bus, APTA e Paraguai.','themes':['Internacionalização','Tempo real / internacionalização','Apps de mobilidade','Tecnologia / Lat.Bus','Smart cities / mobilidade']},
+# clusters are topical groupings, not market trends yet.
+# A market trend should only be promoted after recurrence, volume, persistence,
+# and expert analysis across multiple weekly editions.
+cluster_defs=[
+ {'id':'governanca-transparencia-dados','titulo':'Governança de dados, transparência e indicadores públicos','leitura':'Achados ligados à ABtec, ENMU e bilhetagem mostram um campo de discussão sobre dados, transparência e qualificação da gestão pública do transporte. Ainda é um cluster temático, não uma tendência consolidada.','uso':'Criar pasta ABtec sobre transparência, dados, ENMU, interoperabilidade e indicadores públicos.','themes':['Governança de dados','Transparência / ENMU','Big data / bilhetagem']},
+ {'id':'open-payment-bilhetagem-digital','titulo':'Bilhetagem digital, Pix, carteiras digitais e meios de pagamento','leitura':'Achados sobre Pix no validador, Carteira Google, pagamento digital e bilhetagem embarcada indicam um assunto recorrente para observação. A análise de tendência dependerá de recorrência nas próximas semanas e adoção por cidades/operadores.','uso':'Criar pasta sobre open payment brasileiro, Pix, carteiras digitais, validadores e inclusão financeira no transporte.','themes':['PIX no validador','Carteira digital','Bilhetagem digital','Bilhetagem / Lat.Bus']},
+ {'id':'apps-plataformas-confianca','titulo':'Apps, tempo real e plataformas de relacionamento com o usuário','leitura':'Cittamobi, Bus2 e SONDA aparecem em achados ligados a tempo real, experiência do usuário, gestão e mobilidade inteligente. O cluster ajuda a acompanhar se apps estão evoluindo de canais informativos para plataformas de confiança operacional.','uso':'Criar pasta sobre informação ao passageiro, app como canal público, SLA de dados e integração passageiro-operador-gestor.','themes':['Tempo real / internacionalização','Apps de mobilidade','Smart cities','Mobilidade inteligente']},
+ {'id':'ia-dados-gestao','titulo':'IA, analytics, sensores, biometria e segurança operacional','leitura':'IA aparece em Prodata/Mais Mobi, big data aparece na Bus2, e reconhecimento facial/monitoramento entram no portfólio das associadas. O cluster exige leitura cuidadosa para separar aplicação real de discurso genérico.','uso':'Criar pasta sobre IA responsável, analytics, sensores, biometria, privacidade e governança algorítmica.','themes':['IA / gestão','Big data / bilhetagem','Reconhecimento facial','Segurança / tecnologia']},
+ {'id':'tecnologia-brasileira-vitrine','titulo':'Vitrine da tecnologia brasileira de mobilidade e internacionalização','leitura':'Prodata/Mais Mobi, Bus2, Empresa 1 e SONDA aparecem em eventos, internacionalização e implantação fora de mercados tradicionais. O cluster serve para observar posicionamento de mercado e expansão, antes de afirmar tendência.','uso':'Criar pasta sobre indústria brasileira de tecnologia para mobilidade, exportação, Lat.Bus, APTA e Paraguai.','themes':['Internacionalização','Tempo real / internacionalização','Apps de mobilidade','Tecnologia / Lat.Bus','Smart cities / mobilidade']},
 ]
-for t in trend_defs:
+for t in cluster_defs:
     t['achados']=[it for it in items if it['tema'] in t['themes']]
-trends=[t for t in trend_defs if len(t['achados'])>=2]
+clusters=[t for t in cluster_defs if len(t['achados'])>=2]
+trends=[]
 by_company={}
 for it in items: by_company.setdefault(it['empresa'],[]).append(it)
 site={c['nome_oficial']:c['site'] for c in companies}
@@ -85,26 +88,26 @@ css='''
 def A(h,t,cls=''): return f'<a class="{cls}" href="{esc(h)}" target="_blank" rel="noopener">{esc(t)}</a>' if h.startswith('http') else f'<a class="{cls}" href="{esc(h)}">{esc(t)}</a>'
 parts=[f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Radar ABtec Mobilidade — teste analítico {DATE}</title><style>{css}</style></head><body><main class="wrap"><div class="bar"></div>']
 parts.append('<section class="hero"><div><div class="title">Radar ABtec Mobilidade</div><div class="subtitle">Smart cities e tecnologias aplicadas à mobilidade no Brasil — inteligência semanal para ABtec</div><div class="date">Teste analítico · 10 de outubro de 2026 · janela: últimos 12 meses</div></div><div class="logo">ABtec<br>Mobilidade</div></section>')
-parts.append(f'<section class="intro"><strong>Teste editorial com conteúdo vasculhado.</strong> Esta versão usa {len(items)} achados validados com URLs originais, sites oficiais das associadas, redes sociais encontradas nos sites oficiais e fontes setoriais brasileiras. As tendências não são cards automáticos: foram criadas depois da análise dos achados.</section>')
-parts.append('<nav class="jump"><a href="#tendencias">Tendências reais encontradas</a><a href="#associadas">Associadas e achados</a><a href="#fontes">Fontes brasileiras para seguir</a><a href="#metodo">Método</a></nav>')
+parts.append(f'<section class="intro"><strong>Teste editorial com conteúdo vasculhado.</strong> Esta versão usa {len(items)} achados validados com URLs originais, sites oficiais das associadas, redes sociais encontradas nos sites oficiais e fontes setoriais brasileiras. Os clusters não são tendências automáticas: são agrupamentos temáticos criados depois da análise dos achados para permitir leitura de recorrência no futuro.</section>')
+parts.append('<nav class="jump"><a href="#clusters">Assuntos clusterizados</a><a href="#associadas">Associadas e achados</a><a href="#fontes">Fontes brasileiras para seguir</a><a href="#metodo">Método</a></nav>')
 parts.append('<section class="section"><h2>Associadas mapeadas</h2><div class="jump">')
 for c in companies:
     name=c['nome_oficial']; count=len(by_company.get(name,[])); label=f'{name} ({count})' if count else f'{name} (site/redes)'
     parts.append(A('#assoc-'+slug(name),label))
 parts.append('</div><p class="meta">Botões levam ao bloco da associada. Dentro de cada bloco há site oficial, redes encontradas e matérias/achados quando houver.</p></section>')
-parts.append('<section class="section" id="tendencias"><h2>Tendências reais encontradas</h2><p>As tendências abaixo só aparecem porque há pelo menos dois achados sustentando a leitura. Os botões levam às fontes específicas.</p>')
-for t in trends:
-    parts.append(f'<article class="trendcard" id="trend-{t["id"]}"><span class="badge trend">Tendência validada</span><h3>{esc(t["titulo"])}</h3><div class="field"><b>Leitura executiva:</b> {esc(t["leitura"])}</div><div class="field"><b>Como a ABtec pode usar:</b> {esc(t["uso"])}</div><div class="field"><b>Achados que sustentam:</b><br>')
+parts.append('<section class="section" id="clusters"><h2>Assuntos clusterizados</h2><p>Os clusters abaixo agrupam achados por assunto. Eles não são chamados de tendência ainda; servem para acumular evidências e, no futuro, identificar tendências de mercado com base em recorrência e análise.</p>')
+for t in clusters:
+    parts.append(f'<article class="trendcard" id="cluster-{t["id"]}"><span class="badge trend">Cluster temático</span><h3>{esc(t["titulo"])}</h3><div class="field"><b>Leitura executiva:</b> {esc(t["leitura"])}</div><div class="field"><b>Como a ABtec pode usar:</b> {esc(t["uso"])}</div><div class="field"><b>Achados que sustentam:</b><br>')
     for it in t['achados']: parts.append(f'<a class="trendbtn" href="#achado-{esc(it["id"])}">{esc(it["empresa"])} · {esc(it["tema"])}</a>')
     parts.append('</div></article>')
 parts.append('</section>')
-parts.append('<section class="summary"><h2>Resumo executivo</h2><ul><li>A agenda mais forte é a combinação entre governança de dados, transparência e bilhetagem como infraestrutura de informação pública.</li><li>Open payment, Pix, carteiras digitais e bilhetagem digital aparecem como frente concreta para associadas.</li><li>Apps e plataformas deixam de ser apenas canal de informação e passam a compor gestão, confiança operacional e relacionamento com usuário.</li><li>Há oportunidade clara para a ABtec organizar pastas por tema, e não por empresa: dados/transparência, pagamentos, apps, IA/sensores e internacionalização.</li></ul></section>')
+parts.append('<section class="summary"><h2>Resumo executivo</h2><ul><li>O cluster mais forte nesta prévia combina governança de dados, transparência e bilhetagem como infraestrutura de informação pública.</li><li>Open payment, Pix, carteiras digitais e bilhetagem digital aparecem como frente concreta para associadas.</li><li>Apps e plataformas deixam de ser apenas canal de informação e passam a compor gestão, confiança operacional e relacionamento com usuário.</li><li>Há oportunidade clara para a ABtec organizar pastas por tema, e não por empresa: dados/transparência, pagamentos, apps, IA/sensores e internacionalização; a leitura de tendência virá depois de acompanhar recorrência.</li></ul></section>')
 parts.append('<section class="section" id="associadas"><h2>Achados por associada</h2>')
 for c in companies:
     name=c['nome_oficial']; parts.append(f'<section id="assoc-{slug(name)}"><h3>{esc(name)}</h3><div class="btnrow">{A(c["site"],"Site oficial","smallbtn")}')
     for s in social_by.get(name,[])[:5]: parts.append(A(s['url'],s['plataforma'].replace('www.',''),'smallbtn'))
-    for t in trends:
-        if any(it['empresa']==name for it in t['achados']): parts.append(A('#trend-'+t['id'],'Tendência: '+t['titulo'][:38],'smallbtn'))
+    for t in clusters:
+        if any(it['empresa']==name for it in t['achados']): parts.append(A('#cluster-'+t['id'],'Cluster: '+t['titulo'][:38],'smallbtn'))
     parts.append('</div>')
     if name in by_company:
         for it in by_company[name]:
@@ -125,9 +128,10 @@ parts.append('<footer class="foot"><p><strong>Nota:</strong> protótipo público
 html_out=''.join(parts)
 OUT.mkdir(parents=True,exist_ok=True)
 (OUT/'selecionados_curados.json').write_text(json.dumps(items,ensure_ascii=False,indent=2),'utf-8')
+(OUT/'clusters_tematicos.json').write_text(json.dumps(clusters,ensure_ascii=False,indent=2),'utf-8')
 (OUT/'tendencias.json').write_text(json.dumps(trends,ensure_ascii=False,indent=2),'utf-8')
 (OUT/'index.html').write_text(html_out,'utf-8')
 (ROOT/'prototipos/layout-semanal/index.html').write_text(html_out,'utf-8')
 home=f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Radar ABtec Mobilidade</title><style>{css}</style></head><body><main class="wrap"><div class="bar"></div><section class="hero"><div><div class="title">Radar ABtec Mobilidade</div><div class="subtitle">Inteligência semanal sobre smart cities e tecnologia para mobilidade no Brasil</div><div class="date">Página inicial pública de teste</div></div><div class="logo">ABtec<br>Mobilidade</div></section><section class="intro"><p>Ambiente separado do PANORAMA para organizar achados, tendências e pastas estratégicas para a ABtec Mobilidade.</p><div class="btnrow"><a class="btn" href="edicoes-semanais/{DATE}/">Abrir teste analítico</a><a class="smallbtn" href="prototipos/layout-semanal/">Abrir protótipo de layout</a><a class="smallbtn" href="fontes/associadas_abtec_oficial.csv">Base de associadas</a></div></section></main></body></html>'
 (ROOT/'index.html').write_text(home,'utf-8')
-print(json.dumps({'items':len(items),'trends':len(trends),'companies':len(companies),'cards':html_out.count('class="card"'),'google_news':html_out.count('news.google.com'),'empty_href':html_out.count('href="#"')},ensure_ascii=False,indent=2))
+print(json.dumps({'items':len(items),'clusters':len(clusters),'trends_promoted':len(trends),'companies':len(companies),'cards':html_out.count('class="card"'),'google_news':html_out.count('news.google.com'),'empty_href':html_out.count('href="#"')},ensure_ascii=False,indent=2))
