@@ -112,9 +112,7 @@ parts.append('<section class="section" id="associadas"><h2>Achados por associada
 for c in companies:
     name=c['nome_oficial']; parts.append(f'<section id="assoc-{slug(name)}"><h3>{esc(name)}</h3><div class="btnrow">{A(c["site"],"Site oficial","smallbtn")}')
     for s in social_by.get(name,[])[:5]: parts.append(A(s['url'],s['plataforma'].replace('www.',''),'smallbtn'))
-    for t in clusters:
-        if any(it['empresa']==name for it in t['achados']): parts.append(A('#cluster-'+t['id'],'Cluster: '+t['titulo'][:38],'smallbtn'))
-    parts.append('</div>')
+    parts.append('</div><p class="meta">Canais de comunicação oficiais/localizados nesta primeira varredura. Achados e clusters aparecem abaixo, em seções próprias.</p>')
     if name in by_company:
         for it in by_company[name]:
             parts.append(f'<article class="card" id="achado-{esc(it["id"])}"><span class="badge">{esc(it["tipo"])}</span><div class="meta">{esc(it["empresa"])} | {esc(it["fonte"])} | {esc(it["tema"])}</div><h3>{esc(it["titulo"])}</h3><div class="field"><b>Resumo:</b> {esc(it["resumo"])}</div><div class="field"><b>Por que importa:</b> {esc(it["impacto"])}</div>{A(it["url"],"Abrir fonte","btn")}</article>')
