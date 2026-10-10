@@ -1,0 +1,122 @@
+[
+  {
+    "empresa": "ABtec Mobilidade",
+    "tema": "Governança de dados e transparência",
+    "titulo": "ABTEC defende tecnologia e governança de dados como pilares para ampliar a transparência do transporte público",
+    "resumo": "A associação aparece conectando tecnologia, dados e transparência como agenda pública para qualificar o transporte coletivo.",
+    "impacto": "Sinaliza uma narrativa institucional forte para a ABtec: tecnologia não só como fornecedor, mas como infraestrutura de governança setorial.",
+    "url": "https://technibus.com.br/2026/10/06/abtec-defende-tecnologia-e-governanca-de-dados-como-pilares-para-ampliar-a-transparencia-do-transporte-publico"
+  },
+  {
+    "empresa": "ABtec Mobilidade",
+    "tema": "Transparência e ENMU",
+    "titulo": "Após Estudo Nacional de Mobilidade Urbana apontar falhas na transparência, ABTEC defende uso de tecnologia",
+    "resumo": "A cobertura relaciona o debate do ENMU à defesa de soluções tecnológicas para qualificar informação, gestão e controle do transporte público.",
+    "impacto": "Bom insumo para pasta/tendência sobre governança, accountability e maturidade digital dos sistemas de transporte.",
+    "url": "https://diariodotransporte.com.br/2026/10/04/apos-estudo-nacional-de-mobilidade-urbana-apontar-falhas-na-transparencia-abtec-defende-uso-de-tecnologia-para-qualificar-transporte-publico/"
+  },
+  {
+    "empresa": "Bus2",
+    "tema": "Dados em tempo real / internacionalização",
+    "titulo": "Aplicativo BuzzPY com tecnologia da brasileira Bus2 estreia no Paraguai com monitoramento em tempo real de ônibus",
+    "resumo": "A tecnologia da Bus2 foi aplicada no Paraguai em app com monitoramento em tempo real de ônibus.",
+    "impacto": "Mostra exportação de tecnologia brasileira e reforça a tendência de informação ao passageiro em tempo real como infraestrutura de confiança.",
+    "url": "https://diariodotransporte.com.br/2026/10/09/aplicativo-buzzpy-com-tecnologia-da-brasileira-bus2-estreia-no-paraguai-com-monitoramento-em-tempo-real-de-onibus/"
+  },
+  {
+    "empresa": "Bus2",
+    "tema": "Apps de mobilidade",
+    "titulo": "Lançado o primeiro app de mobilidade do Paraguai com tecnologia Bus2",
+    "resumo": "Technibus também registrou o lançamento do app paraguaio com tecnologia Bus2.",
+    "impacto": "O mesmo caso ganha força por aparecer em mais de uma fonte setorial, útil para monitorar reputação e presença regional.",
+    "url": "https://technibus.com.br/2026/10/09/lancado-o-primeiro-app-de-mobilidade-do-paraguai-com-tecnologia-bus2"
+  },
+  {
+    "empresa": "Cittati / CittaMobi",
+    "tema": "Smart cities e mobilidade urbana",
+    "titulo": "IPT disponibiliza parecer técnico sobre aplicativo Cittamobi como solução tecnológica para Cidades Inteligentes em Mobilidade Urbana",
+    "resumo": "O IPT disponibilizou parecer sobre o CittaMobi como solução tecnológica para cidades inteligentes em mobilidade urbana.",
+    "impacto": "É um achado-chave para a pasta Smart Cities: validação técnica externa pode apoiar posicionamento e reputação setorial.",
+    "url": "https://diariodotransporte.com.br/2026/10/05/ipt-disponibiliza-parecer-tecnico-sobre-aplicativo-cittamobi-como-solucao-tecnologica-para-cidades-inteligentes-em-mobilidade-urbana/"
+  },
+  {
+    "empresa": "Cittati",
+    "tema": "Gestão de frota / monitoramento",
+    "titulo": "Prefeitura de Jundiaí testa nova tecnologia de monitoramento nos ônibus para otimizar a gestão da frota",
+    "resumo": "Jundiaí testa tecnologia de monitoramento para melhorar a gestão da frota de ônibus.",
+    "impacto": "Sinaliza demanda municipal por ferramentas de monitoramento, performance e tomada de decisão operacional.",
+    "url": "https://diariodotransporte.com.br/2026/10/08/prefeitura-de-jundiai-sp-testa-nova-tecnologia-de-monitoramento-nos-onibus-para-otimizar-a-gestao-da-frota/"
+  },
+  {
+    "empresa": "Empresa 1",
+    "tema": "Bilhetagem digital / liderança",
+    "titulo": "Empresa 1, pioneira da bilhetagem digital no transporte público brasileiro, anuncia Marcos Maciel como novo CEO",
+    "resumo": "A Empresa 1 anunciou novo CEO, em cobertura que reforça sua posição histórica em bilhetagem digital.",
+    "impacto": "Mudança de liderança pode indicar reposicionamento, expansão comercial ou nova fase de produto.",
+    "url": "https://diariodotransporte.com.br/2026/10/09/empresa-1-pioneira-da-bilhetagem-digital-no-transporte-publico-brasileiro-anuncia-marcos-maciel-como-novo-ceo/"
+  },
+  {
+    "empresa": "Empresa 1",
+    "tema": "Modernização de frotas / tecnologia embarcada",
+    "titulo": "Empresa 1 cria campanha “Moderniza!” para ajudar empresários de ônibus a atualizar tecnologias de suas frotas",
+    "resumo": "A campanha Moderniza! mira atualização tecnológica de frotas de ônibus.",
+    "impacto": "Mostra estratégia de mercado orientada a adoção tecnológica por operadores, não apenas venda pontual de sistemas.",
+    "url": "https://diariodotransporte.com.br/2026/10/07/empresa-1-cria-campanha-moderniza-para-ajudar-empresarios-de-onibus-a-atualizar-as-tecnologias-de-suas-frotas/"
+  },
+  {
+    "empresa": "Empresa 1",
+    "tema": "Bilhetagem digital / Lat.Bus",
+    "titulo": "Empresa 1 apresenta tecnologias de bilhetagem digital e mobilidade urbana na LAT.BUS 2026",
+    "resumo": "A empresa apresentou tecnologias de bilhetagem digital e mobilidade urbana na feira setorial.",
+    "impacto": "Reforça o papel das feiras como vitrine de agenda tecnológica e comercial do setor.",
+    "url": "https://www.frotacia.com.br/empresa-1-apresenta-tecnologias-de-bilhetagem-digital-e-mobilidade-urbana-na-lat-bus-2026/"
+  },
+  {
+    "empresa": "Prodata Mobility Brasil",
+    "tema": "Bilhetagem e pagamentos / internacionalização",
+    "titulo": "Prodata Mais Mobi leva tecnologia brasileira ao maior evento de transporte público dos EUA",
+    "resumo": "A Prodata levou solução brasileira ao evento de transporte público nos EUA.",
+    "impacto": "Sinal de internacionalização e oportunidade de narrativa sobre tecnologia brasileira exportável.",
+    "url": "https://diariodotransporte.com.br/2026/10/08/prodata-mais-mobi-leva-tecnologia-brasileira-ao-maior-evento-de-transporte-publico-dos-eua/"
+  },
+  {
+    "empresa": "Prodata Mobility Brasil",
+    "tema": "Fórum setorial / soluções tecnológicas",
+    "titulo": "Prodata participa do Fórum Mineiro de Mobilidade Urbana e destaca soluções tecnológicas para transporte público",
+    "resumo": "A Prodata marcou presença em fórum setorial destacando soluções para transporte público.",
+    "impacto": "Eventos regionais ajudam a mapear onde tecnologia está entrando na agenda de gestores e operadores.",
+    "url": "https://diariodotransporte.com.br/2026/10/06/prodata-mobility-participa-do-forum-mineiro-de-mobilidade-urbana-e-destaca-solucoes-tecnologicas-para-o-transporte-publico/"
+  },
+  {
+    "empresa": "Prodata Mobility Brasil",
+    "tema": "Pagamento digital / integração modal",
+    "titulo": "Prodata inova em experiência integrada nos modais de pagamento digital de ônibus e VLTs na Baixada Santista",
+    "resumo": "A solução envolve integração de pagamento digital em ônibus e VLTs.",
+    "impacto": "Caso relevante para tendência de interoperabilidade, experiência do usuário e pagamento como camada de integração metropolitana.",
+    "url": "https://diariodotransporte.com.br/2026/10/03/prodata-mobility-brasil-inova-mais-uma-vez-e-oferece-experiencia-integrada-nos-modais-de-pagamento-digital-de-onibus-e-vlts-na-baixada-santista/"
+  },
+  {
+    "empresa": "SONDA",
+    "tema": "Pagamentos / QR Code",
+    "titulo": "Pagamento de tarifas via QR Code: SONDA acumula mais de 1,5 milhão de usuários na América Latina",
+    "resumo": "A SONDA aparece como pioneira em modelo de QR Code para pagamento tarifário na região.",
+    "impacto": "Tema importante para monitorar open payment, meios digitais e escalabilidade regional de soluções de arrecadação.",
+    "url": "https://diariodotransporte.com.br/2026/10/06/pagamento-de-tarifas-de-transporte-publico-via-qr-code-sonda-e-pioneira-no-modelo-e-acumula-mais-de-15-milhao-de-usuarios-do-sistema-na-america-latina/"
+  },
+  {
+    "empresa": "Transdata",
+    "tema": "Open payment / cartões por aproximação",
+    "titulo": "Metrô do DF, Transdata e Mastercard passam a aceitar cartões de débito e crédito por aproximação",
+    "resumo": "O Metrô do DF passou a aceitar pagamento por aproximação em parceria com Transdata e Mastercard.",
+    "impacto": "Caso central para monitorar open payment em sistemas metroferroviários e parcerias entre tecnologia, operador e arranjos de pagamento.",
+    "url": "https://diariodotransporte.com.br/2026/10/07/metro-do-df-em-parceria-com-transdata-e-mastercard-passa-a-aceitar-cartoes-de-debito-e-credito-por-aproximacao/"
+  },
+  {
+    "empresa": "Transdata",
+    "tema": "Integração de sistemas / futuro do transporte",
+    "titulo": "Tecnologia e integração de sistemas redefinem o futuro do transporte público, aponta Romano Garcia, da Transdata",
+    "resumo": "Executivo da Transdata destaca tecnologia e integração de sistemas como vetores do futuro do transporte público.",
+    "impacto": "Bom insumo para análise de posicionamento institucional e tendências de arquitetura tecnológica do setor.",
+    "url": "https://technibus.com.br/2026/09/24/tecnologia-e-integracao-de-sistemas-redefinem-o-futuro-do-transporte-publico-aponta-romano-garcia-da-transdata"
+  }
+]
