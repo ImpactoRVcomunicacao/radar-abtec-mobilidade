@@ -116,6 +116,20 @@ for c in companies:
         parts.append('<article class="card"><span class="badge">Monitoramento</span><h3>Sem achado externo curado nesta prévia</h3><div class="field">Empresa mapeada por site oficial e redes; entra na próxima rodada de imprensa e redes sociais.</div></article>')
     parts.append('</section>')
 parts.append('</section>')
+parts.append('<section class="section" id="redes"><h2>Redes sociais mapeadas</h2><p>Nesta etapa foram mapeados canais sociais encontrados nos sites oficiais das associadas. Isso ainda não é análise de conteúdo social: a próxima rodada deve ler posts recentes e promover apenas sinais relevantes para achados ou clusters.</p><div class="grid">')
+for name in [c['nome_oficial'] for c in companies]:
+    links=social_by.get(name,[])
+    parts.append(f'<article class="card"><h3>{esc(name)}</h3>')
+    if links:
+        parts.append('<div class="btnrow">')
+        for s in links:
+            label=s.get('label') or s['plataforma'].replace('www.','').replace('.com','')
+            parts.append(A(s['url'],label,'smallbtn'))
+        parts.append('</div><p class="meta">Fonte: canais localizados a partir do site oficial.</p>')
+    else:
+        parts.append('<p class="meta">Sem rede social oficial validada nesta primeira varredura. Manter em pendência.</p>')
+    parts.append('</article>')
+parts.append('</div></section>')
 parts.append('<section class="section" id="fontes"><h2>Fontes brasileiras para seguir</h2><p>Base inicial inspirada no raciocínio do PANORAMA/UITP, adaptada ao tema ABtec: tecnologia, transporte público, mobilidade urbana e smart cities no Brasil.</p><div class="grid">')
 for group in ['Instituições e entidades brasileiras','Pesquisa, smart cities e mobilidade','Imprensa setorial e blogs']:
     parts.append(f'<article class="card"><h3>{group}</h3><div class="btnrow">')
