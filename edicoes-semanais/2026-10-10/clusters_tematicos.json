@@ -1,9 +1,7 @@
 [
   {
-    "id": "apps-plataformas-confianca",
-    "titulo": "Apps, plataformas e informação ao passageiro",
-    "leitura": "Achados ligados a apps, tempo real e plataformas digitais indicam que a comunicação com o usuário é parte da infraestrutura tecnológica do transporte.",
-    "pasta": "Pasta sugerida: informação ao passageiro, app como canal público, SLA de dados e integração passageiro-operador-gestor.",
+    "id": "apps-plataformas",
+    "titulo": "Apps e plataformas de confiança operacional",
     "themes": [
       "Tempo real / internacionalização",
       "Apps de mobilidade",
@@ -51,8 +49,8 @@
         "url": "https://diariodotransporte.com.br/2026/03/27/mais-mobi-estreia-no-smart-city-expo-curitiba-2026-com-solucoes-inovadoras-de-mobilidade/",
         "fonte": "diariodotransporte.com.br",
         "id": "achado-15",
-        "resumo": "O CittaMobi apareceu como solução tecnológica para cidades inteligentes em mobilidade urbana, mas ficará em ecossistema até validação societária/associativa com Cittati.",
-        "impacto": "Entra como achado de ecossistema, não como achado de associada, até validação da relação CittaMobi/Cittati.",
+        "resumo": "A Mais.Mobi apareceu no Smart City Expo Curitiba 2026 com soluções de mobilidade, reforçando presença em eventos de cidades inteligentes.",
+        "impacto": "Conecta tecnologia de mobilidade ao ecossistema de smart cities, útil para mapear vitrines e eventos estratégicos da ABtec Mobilidade.",
         "tipo": "Fonte externa"
       },
       {
@@ -67,41 +65,46 @@
         "tipo": "Fonte externa"
       }
     ],
-    "criterios": [
+    "criteria": [
       [
-        "Recorrência",
-        true
+        "Volume",
+        true,
+        "5 achados"
       ],
       [
-        "Diversidade de atores",
-        true
+        "Recorrência",
+        true,
+        "4 atores / 2 fontes"
+      ],
+      [
+        "Atualidade",
+        false,
+        "sem sinal novo na semana"
+      ],
+      [
+        "Aderência ABtec Mobilidade",
+        true,
+        "tecnologia aplicada à mobilidade"
       ],
       [
         "Impacto setorial",
-        false
-      ],
-      [
-        "Adoção verificável",
-        true
-      ],
-      [
-        "Relevância ABtec",
-        true
+        true,
+        "impacto em política/operação/usuário/mercado"
       ]
     ],
     "score": 4,
-    "maturidade": "cluster em consolidação"
+    "status": "Candidato a tendência"
   },
   {
     "id": "bilhetagem-open-payment",
-    "titulo": "Bilhetagem digital, Pix e carteiras digitais",
-    "leitura": "Pix no validador, Carteira Google, dispositivos embarcados e bilhetagem digital aparecem como frente recorrente do setor.",
-    "pasta": "Pasta sugerida: open payment brasileiro, validadores, carteiras digitais, inclusão financeira e dados de pagamento.",
+    "titulo": "Bilhetagem digital, Pix e open payment",
     "themes": [
       "PIX no validador",
       "Carteira digital",
       "Bilhetagem digital",
-      "Bilhetagem / Lat.Bus"
+      "Bilhetagem / Lat.Bus",
+      "Cashback tarifário digital",
+      "Bilhetagem / PIX / referência internacional"
     ],
     "achados": [
       {
@@ -147,65 +150,6 @@
         "resumo": "Transdata aparece em caso de Carteira Google nos ônibus de Ponta Grossa.",
         "impacto": "Carteiras digitais ampliam meios de pagamento e aproximam transporte de ecossistemas financeiros.",
         "tipo": "Fonte externa"
-      }
-    ],
-    "criterios": [
-      [
-        "Recorrência",
-        true
-      ],
-      [
-        "Diversidade de atores",
-        true
-      ],
-      [
-        "Impacto setorial",
-        true
-      ],
-      [
-        "Adoção verificável",
-        true
-      ],
-      [
-        "Relevância ABtec",
-        true
-      ]
-    ],
-    "score": 5,
-    "maturidade": "forte candidato a tendência"
-  },
-  {
-    "id": "cashback-incentivos-tarifarios",
-    "titulo": "Cashback, incentivos tarifários e políticas digitais de demanda",
-    "leitura": "O caso Natal/RN mostra uso do cartão eletrônico para devolver tarifa e estimular deslocamentos a áreas comerciais. Ainda é achado isolado, mas pode virar cluster importante se aparecer em outras cidades.",
-    "pasta": "Pasta sugerida: cashback tarifário, política de incentivo à demanda, créditos em cartão de transporte e integração comércio-mobilidade.",
-    "themes": [
-      "Cashback tarifário digital",
-      "PIX no validador",
-      "Carteira digital"
-    ],
-    "achados": [
-      {
-        "empresa": "Empresa 1",
-        "tema": "PIX no validador",
-        "titulo": "Florianópolis adota pagamento por Pix no validador dos ônibus",
-        "url": "https://technibus.com.br/2025/10/22/florianopolis-adota-pagamento-por-pix-no-validador-dos-onibus",
-        "fonte": "technibus.com.br",
-        "id": "achado-09",
-        "resumo": "Florianópolis adotou pagamento por Pix no validador dos ônibus, reforçando open payment no transporte.",
-        "impacto": "O Pix no validador pode ser tendência brasileira própria de inclusão em open payment.",
-        "tipo": "Fonte externa"
-      },
-      {
-        "empresa": "Transdata",
-        "tema": "Carteira digital",
-        "titulo": "Parceria entre Transdata, Prefeitura e VCG leva Carteira Google aos ônibus de Ponta Grossa",
-        "url": "https://diariodotransporte.com.br/2026/01/30/parceria-entre-transdata-prefeitura-e-vcg-leva-carteira-google-aos-onibus-de-ponta-grossa-pr/",
-        "fonte": "diariodotransporte.com.br",
-        "id": "achado-19",
-        "resumo": "Transdata aparece em caso de Carteira Google nos ônibus de Ponta Grossa.",
-        "impacto": "Carteiras digitais ampliam meios de pagamento e aproximam transporte de ecossistemas financeiros.",
-        "tipo": "Fonte externa"
       },
       {
         "empresa": "Ecossistema Smart Cities",
@@ -217,108 +161,52 @@
         "resumo": "Natal/RN implementa cashback da tarifa de ônibus com devolução do valor no cartão eletrônico de transporte em até 72 horas.",
         "impacto": "Tem tecnologia porque depende de bilhetagem/cartão eletrônico, regra de elegibilidade, processamento de embarque e crédito posterior; deve ser monitorado como política tarifária digital.",
         "tipo": "Ecossistema / fora das associadas"
+      },
+      {
+        "empresa": "Ecossistema Smart Cities",
+        "tema": "Bilhetagem / PIX / referência internacional",
+        "titulo": "Bilhete Único de São Paulo é citado pela UITP e Pix aparece entre alternativas para o transporte público",
+        "url": "https://diariodotransporte.com.br/2026/10/10/bilhete-unico-de-sao-paulo-e-citado-pela-uitp-entre-referencias-mundiais-de-bilhetagem-e-pix-aparece-entre-novas-alternativas-para-o-transporte-publico/",
+        "fonte": "diariodotransporte.com.br",
+        "id": "achado-21",
+        "resumo": "O Bilhete Único de São Paulo foi citado pela UITP entre referências mundiais de bilhetagem, enquanto Pix aparece como alternativa de pagamento no transporte público.",
+        "impacto": "É achado incremental de 10/10 e reforça o cluster de bilhetagem digital/open payment, com conexão direta entre tecnologia, referência internacional e meios de pagamento brasileiros.",
+        "tipo": "Ecossistema / imprensa setorial"
       }
     ],
-    "criterios": [
+    "criteria": [
       [
-        "Recorrência",
-        true
+        "Volume",
+        true,
+        "6 achados"
       ],
       [
-        "Diversidade de atores",
-        true
+        "Recorrência",
+        true,
+        "4 atores / 3 fontes"
+      ],
+      [
+        "Atualidade",
+        true,
+        "sinal em outubro/2026"
+      ],
+      [
+        "Aderência ABtec Mobilidade",
+        true,
+        "tecnologia aplicada à mobilidade"
       ],
       [
         "Impacto setorial",
-        true
-      ],
-      [
-        "Adoção verificável",
-        true
-      ],
-      [
-        "Relevância ABtec",
-        true
+        true,
+        "impacto em política/operação/usuário/mercado"
       ]
     ],
     "score": 5,
-    "maturidade": "forte candidato a tendência"
+    "status": "Candidato a tendência"
   },
   {
-    "id": "dados-transparencia-governanca",
-    "titulo": "Dados, transparência e governança pública",
-    "leitura": "ABtec, ENMU e big data de bilhetagem aparecem como insumos para qualificar gestão pública, indicadores e transparência.",
-    "pasta": "Pasta sugerida: dados públicos, interoperabilidade, transparência, ENMU e indicadores para transporte coletivo.",
-    "themes": [
-      "Governança de dados",
-      "Transparência / ENMU",
-      "Big data / bilhetagem"
-    ],
-    "achados": [
-      {
-        "empresa": "ABtec Mobilidade",
-        "tema": "Governança de dados",
-        "titulo": "ABTEC defende tecnologia e governança de dados como pilares para ampliar a transparência do transporte público",
-        "url": "https://technibus.com.br/2026/07/03/abtec-defende-tecnologia-e-governanca-de-dados-como-pilares-para-ampliar-a-transparencia-do-transporte-publico",
-        "fonte": "technibus.com.br",
-        "id": "achado-01",
-        "resumo": "A ABtec conecta tecnologia, governança de dados e transparência como agenda pública do transporte coletivo.",
-        "impacto": "Sustenta uma pasta de transparência, dados públicos, interoperabilidade e accountability.",
-        "tipo": "Fonte externa"
-      },
-      {
-        "empresa": "ABtec Mobilidade",
-        "tema": "Transparência / ENMU",
-        "titulo": "Após ENMU apontar falhas na transparência, ABTEC defende uso de tecnologia",
-        "url": "https://diariodotransporte.com.br/2026/07/03/apos-estudo-nacional-de-mobilidade-urbana-apontar-falhas-na-transparencia-abtec-defende-uso-de-tecnologia-para-qualificar-transporte-publico/",
-        "fonte": "diariodotransporte.com.br",
-        "id": "achado-02",
-        "resumo": "A cobertura usa o ENMU como gancho para defender tecnologia na qualificação da gestão e da informação pública.",
-        "impacto": "Ajuda a ABtec a se posicionar como voz técnica em maturidade digital do setor.",
-        "tipo": "Fonte externa"
-      },
-      {
-        "empresa": "Bus2",
-        "tema": "Big data / bilhetagem",
-        "titulo": "Da bilhetagem ao big data: Bus2 leva leitura inteligente dos ônibus brasileiros à Arena ANTP 2025",
-        "url": "https://www.antp.org.br/noticias/clippings/da-bilhetagem-ao-big-data-bus2-leva-leitura-inteligente-dos-onibus-brasileiros-a-arena-antp-2025.html",
-        "fonte": "antp.org.br",
-        "id": "achado-05",
-        "resumo": "A bilhetagem aparece como camada de leitura inteligente da operação de ônibus.",
-        "impacto": "Indica que bilhetagem está virando sensor urbano, não só mecanismo de cobrança.",
-        "tipo": "Fonte externa"
-      }
-    ],
-    "criterios": [
-      [
-        "Recorrência",
-        true
-      ],
-      [
-        "Diversidade de atores",
-        false
-      ],
-      [
-        "Impacto setorial",
-        true
-      ],
-      [
-        "Adoção verificável",
-        true
-      ],
-      [
-        "Relevância ABtec",
-        true
-      ]
-    ],
-    "score": 4,
-    "maturidade": "cluster em consolidação"
-  },
-  {
-    "id": "ia-sensores-seguranca",
-    "titulo": "IA, sensores, biometria e segurança operacional",
-    "leitura": "IA, reconhecimento facial, segurança e analytics surgem como assuntos de alto potencial, mas exigem critério para separar aplicação real de discurso comercial.",
-    "pasta": "Pasta sugerida: IA responsável, sensores, biometria, privacidade, segurança e governança algorítmica.",
+    "id": "dados-ia-sensores",
+    "titulo": "Dados, IA, sensores e biometria",
     "themes": [
       "IA / gestão",
       "Big data / bilhetagem",
@@ -371,54 +259,118 @@
         "tipo": "Fonte externa"
       }
     ],
-    "criterios": [
+    "criteria": [
       [
-        "Recorrência",
-        true
+        "Volume",
+        true,
+        "4 achados"
       ],
       [
-        "Diversidade de atores",
-        true
+        "Recorrência",
+        true,
+        "4 atores / 4 fontes"
+      ],
+      [
+        "Atualidade",
+        false,
+        "sem sinal novo na semana"
+      ],
+      [
+        "Aderência ABtec Mobilidade",
+        true,
+        "tecnologia aplicada à mobilidade"
       ],
       [
         "Impacto setorial",
-        true
-      ],
-      [
-        "Adoção verificável",
-        true
-      ],
-      [
-        "Relevância ABtec",
-        true
+        true,
+        "impacto em política/operação/usuário/mercado"
       ]
     ],
-    "score": 5,
-    "maturidade": "forte candidato a tendência"
+    "score": 4,
+    "status": "Candidato a tendência"
   },
   {
-    "id": "integracao-sistemas",
-    "titulo": "Integração de sistemas e gestão operacional",
-    "leitura": "Integração, sistemas embarcados e gestão de operação aparecem como base menos visível, mas crítica, para cidades inteligentes e transporte público digital.",
-    "pasta": "Pasta sugerida: ITS, backoffice, integração operacional, gestão de frota e plataformas de controle.",
+    "id": "governanca-transparencia",
+    "titulo": "Governança de dados e transparência pública",
     "themes": [
-      "Integração de sistemas",
-      "Sistema integrado",
-      "Bilhetagem digital",
-      "Mobilidade inteligente"
+      "Governança de dados",
+      "Transparência / ENMU",
+      "Big data / bilhetagem"
     ],
     "achados": [
       {
-        "empresa": "ONBOARD",
-        "tema": "Bilhetagem digital",
-        "titulo": "DBD — dispositivo de bilhetagem digital",
-        "url": "https://onboard.com.br/dbd",
-        "fonte": "onboard.com.br",
-        "id": "achado-10",
-        "resumo": "A ONBOARD posiciona dispositivo de bilhetagem digital como infraestrutura embarcada.",
-        "impacto": "Ajuda a diferenciar bilhetagem digital de bilhetagem eletrônica tradicional.",
-        "tipo": "Site oficial / produto"
+        "empresa": "ABtec Mobilidade",
+        "tema": "Governança de dados",
+        "titulo": "ABTEC defende tecnologia e governança de dados como pilares para ampliar a transparência do transporte público",
+        "url": "https://technibus.com.br/2026/07/03/abtec-defende-tecnologia-e-governanca-de-dados-como-pilares-para-ampliar-a-transparencia-do-transporte-publico",
+        "fonte": "technibus.com.br",
+        "id": "achado-01",
+        "resumo": "A ABtec Mobilidade conecta tecnologia, governança de dados e transparência como agenda pública do transporte coletivo.",
+        "impacto": "Sustenta uma pasta de transparência, dados públicos, interoperabilidade e accountability.",
+        "tipo": "Fonte externa"
       },
+      {
+        "empresa": "ABtec Mobilidade",
+        "tema": "Transparência / ENMU",
+        "titulo": "Após ENMU apontar falhas na transparência, ABTEC defende uso de tecnologia",
+        "url": "https://diariodotransporte.com.br/2026/07/03/apos-estudo-nacional-de-mobilidade-urbana-apontar-falhas-na-transparencia-abtec-defende-uso-de-tecnologia-para-qualificar-transporte-publico/",
+        "fonte": "diariodotransporte.com.br",
+        "id": "achado-02",
+        "resumo": "A cobertura usa o ENMU como gancho para defender tecnologia na qualificação da gestão e da informação pública.",
+        "impacto": "Ajuda a ABtec Mobilidade a se posicionar como voz técnica em maturidade digital do setor.",
+        "tipo": "Fonte externa"
+      },
+      {
+        "empresa": "Bus2",
+        "tema": "Big data / bilhetagem",
+        "titulo": "Da bilhetagem ao big data: Bus2 leva leitura inteligente dos ônibus brasileiros à Arena ANTP 2025",
+        "url": "https://www.antp.org.br/noticias/clippings/da-bilhetagem-ao-big-data-bus2-leva-leitura-inteligente-dos-onibus-brasileiros-a-arena-antp-2025.html",
+        "fonte": "antp.org.br",
+        "id": "achado-05",
+        "resumo": "A bilhetagem aparece como camada de leitura inteligente da operação de ônibus.",
+        "impacto": "Indica que bilhetagem está virando sensor urbano, não só mecanismo de cobrança.",
+        "tipo": "Fonte externa"
+      }
+    ],
+    "criteria": [
+      [
+        "Volume",
+        true,
+        "3 achados"
+      ],
+      [
+        "Recorrência",
+        true,
+        "2 atores / 3 fontes"
+      ],
+      [
+        "Atualidade",
+        false,
+        "sem sinal novo na semana"
+      ],
+      [
+        "Aderência ABtec Mobilidade",
+        true,
+        "tecnologia aplicada à mobilidade"
+      ],
+      [
+        "Impacto setorial",
+        true,
+        "impacto em política/operação/usuário/mercado"
+      ]
+    ],
+    "score": 4,
+    "status": "Candidato a tendência"
+  },
+  {
+    "id": "sistemas-integracao",
+    "titulo": "Sistemas integrados e gestão operacional",
+    "themes": [
+      "Sistema integrado",
+      "Integração de sistemas",
+      "Mobilidade inteligente"
+    ],
+    "achados": [
       {
         "empresa": "Planeta Informática",
         "tema": "Sistema integrado",
@@ -453,42 +405,45 @@
         "tipo": "Fonte externa"
       }
     ],
-    "criterios": [
+    "criteria": [
       [
-        "Recorrência",
-        true
+        "Volume",
+        true,
+        "3 achados"
       ],
       [
-        "Diversidade de atores",
-        true
+        "Recorrência",
+        true,
+        "3 atores / 2 fontes"
+      ],
+      [
+        "Atualidade",
+        false,
+        "sem sinal novo na semana"
+      ],
+      [
+        "Aderência ABtec Mobilidade",
+        true,
+        "tecnologia aplicada à mobilidade"
       ],
       [
         "Impacto setorial",
-        true
-      ],
-      [
-        "Adoção verificável",
-        true
-      ],
-      [
-        "Relevância ABtec",
-        true
+        true,
+        "impacto em política/operação/usuário/mercado"
       ]
     ],
-    "score": 5,
-    "maturidade": "forte candidato a tendência"
+    "score": 4,
+    "status": "Candidato a tendência"
   },
   {
-    "id": "internacionalizacao-vitrines",
-    "titulo": "Internacionalização, eventos e vitrine de tecnologia brasileira",
-    "leitura": "Eventos, Lat.Bus, APTA e casos fora do Brasil mostram oportunidades de posicionar tecnologia nacional de mobilidade como pauta setorial.",
-    "pasta": "Pasta sugerida: exportação, feiras, casos internacionais, presença LATAM e agenda institucional das associadas.",
+    "id": "internacionalizacao-vitrine",
+    "titulo": "Tecnologia brasileira em vitrine nacional e internacional",
     "themes": [
       "Internacionalização",
       "Tempo real / internacionalização",
       "Apps de mobilidade",
-      "Tecnologia / Lat.Bus",
-      "Smart cities / mobilidade"
+      "Lat.Bus / tecnologia",
+      "Smart cities"
     ],
     "achados": [
       {
@@ -514,6 +469,17 @@
         "tipo": "Fonte externa"
       },
       {
+        "empresa": "Ecossistema Smart Cities",
+        "tema": "Smart cities",
+        "titulo": "IPT disponibiliza parecer técnico sobre aplicativo Cittamobi como solução tecnológica para Cidades Inteligentes",
+        "url": "https://diariodotransporte.com.br/2026/07/24/ipt-disponibiliza-parecer-tecnico-sobre-aplicativo-cittamobi-como-solucao-tecnologica-para-cidades-inteligentes-em-mobilidade-urbana/",
+        "fonte": "diariodotransporte.com.br",
+        "id": "achado-06",
+        "resumo": "O CittaMobi apareceu como solução tecnológica para cidades inteligentes em mobilidade urbana, mas ficará em ecossistema até validação societária/associativa com Cittati.",
+        "impacto": "Entra como achado de ecossistema, não como achado de associada, até validação da relação CittaMobi/Cittati.",
+        "tipo": "Ecossistema / fora das associadas"
+      },
+      {
         "empresa": "Prodata Mobility Brasil",
         "tema": "Internacionalização",
         "titulo": "Prodata Mais Mobi leva tecnologia brasileira ao maior evento de transporte público dos EUA",
@@ -523,31 +489,58 @@
         "resumo": "A Prodata/Mais Mobi levou tecnologia brasileira a evento internacional de transporte público.",
         "impacto": "Base para pasta sobre tecnologia brasileira ganhando vitrine internacional.",
         "tipo": "Fonte externa"
+      },
+      {
+        "empresa": "Prodata Mobility Brasil",
+        "tema": "Smart cities",
+        "titulo": "Mais.Mobi estreia no Smart City Expo Curitiba 2026",
+        "url": "https://diariodotransporte.com.br/2026/03/27/mais-mobi-estreia-no-smart-city-expo-curitiba-2026-com-solucoes-inovadoras-de-mobilidade/",
+        "fonte": "diariodotransporte.com.br",
+        "id": "achado-15",
+        "resumo": "A Mais.Mobi apareceu no Smart City Expo Curitiba 2026 com soluções de mobilidade, reforçando presença em eventos de cidades inteligentes.",
+        "impacto": "Conecta tecnologia de mobilidade ao ecossistema de smart cities, útil para mapear vitrines e eventos estratégicos da ABtec Mobilidade.",
+        "tipo": "Fonte externa"
+      },
+      {
+        "empresa": "SONDA",
+        "tema": "Lat.Bus / tecnologia",
+        "titulo": "Sonda apresenta tecnologias para transformar transporte e mobilidade urbana durante a Lat.Bus2026",
+        "url": "https://technibus.com.br/2026/08/10/sonda-apresenta-tecnologias-para-transformar-transporte-e-mobilidade-urbana-durante-a-lat-bus2026",
+        "fonte": "technibus.com.br",
+        "id": "achado-17",
+        "resumo": "Achado curado no radar.",
+        "impacto": "Relevante para monitoramento da ABtec Mobilidade.",
+        "tipo": "Fonte externa"
       }
     ],
-    "criterios": [
+    "criteria": [
       [
-        "Recorrência",
-        true
+        "Volume",
+        true,
+        "6 achados"
       ],
       [
-        "Diversidade de atores",
-        false
+        "Recorrência",
+        true,
+        "4 atores / 2 fontes"
+      ],
+      [
+        "Atualidade",
+        true,
+        "sinal em outubro/2026"
+      ],
+      [
+        "Aderência ABtec Mobilidade",
+        true,
+        "tecnologia aplicada à mobilidade"
       ],
       [
         "Impacto setorial",
-        false
-      ],
-      [
-        "Adoção verificável",
-        true
-      ],
-      [
-        "Relevância ABtec",
-        true
+        true,
+        "impacto em política/operação/usuário/mercado"
       ]
     ],
-    "score": 3,
-    "maturidade": "cluster em observação"
+    "score": 5,
+    "status": "Candidato a tendência"
   }
 ]

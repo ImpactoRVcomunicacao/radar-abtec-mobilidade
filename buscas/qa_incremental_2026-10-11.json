@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://diariodotransporte.com.br/2026/10/10/bilhete-unico-de-sao-paulo-e-citado-pela-uitp-entre-referencias-mundiais-de-bilhetagem-e-pix-aparece-entre-novas-alternativas-para-o-transporte-publico/",
+    "status": 200,
+    "title": "Bilhete Único de São Paulo é citado pela UITP entre referências mundiais de bilhetagem e PIX aparece entre novas alternativas para o transporte público",
+    "has_pix": true,
+    "has_cashback": false,
+    "has_bilhetagem": true,
+    "snippet": " Bilhete Único de São Paulo é citado pela UITP entre referências mundiais de bilhetagem e PIX aparece entre novas alternativas para o transporte público --> @media all{*{-webkit-touch-callout:none}body{background-color:#fff;display:flex;min-height:100vh;flex-direction:column;overflow-x:hidden;font-size:1rem}strong{font-weight:700!important}main{flex:1 0 auto}body a{color:#3f51b5}main h1{font-size:2rem}nav{background-color:#f1f1f1}nav .sidenav-trigger{color:#000}nav ul a{color:#000}nav .brand-logo img{height:40px;margin-top:10px}nav .sidenav img.logo{padding:2rem}nav .search_form{position:absolute;right:0}nav .search_form label{display:none}nav .search_form input[type=text]{position:absolute;right:95px;width:200px;top:10px;border:1px solid #bdb6b6;border-radius:4px;padding:0 1rem;margin:0;line-height:100%;font-size:1rem;background-color:#fff}nav .search_form input[type=submit]{right:10px;position:absolute;top:12px;font-size:1rem;padding:10px}.post_title{font-size:2rem;margin:1rem 0 0 0;"
+  },
+  {
+    "url": "https://technibus.com.br/2026/10/09/natal-rn-implementa-programa-de-cashback-na-tarifa-de-onibus",
+    "status": 200,
+    "title": "Natal (RN) implementa programa de cashback na tarifa de ônibus | Technibus",
+    "has_pix": false,
+    "has_cashback": true,
+    "has_bilhetagem": true,
+    "snippet": " Natal (RN) implementa programa de cashback na tarifa de ônibus | Technibus Pular para o conteúdo Página inicial Abrir/fechar menu Editorias Lat.Bus Revistas Newsletter Canal no Whatsapp Anuncie Pesquisar Pesquisar Editorias Empresas & Negócios Entrevista & Opinião Indústria Lat.Bus Metroferroviário Mobilidade Rodoviário Sustentabilidade Technibus na História Tecnologia Lat.Bus Revistas Canal no Whatsapp Anuncie {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Natal (RN) implementa programa de cashback na tarifa de ônibus\",\"datePublished\":\"2026-10-09T13:54:44.360Z\",\"dateModified\":\"2026-10-09T14:01:21.836Z\",\"image\":\"https://storage.technibus.com.br/%C3%94nibus%20Natal%20PMN.webp\",\"author\":[{\"@type\":\"Person\",\"name\":\"Redação\",\"url\":\"https://technibus.com.br/autor/redacao\"}],\"publisher\":{\"@type\":\"Organization\",\"name\":\"Technibus\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://technibus.com.br/logo-technibus-positive.svg\",\"width\":\"377\",\"height\":\"190\"}}} Mobilidade Natal (RN) "
+  }
+]

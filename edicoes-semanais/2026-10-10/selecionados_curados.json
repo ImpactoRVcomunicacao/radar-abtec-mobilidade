@@ -6,7 +6,7 @@
     "url": "https://technibus.com.br/2026/07/03/abtec-defende-tecnologia-e-governanca-de-dados-como-pilares-para-ampliar-a-transparencia-do-transporte-publico",
     "fonte": "technibus.com.br",
     "id": "achado-01",
-    "resumo": "A ABtec conecta tecnologia, governança de dados e transparência como agenda pública do transporte coletivo.",
+    "resumo": "A ABtec Mobilidade conecta tecnologia, governança de dados e transparência como agenda pública do transporte coletivo.",
     "impacto": "Sustenta uma pasta de transparência, dados públicos, interoperabilidade e accountability.",
     "tipo": "Fonte externa"
   },
@@ -18,7 +18,7 @@
     "fonte": "diariodotransporte.com.br",
     "id": "achado-02",
     "resumo": "A cobertura usa o ENMU como gancho para defender tecnologia na qualificação da gestão e da informação pública.",
-    "impacto": "Ajuda a ABtec a se posicionar como voz técnica em maturidade digital do setor.",
+    "impacto": "Ajuda a ABtec Mobilidade a se posicionar como voz técnica em maturidade digital do setor.",
     "tipo": "Fonte externa"
   },
   {
@@ -160,8 +160,8 @@
     "url": "https://diariodotransporte.com.br/2026/03/27/mais-mobi-estreia-no-smart-city-expo-curitiba-2026-com-solucoes-inovadoras-de-mobilidade/",
     "fonte": "diariodotransporte.com.br",
     "id": "achado-15",
-    "resumo": "O CittaMobi apareceu como solução tecnológica para cidades inteligentes em mobilidade urbana, mas ficará em ecossistema até validação societária/associativa com Cittati.",
-    "impacto": "Entra como achado de ecossistema, não como achado de associada, até validação da relação CittaMobi/Cittati.",
+    "resumo": "A Mais.Mobi apareceu no Smart City Expo Curitiba 2026 com soluções de mobilidade, reforçando presença em eventos de cidades inteligentes.",
+    "impacto": "Conecta tecnologia de mobilidade ao ecossistema de smart cities, útil para mapear vitrines e eventos estratégicos da ABtec Mobilidade.",
     "tipo": "Fonte externa"
   },
   {
@@ -183,7 +183,7 @@
     "fonte": "technibus.com.br",
     "id": "achado-17",
     "resumo": "Achado curado no radar.",
-    "impacto": "Relevante para monitoramento da ABtec.",
+    "impacto": "Relevante para monitoramento da ABtec Mobilidade.",
     "tipo": "Fonte externa"
   },
   {
@@ -218,5 +218,16 @@
     "resumo": "Natal/RN implementa cashback da tarifa de ônibus com devolução do valor no cartão eletrônico de transporte em até 72 horas.",
     "impacto": "Tem tecnologia porque depende de bilhetagem/cartão eletrônico, regra de elegibilidade, processamento de embarque e crédito posterior; deve ser monitorado como política tarifária digital.",
     "tipo": "Ecossistema / fora das associadas"
+  },
+  {
+    "empresa": "Ecossistema Smart Cities",
+    "tema": "Bilhetagem / PIX / referência internacional",
+    "titulo": "Bilhete Único de São Paulo é citado pela UITP e Pix aparece entre alternativas para o transporte público",
+    "url": "https://diariodotransporte.com.br/2026/10/10/bilhete-unico-de-sao-paulo-e-citado-pela-uitp-entre-referencias-mundiais-de-bilhetagem-e-pix-aparece-entre-novas-alternativas-para-o-transporte-publico/",
+    "fonte": "diariodotransporte.com.br",
+    "id": "achado-21",
+    "resumo": "O Bilhete Único de São Paulo foi citado pela UITP entre referências mundiais de bilhetagem, enquanto Pix aparece como alternativa de pagamento no transporte público.",
+    "impacto": "É achado incremental de 10/10 e reforça o cluster de bilhetagem digital/open payment, com conexão direta entre tecnologia, referência internacional e meios de pagamento brasileiros.",
+    "tipo": "Ecossistema / imprensa setorial"
   }
 ]
