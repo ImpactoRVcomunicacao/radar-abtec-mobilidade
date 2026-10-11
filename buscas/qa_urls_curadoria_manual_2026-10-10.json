@@ -218,5 +218,15 @@
     "tema": "Carteira digital",
     "titulo": "Parceria entre Transdata, Prefeitura e VCG leva Carteira Google aos ônibus de Ponta Grossa",
     "url": "https://diariodotransporte.com.br/2026/01/30/parceria-entre-transdata-prefeitura-e-vcg-leva-carteira-google-aos-onibus-de-ponta-grossa-pr/"
+  },
+  {
+    "status": "ok",
+    "code": 200,
+    "final_url": "https://technibus.com.br/2026/10/09/natal-rn-implementa-programa-de-cashback-na-tarifa-de-onibus",
+    "page_title": "Natal (RN) implementa programa de cashback na tarifa de ônibus | Technibus",
+    "empresa": "Ecossistema Smart Cities",
+    "tema": "Cashback tarifário digital",
+    "titulo": "Natal implementa cashback na tarifa de ônibus com crédito no cartão eletrônico de transporte",
+    "url": "https://technibus.com.br/2026/10/09/natal-rn-implementa-programa-de-cashback-na-tarifa-de-onibus"
   }
 ]

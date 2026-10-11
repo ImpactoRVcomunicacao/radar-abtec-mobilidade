@@ -63,7 +63,7 @@
     "id": "achado-06",
     "resumo": "O CittaMobi apareceu como solução tecnológica para cidades inteligentes em mobilidade urbana, mas ficará em ecossistema até validação societária/associativa com Cittati.",
     "impacto": "Entra como achado de ecossistema, não como achado de associada, até validação da relação CittaMobi/Cittati.",
-    "tipo": "Ecossistema / requer validação"
+    "tipo": "Ecossistema / fora das associadas"
   },
   {
     "empresa": "Empresa 1",
@@ -207,5 +207,16 @@
     "resumo": "Transdata aparece em caso de Carteira Google nos ônibus de Ponta Grossa.",
     "impacto": "Carteiras digitais ampliam meios de pagamento e aproximam transporte de ecossistemas financeiros.",
     "tipo": "Fonte externa"
+  },
+  {
+    "empresa": "Ecossistema Smart Cities",
+    "tema": "Cashback tarifário digital",
+    "titulo": "Natal implementa cashback na tarifa de ônibus com crédito no cartão eletrônico de transporte",
+    "url": "https://technibus.com.br/2026/10/09/natal-rn-implementa-programa-de-cashback-na-tarifa-de-onibus",
+    "fonte": "technibus.com.br",
+    "id": "achado-20",
+    "resumo": "Natal/RN implementa cashback da tarifa de ônibus com devolução do valor no cartão eletrônico de transporte em até 72 horas.",
+    "impacto": "Tem tecnologia porque depende de bilhetagem/cartão eletrônico, regra de elegibilidade, processamento de embarque e crédito posterior; deve ser monitorado como política tarifária digital.",
+    "tipo": "Ecossistema / fora das associadas"
   }
 ]

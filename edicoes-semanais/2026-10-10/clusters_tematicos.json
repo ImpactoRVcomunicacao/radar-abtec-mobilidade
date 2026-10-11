@@ -42,7 +42,7 @@
         "id": "achado-06",
         "resumo": "O CittaMobi apareceu como solução tecnológica para cidades inteligentes em mobilidade urbana, mas ficará em ecossistema até validação societária/associativa com Cittati.",
         "impacto": "Entra como achado de ecossistema, não como achado de associada, até validação da relação CittaMobi/Cittati.",
-        "tipo": "Ecossistema / requer validação"
+        "tipo": "Ecossistema / fora das associadas"
       },
       {
         "empresa": "Prodata Mobility Brasil",
@@ -66,7 +66,31 @@
         "impacto": "Mostra plataforma urbana de serviços e dados substituindo app meramente informativo.",
         "tipo": "Fonte externa"
       }
-    ]
+    ],
+    "criterios": [
+      [
+        "Recorrência",
+        true
+      ],
+      [
+        "Diversidade de atores",
+        true
+      ],
+      [
+        "Impacto setorial",
+        false
+      ],
+      [
+        "Adoção verificável",
+        true
+      ],
+      [
+        "Relevância ABtec",
+        true
+      ]
+    ],
+    "score": 4,
+    "maturidade": "cluster em consolidação"
   },
   {
     "id": "bilhetagem-open-payment",
@@ -124,7 +148,101 @@
         "impacto": "Carteiras digitais ampliam meios de pagamento e aproximam transporte de ecossistemas financeiros.",
         "tipo": "Fonte externa"
       }
-    ]
+    ],
+    "criterios": [
+      [
+        "Recorrência",
+        true
+      ],
+      [
+        "Diversidade de atores",
+        true
+      ],
+      [
+        "Impacto setorial",
+        true
+      ],
+      [
+        "Adoção verificável",
+        true
+      ],
+      [
+        "Relevância ABtec",
+        true
+      ]
+    ],
+    "score": 5,
+    "maturidade": "forte candidato a tendência"
+  },
+  {
+    "id": "cashback-incentivos-tarifarios",
+    "titulo": "Cashback, incentivos tarifários e políticas digitais de demanda",
+    "leitura": "O caso Natal/RN mostra uso do cartão eletrônico para devolver tarifa e estimular deslocamentos a áreas comerciais. Ainda é achado isolado, mas pode virar cluster importante se aparecer em outras cidades.",
+    "pasta": "Pasta sugerida: cashback tarifário, política de incentivo à demanda, créditos em cartão de transporte e integração comércio-mobilidade.",
+    "themes": [
+      "Cashback tarifário digital",
+      "PIX no validador",
+      "Carteira digital"
+    ],
+    "achados": [
+      {
+        "empresa": "Empresa 1",
+        "tema": "PIX no validador",
+        "titulo": "Florianópolis adota pagamento por Pix no validador dos ônibus",
+        "url": "https://technibus.com.br/2025/10/22/florianopolis-adota-pagamento-por-pix-no-validador-dos-onibus",
+        "fonte": "technibus.com.br",
+        "id": "achado-09",
+        "resumo": "Florianópolis adotou pagamento por Pix no validador dos ônibus, reforçando open payment no transporte.",
+        "impacto": "O Pix no validador pode ser tendência brasileira própria de inclusão em open payment.",
+        "tipo": "Fonte externa"
+      },
+      {
+        "empresa": "Transdata",
+        "tema": "Carteira digital",
+        "titulo": "Parceria entre Transdata, Prefeitura e VCG leva Carteira Google aos ônibus de Ponta Grossa",
+        "url": "https://diariodotransporte.com.br/2026/01/30/parceria-entre-transdata-prefeitura-e-vcg-leva-carteira-google-aos-onibus-de-ponta-grossa-pr/",
+        "fonte": "diariodotransporte.com.br",
+        "id": "achado-19",
+        "resumo": "Transdata aparece em caso de Carteira Google nos ônibus de Ponta Grossa.",
+        "impacto": "Carteiras digitais ampliam meios de pagamento e aproximam transporte de ecossistemas financeiros.",
+        "tipo": "Fonte externa"
+      },
+      {
+        "empresa": "Ecossistema Smart Cities",
+        "tema": "Cashback tarifário digital",
+        "titulo": "Natal implementa cashback na tarifa de ônibus com crédito no cartão eletrônico de transporte",
+        "url": "https://technibus.com.br/2026/10/09/natal-rn-implementa-programa-de-cashback-na-tarifa-de-onibus",
+        "fonte": "technibus.com.br",
+        "id": "achado-20",
+        "resumo": "Natal/RN implementa cashback da tarifa de ônibus com devolução do valor no cartão eletrônico de transporte em até 72 horas.",
+        "impacto": "Tem tecnologia porque depende de bilhetagem/cartão eletrônico, regra de elegibilidade, processamento de embarque e crédito posterior; deve ser monitorado como política tarifária digital.",
+        "tipo": "Ecossistema / fora das associadas"
+      }
+    ],
+    "criterios": [
+      [
+        "Recorrência",
+        true
+      ],
+      [
+        "Diversidade de atores",
+        true
+      ],
+      [
+        "Impacto setorial",
+        true
+      ],
+      [
+        "Adoção verificável",
+        true
+      ],
+      [
+        "Relevância ABtec",
+        true
+      ]
+    ],
+    "score": 5,
+    "maturidade": "forte candidato a tendência"
   },
   {
     "id": "dados-transparencia-governanca",
@@ -170,7 +288,31 @@
         "impacto": "Indica que bilhetagem está virando sensor urbano, não só mecanismo de cobrança.",
         "tipo": "Fonte externa"
       }
-    ]
+    ],
+    "criterios": [
+      [
+        "Recorrência",
+        true
+      ],
+      [
+        "Diversidade de atores",
+        false
+      ],
+      [
+        "Impacto setorial",
+        true
+      ],
+      [
+        "Adoção verificável",
+        true
+      ],
+      [
+        "Relevância ABtec",
+        true
+      ]
+    ],
+    "score": 4,
+    "maturidade": "cluster em consolidação"
   },
   {
     "id": "ia-sensores-seguranca",
@@ -228,7 +370,31 @@
         "impacto": "IA aparece como agenda de produto e gestão, mas exige separar caso concreto de hype.",
         "tipo": "Fonte externa"
       }
-    ]
+    ],
+    "criterios": [
+      [
+        "Recorrência",
+        true
+      ],
+      [
+        "Diversidade de atores",
+        true
+      ],
+      [
+        "Impacto setorial",
+        true
+      ],
+      [
+        "Adoção verificável",
+        true
+      ],
+      [
+        "Relevância ABtec",
+        true
+      ]
+    ],
+    "score": 5,
+    "maturidade": "forte candidato a tendência"
   },
   {
     "id": "integracao-sistemas",
@@ -286,7 +452,31 @@
         "impacto": "Integração é pré-condição para dados confiáveis, pagamento aberto e gestão multimodal.",
         "tipo": "Fonte externa"
       }
-    ]
+    ],
+    "criterios": [
+      [
+        "Recorrência",
+        true
+      ],
+      [
+        "Diversidade de atores",
+        true
+      ],
+      [
+        "Impacto setorial",
+        true
+      ],
+      [
+        "Adoção verificável",
+        true
+      ],
+      [
+        "Relevância ABtec",
+        true
+      ]
+    ],
+    "score": 5,
+    "maturidade": "forte candidato a tendência"
   },
   {
     "id": "internacionalizacao-vitrines",
@@ -334,6 +524,30 @@
         "impacto": "Base para pasta sobre tecnologia brasileira ganhando vitrine internacional.",
         "tipo": "Fonte externa"
       }
-    ]
+    ],
+    "criterios": [
+      [
+        "Recorrência",
+        true
+      ],
+      [
+        "Diversidade de atores",
+        false
+      ],
+      [
+        "Impacto setorial",
+        false
+      ],
+      [
+        "Adoção verificável",
+        true
+      ],
+      [
+        "Relevância ABtec",
+        true
+      ]
+    ],
+    "score": 3,
+    "maturidade": "cluster em observação"
   }
 ]
