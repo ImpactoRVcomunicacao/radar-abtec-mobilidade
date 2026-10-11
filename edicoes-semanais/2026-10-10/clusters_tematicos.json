@@ -1,55 +1,78 @@
 [
   {
-    "id": "governanca-transparencia-dados",
-    "titulo": "Governança de dados, transparência e indicadores públicos",
-    "leitura": "Achados ligados à ABtec, ENMU e bilhetagem mostram um campo de discussão sobre dados, transparência e qualificação da gestão pública do transporte. Ainda é um cluster temático, não uma tendência consolidada.",
-    "uso": "Criar pasta ABtec sobre transparência, dados, ENMU, interoperabilidade e indicadores públicos.",
+    "id": "apps-plataformas-confianca",
+    "titulo": "Apps, plataformas e informação ao passageiro",
+    "leitura": "Achados ligados a apps, tempo real e plataformas digitais indicam que a comunicação com o usuário é parte da infraestrutura tecnológica do transporte.",
+    "pasta": "Pasta sugerida: informação ao passageiro, app como canal público, SLA de dados e integração passageiro-operador-gestor.",
     "themes": [
-      "Governança de dados",
-      "Transparência / ENMU",
-      "Big data / bilhetagem"
+      "Tempo real / internacionalização",
+      "Apps de mobilidade",
+      "Smart cities",
+      "Mobilidade inteligente"
     ],
     "achados": [
       {
-        "empresa": "ABtec Mobilidade",
-        "tema": "Governança de dados",
-        "titulo": "ABTEC defende tecnologia e governança de dados como pilares para ampliar a transparência do transporte público",
-        "url": "https://technibus.com.br/2026/07/03/abtec-defende-tecnologia-e-governanca-de-dados-como-pilares-para-ampliar-a-transparencia-do-transporte-publico",
-        "fonte": "technibus.com.br",
-        "id": "achado-01",
-        "resumo": "A ABtec conecta tecnologia, governança de dados e transparência como agenda pública do transporte coletivo.",
-        "impacto": "Sustenta pasta de transparência, dados públicos, interoperabilidade e accountability.",
-        "tipo": "Fonte externa"
-      },
-      {
-        "empresa": "ABtec Mobilidade",
-        "tema": "Transparência / ENMU",
-        "titulo": "Após ENMU apontar falhas na transparência, ABTEC defende uso de tecnologia",
-        "url": "https://diariodotransporte.com.br/2026/07/03/apos-estudo-nacional-de-mobilidade-urbana-apontar-falhas-na-transparencia-abtec-defende-uso-de-tecnologia-para-qualificar-transporte-publico/",
+        "empresa": "Bus2",
+        "tema": "Tempo real / internacionalização",
+        "titulo": "Aplicativo BuzzPY com tecnologia da brasileira Bus2 estreia no Paraguai",
+        "url": "https://diariodotransporte.com.br/2025/11/25/aplicativo-buzzpy-com-tecnologia-da-brasileira-bus2-estreia-no-paraguai-com-monitoramento-em-tempo-real-de-onibus/",
         "fonte": "diariodotransporte.com.br",
-        "id": "achado-02",
-        "resumo": "A cobertura usa o ENMU como gancho para defender tecnologia na qualificação da gestão e da informação pública.",
-        "impacto": "Ajuda a ABtec a se posicionar como voz técnica em maturidade digital do setor.",
+        "id": "achado-03",
+        "resumo": "A Bus2 aparece aplicada fora do Brasil com monitoramento em tempo real de ônibus.",
+        "impacto": "Mostra tecnologia brasileira com potencial de exportação regional e impacto no usuário.",
         "tipo": "Fonte externa"
       },
       {
         "empresa": "Bus2",
-        "tema": "Big data / bilhetagem",
-        "titulo": "Da bilhetagem ao big data: Bus2 leva leitura inteligente dos ônibus brasileiros à Arena ANTP 2025",
-        "url": "https://www.antp.org.br/noticias/clippings/da-bilhetagem-ao-big-data-bus2-leva-leitura-inteligente-dos-onibus-brasileiros-a-arena-antp-2025.html",
-        "fonte": "antp.org.br",
-        "id": "achado-05",
-        "resumo": "A bilhetagem aparece como camada de leitura inteligente da operação de ônibus.",
-        "impacto": "Indica que bilhetagem está virando sensor urbano, não só mecanismo de cobrança.",
+        "tema": "Apps de mobilidade",
+        "titulo": "Lançado o primeiro app de mobilidade do Paraguai com tecnologia Bus2",
+        "url": "https://technibus.com.br/2025/11/25/lancado-o-primeiro-app-de-mobilidade-do-paraguai-com-tecnologia-bus2",
+        "fonte": "technibus.com.br",
+        "id": "achado-04",
+        "resumo": "A presença da Bus2 no Paraguai reforça exportação de solução brasileira para apps de mobilidade.",
+        "impacto": "Reforça apps como camada de confiança, previsibilidade e informação ao passageiro.",
+        "tipo": "Fonte externa"
+      },
+      {
+        "empresa": "Ecossistema Smart Cities",
+        "tema": "Smart cities",
+        "titulo": "IPT disponibiliza parecer técnico sobre aplicativo Cittamobi como solução tecnológica para Cidades Inteligentes",
+        "url": "https://diariodotransporte.com.br/2026/07/24/ipt-disponibiliza-parecer-tecnico-sobre-aplicativo-cittamobi-como-solucao-tecnologica-para-cidades-inteligentes-em-mobilidade-urbana/",
+        "fonte": "diariodotransporte.com.br",
+        "id": "achado-06",
+        "resumo": "O CittaMobi apareceu como solução tecnológica para cidades inteligentes em mobilidade urbana, mas ficará em ecossistema até validação societária/associativa com Cittati.",
+        "impacto": "Entra como achado de ecossistema, não como achado de associada, até validação da relação CittaMobi/Cittati.",
+        "tipo": "Ecossistema / requer validação"
+      },
+      {
+        "empresa": "Prodata Mobility Brasil",
+        "tema": "Smart cities",
+        "titulo": "Mais.Mobi estreia no Smart City Expo Curitiba 2026",
+        "url": "https://diariodotransporte.com.br/2026/03/27/mais-mobi-estreia-no-smart-city-expo-curitiba-2026-com-solucoes-inovadoras-de-mobilidade/",
+        "fonte": "diariodotransporte.com.br",
+        "id": "achado-15",
+        "resumo": "O CittaMobi apareceu como solução tecnológica para cidades inteligentes em mobilidade urbana, mas ficará em ecossistema até validação societária/associativa com Cittati.",
+        "impacto": "Entra como achado de ecossistema, não como achado de associada, até validação da relação CittaMobi/Cittati.",
+        "tipo": "Fonte externa"
+      },
+      {
+        "empresa": "SONDA",
+        "tema": "Mobilidade inteligente",
+        "titulo": "Fortaleza transforma aplicativo de ônibus em plataforma de mobilidade inteligente",
+        "url": "https://technibus.com.br/2026/03/31/fortaleza-transforma-aplicativo-de-onibus-em-plataforma-de-mobilidade-inteligente",
+        "fonte": "technibus.com.br",
+        "id": "achado-16",
+        "resumo": "Fortaleza aparece com evolução de app de ônibus para plataforma de mobilidade inteligente com SONDA.",
+        "impacto": "Mostra plataforma urbana de serviços e dados substituindo app meramente informativo.",
         "tipo": "Fonte externa"
       }
     ]
   },
   {
-    "id": "open-payment-bilhetagem-digital",
-    "titulo": "Bilhetagem digital, Pix, carteiras digitais e meios de pagamento",
-    "leitura": "Achados sobre Pix no validador, Carteira Google, pagamento digital e bilhetagem embarcada indicam um assunto recorrente para observação. A análise de tendência dependerá de recorrência nas próximas semanas e adoção por cidades/operadores.",
-    "uso": "Criar pasta sobre open payment brasileiro, Pix, carteiras digitais, validadores e inclusão financeira no transporte.",
+    "id": "bilhetagem-open-payment",
+    "titulo": "Bilhetagem digital, Pix e carteiras digitais",
+    "leitura": "Pix no validador, Carteira Google, dispositivos embarcados e bilhetagem digital aparecem como frente recorrente do setor.",
+    "pasta": "Pasta sugerida: open payment brasileiro, validadores, carteiras digitais, inclusão financeira e dados de pagamento.",
     "themes": [
       "PIX no validador",
       "Carteira digital",
@@ -104,79 +127,56 @@
     ]
   },
   {
-    "id": "apps-plataformas-confianca",
-    "titulo": "Apps, tempo real e plataformas de relacionamento com o usuário",
-    "leitura": "Cittamobi, Bus2 e SONDA aparecem em achados ligados a tempo real, experiência do usuário, gestão e mobilidade inteligente. O cluster ajuda a acompanhar se apps estão evoluindo de canais informativos para plataformas de confiança operacional.",
-    "uso": "Criar pasta sobre informação ao passageiro, app como canal público, SLA de dados e integração passageiro-operador-gestor.",
+    "id": "dados-transparencia-governanca",
+    "titulo": "Dados, transparência e governança pública",
+    "leitura": "ABtec, ENMU e big data de bilhetagem aparecem como insumos para qualificar gestão pública, indicadores e transparência.",
+    "pasta": "Pasta sugerida: dados públicos, interoperabilidade, transparência, ENMU e indicadores para transporte coletivo.",
     "themes": [
-      "Tempo real / internacionalização",
-      "Apps de mobilidade",
-      "Smart cities",
-      "Mobilidade inteligente"
+      "Governança de dados",
+      "Transparência / ENMU",
+      "Big data / bilhetagem"
     ],
     "achados": [
       {
-        "empresa": "Bus2",
-        "tema": "Tempo real / internacionalização",
-        "titulo": "Aplicativo BuzzPY com tecnologia da brasileira Bus2 estreia no Paraguai",
-        "url": "https://diariodotransporte.com.br/2025/11/25/aplicativo-buzzpy-com-tecnologia-da-brasileira-bus2-estreia-no-paraguai-com-monitoramento-em-tempo-real-de-onibus/",
-        "fonte": "diariodotransporte.com.br",
-        "id": "achado-03",
-        "resumo": "A Bus2 aparece aplicada fora do Brasil com monitoramento em tempo real de ônibus.",
-        "impacto": "Mostra tecnologia brasileira com potencial de exportação regional e impacto no usuário.",
-        "tipo": "Fonte externa"
-      },
-      {
-        "empresa": "Bus2",
-        "tema": "Apps de mobilidade",
-        "titulo": "Lançado o primeiro app de mobilidade do Paraguai com tecnologia Bus2",
-        "url": "https://technibus.com.br/2025/11/25/lancado-o-primeiro-app-de-mobilidade-do-paraguai-com-tecnologia-bus2",
+        "empresa": "ABtec Mobilidade",
+        "tema": "Governança de dados",
+        "titulo": "ABTEC defende tecnologia e governança de dados como pilares para ampliar a transparência do transporte público",
+        "url": "https://technibus.com.br/2026/07/03/abtec-defende-tecnologia-e-governanca-de-dados-como-pilares-para-ampliar-a-transparencia-do-transporte-publico",
         "fonte": "technibus.com.br",
-        "id": "achado-04",
-        "resumo": "A presença da Bus2 no Paraguai reforça exportação de solução brasileira para apps de mobilidade.",
-        "impacto": "Reforça apps como camada de confiança, previsibilidade e informação ao passageiro.",
+        "id": "achado-01",
+        "resumo": "A ABtec conecta tecnologia, governança de dados e transparência como agenda pública do transporte coletivo.",
+        "impacto": "Sustenta uma pasta de transparência, dados públicos, interoperabilidade e accountability.",
         "tipo": "Fonte externa"
       },
       {
-        "empresa": "CittaMobi",
-        "tema": "Smart cities",
-        "titulo": "IPT disponibiliza parecer técnico sobre aplicativo Cittamobi como solução tecnológica para Cidades Inteligentes",
-        "url": "https://diariodotransporte.com.br/2026/07/24/ipt-disponibiliza-parecer-tecnico-sobre-aplicativo-cittamobi-como-solucao-tecnologica-para-cidades-inteligentes-em-mobilidade-urbana/",
+        "empresa": "ABtec Mobilidade",
+        "tema": "Transparência / ENMU",
+        "titulo": "Após ENMU apontar falhas na transparência, ABTEC defende uso de tecnologia",
+        "url": "https://diariodotransporte.com.br/2026/07/03/apos-estudo-nacional-de-mobilidade-urbana-apontar-falhas-na-transparencia-abtec-defende-uso-de-tecnologia-para-qualificar-transporte-publico/",
         "fonte": "diariodotransporte.com.br",
-        "id": "achado-06",
-        "resumo": "O CittaMobi foi associado a uma solução tecnológica para cidades inteligentes em mobilidade urbana. Como a relação societária/produto com Cittati ainda não foi comprovada nesta checagem, o item fica em ecossistema externo relacionado, não como achado da associada.",
-        "impacto": "Validação técnica externa é forte para a narrativa de Smart Cities aplicada à mobilidade.",
-        "tipo": "Ecossistema externo relacionado"
-      },
-      {
-        "empresa": "Prodata Mobility Brasil",
-        "tema": "Smart cities",
-        "titulo": "Mais.Mobi estreia no Smart City Expo Curitiba 2026",
-        "url": "https://diariodotransporte.com.br/2026/03/27/mais-mobi-estreia-no-smart-city-expo-curitiba-2026-com-solucoes-inovadoras-de-mobilidade/",
-        "fonte": "diariodotransporte.com.br",
-        "id": "achado-15",
-        "resumo": "O CittaMobi foi associado a uma solução tecnológica para cidades inteligentes em mobilidade urbana. Como a relação societária/produto com Cittati ainda não foi comprovada nesta checagem, o item fica em ecossistema externo relacionado, não como achado da associada.",
-        "impacto": "Validação técnica externa é forte para a narrativa de Smart Cities aplicada à mobilidade.",
+        "id": "achado-02",
+        "resumo": "A cobertura usa o ENMU como gancho para defender tecnologia na qualificação da gestão e da informação pública.",
+        "impacto": "Ajuda a ABtec a se posicionar como voz técnica em maturidade digital do setor.",
         "tipo": "Fonte externa"
       },
       {
-        "empresa": "SONDA",
-        "tema": "Mobilidade inteligente",
-        "titulo": "Fortaleza transforma aplicativo de ônibus em plataforma de mobilidade inteligente",
-        "url": "https://technibus.com.br/2026/03/31/fortaleza-transforma-aplicativo-de-onibus-em-plataforma-de-mobilidade-inteligente",
-        "fonte": "technibus.com.br",
-        "id": "achado-16",
-        "resumo": "Fortaleza aparece com evolução de app de ônibus para plataforma de mobilidade inteligente com SONDA.",
-        "impacto": "Mostra plataforma urbana de serviços e dados substituindo app meramente informativo.",
+        "empresa": "Bus2",
+        "tema": "Big data / bilhetagem",
+        "titulo": "Da bilhetagem ao big data: Bus2 leva leitura inteligente dos ônibus brasileiros à Arena ANTP 2025",
+        "url": "https://www.antp.org.br/noticias/clippings/da-bilhetagem-ao-big-data-bus2-leva-leitura-inteligente-dos-onibus-brasileiros-a-arena-antp-2025.html",
+        "fonte": "antp.org.br",
+        "id": "achado-05",
+        "resumo": "A bilhetagem aparece como camada de leitura inteligente da operação de ônibus.",
+        "impacto": "Indica que bilhetagem está virando sensor urbano, não só mecanismo de cobrança.",
         "tipo": "Fonte externa"
       }
     ]
   },
   {
-    "id": "ia-dados-gestao",
-    "titulo": "IA, analytics, sensores, biometria e segurança operacional",
-    "leitura": "IA aparece em Prodata/Mais Mobi, big data aparece na Bus2, e reconhecimento facial/monitoramento entram no portfólio das associadas. O cluster exige leitura cuidadosa para separar aplicação real de discurso genérico.",
-    "uso": "Criar pasta sobre IA responsável, analytics, sensores, biometria, privacidade e governança algorítmica.",
+    "id": "ia-sensores-seguranca",
+    "titulo": "IA, sensores, biometria e segurança operacional",
+    "leitura": "IA, reconhecimento facial, segurança e analytics surgem como assuntos de alto potencial, mas exigem critério para separar aplicação real de discurso comercial.",
+    "pasta": "Pasta sugerida: IA responsável, sensores, biometria, privacidade, segurança e governança algorítmica.",
     "themes": [
       "IA / gestão",
       "Big data / bilhetagem",
@@ -231,10 +231,68 @@
     ]
   },
   {
-    "id": "tecnologia-brasileira-vitrine",
-    "titulo": "Vitrine da tecnologia brasileira de mobilidade e internacionalização",
-    "leitura": "Prodata/Mais Mobi, Bus2, Empresa 1 e SONDA aparecem em eventos, internacionalização e implantação fora de mercados tradicionais. O cluster serve para observar posicionamento de mercado e expansão, antes de afirmar tendência.",
-    "uso": "Criar pasta sobre indústria brasileira de tecnologia para mobilidade, exportação, Lat.Bus, APTA e Paraguai.",
+    "id": "integracao-sistemas",
+    "titulo": "Integração de sistemas e gestão operacional",
+    "leitura": "Integração, sistemas embarcados e gestão de operação aparecem como base menos visível, mas crítica, para cidades inteligentes e transporte público digital.",
+    "pasta": "Pasta sugerida: ITS, backoffice, integração operacional, gestão de frota e plataformas de controle.",
+    "themes": [
+      "Integração de sistemas",
+      "Sistema integrado",
+      "Bilhetagem digital",
+      "Mobilidade inteligente"
+    ],
+    "achados": [
+      {
+        "empresa": "ONBOARD",
+        "tema": "Bilhetagem digital",
+        "titulo": "DBD — dispositivo de bilhetagem digital",
+        "url": "https://onboard.com.br/dbd",
+        "fonte": "onboard.com.br",
+        "id": "achado-10",
+        "resumo": "A ONBOARD posiciona dispositivo de bilhetagem digital como infraestrutura embarcada.",
+        "impacto": "Ajuda a diferenciar bilhetagem digital de bilhetagem eletrônica tradicional.",
+        "tipo": "Site oficial / produto"
+      },
+      {
+        "empresa": "Planeta Informática",
+        "tema": "Sistema integrado",
+        "titulo": "Sistema SI.GO da Planeta Informática",
+        "url": "https://www.planeta.inf.br/br/",
+        "fonte": "planeta.inf.br",
+        "id": "achado-12",
+        "resumo": "A Planeta Informática apresenta sistema integrado para gestão do transporte e mobilidade.",
+        "impacto": "Mostra espaço para monitorar empresas com menor presença de imprensa, mas oferta tecnológica relevante.",
+        "tipo": "Site oficial / produto"
+      },
+      {
+        "empresa": "SONDA",
+        "tema": "Mobilidade inteligente",
+        "titulo": "Fortaleza transforma aplicativo de ônibus em plataforma de mobilidade inteligente",
+        "url": "https://technibus.com.br/2026/03/31/fortaleza-transforma-aplicativo-de-onibus-em-plataforma-de-mobilidade-inteligente",
+        "fonte": "technibus.com.br",
+        "id": "achado-16",
+        "resumo": "Fortaleza aparece com evolução de app de ônibus para plataforma de mobilidade inteligente com SONDA.",
+        "impacto": "Mostra plataforma urbana de serviços e dados substituindo app meramente informativo.",
+        "tipo": "Fonte externa"
+      },
+      {
+        "empresa": "Transdata",
+        "tema": "Integração de sistemas",
+        "titulo": "Tecnologia e integração de sistemas redefinem o futuro do transporte público",
+        "url": "https://technibus.com.br/2026/04/27/tecnologia-e-integracao-de-sistemas-redefinem-o-futuro-do-transporte-publico-aponta-romano-garcia-da-transdata",
+        "fonte": "technibus.com.br",
+        "id": "achado-18",
+        "resumo": "A Transdata destaca integração de sistemas como vetor do futuro do transporte público.",
+        "impacto": "Integração é pré-condição para dados confiáveis, pagamento aberto e gestão multimodal.",
+        "tipo": "Fonte externa"
+      }
+    ]
+  },
+  {
+    "id": "internacionalizacao-vitrines",
+    "titulo": "Internacionalização, eventos e vitrine de tecnologia brasileira",
+    "leitura": "Eventos, Lat.Bus, APTA e casos fora do Brasil mostram oportunidades de posicionar tecnologia nacional de mobilidade como pauta setorial.",
+    "pasta": "Pasta sugerida: exportação, feiras, casos internacionais, presença LATAM e agenda institucional das associadas.",
     "themes": [
       "Internacionalização",
       "Tempo real / internacionalização",
