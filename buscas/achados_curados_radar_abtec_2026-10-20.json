@@ -1,0 +1,55 @@
+{
+  "data_execucao": "2026-10-20",
+  "janela": {"inicio": "2026-10-16", "fim": "2026-10-20"},
+  "status": "coleta incremental concluída; não publicada",
+  "achados_curados": [
+    {
+      "cluster": "Bilhetagem e antifraude",
+      "titulo": "Diadema suspende venda de créditos do Cartão Cidadão Comum e amplia reconhecimento facial nos ônibus",
+      "fonte": "Diário do Transporte",
+      "data": "2026-10-19",
+      "url": "https://diariodotransporte.com.br/2026/10/19/diadema-suspende-venda-de-creditos-do-cartao-cidadao-comum-nesta-segunda-19-e-amplia-reconhecimento-facial-nos-onibus/",
+      "leitura": "Sinal operacional de transição na venda de créditos combinado a biometria facial; relevante para bilhetagem, experiência do usuário, integração de bases e governança de dados.",
+      "classificacao": "assunto monitorado"
+    },
+    {
+      "cluster": "Dados e regulação",
+      "titulo": "ANTT abre consulta pública sobre dados de empresas, linhas e transportes disponibilizados à população",
+      "fonte": "Diário do Transporte",
+      "data": "2026-10-19",
+      "url": "https://diariodotransporte.com.br/2026/10/19/antt-abre-consulta-publica-para-definir-quais-dados-de-empresas-linhas-e-transportes-devem-ser-disponibilizados-a-populacao/",
+      "leitura": "Sinal regulatório aderente a abertura, padronização e governança de dados de transporte; pode afetar fornecedores de ITS, informação ao passageiro e plataformas de gestão.",
+      "classificacao": "assunto monitorado"
+    },
+    {
+      "cluster": "Gestão operacional e ITS",
+      "titulo": "Manaus inaugura Centro de Controle Operacional para o transporte público",
+      "fonte": "Technibus",
+      "data": "2026-10-19",
+      "url": "https://technibus.com.br/2026/10/19/manaus-inaugura-novo-centro-de-controle-operacional-para-o-transporte-publico",
+      "leitura": "O anúncio informa 225 câmeras inteligentes em quatro terminais e meta de ampliar o monitoramento; caso a acompanhar para CCO, videomonitoramento e integração operacional.",
+      "classificacao": "sinal emergente"
+    },
+    {
+      "cluster": "Financiamento e sustentabilidade econômica",
+      "titulo": "Rio retira R$ 172 milhões do orçamento de subsídios de ônibus e BRT para despesas com pessoal e dívida",
+      "fonte": "Diário do Transporte",
+      "data": "2026-10-20",
+      "url": "https://diariodotransporte.com.br/2026/10/20/prefeitura-do-rio-retira-r-172-milhoes-do-orcamento-de-subsidios-de-onibus-e-brt-para-despesas-com-pessoal-e-divida/",
+      "leitura": "Alerta de contexto para capacidade de investimento e prioridades contratuais do sistema carioca; acompanhar possíveis impactos em tecnologia, operação e BRT.",
+      "classificacao": "assunto monitorado"
+    }
+  ],
+  "associadas": {
+    "novo_achado_qualificado_na_janela": false,
+    "nota": "Os canais oficiais de ABtec e associadas foram consultados. Não houve publicação nova, aberta e diretamente aderente na janela; a página de notícias da ABtec ainda destaca o fórum de 15/10, já registrado na rodada anterior."
+  },
+  "descartes_relevantes": [
+    "Itens sobre acidentes, alterações pontuais de linhas, tarifas locais e compra de veículos sem componente tecnológico foram mantidos fora da curadoria.",
+    "SONDA: notícias recentes verificadas tratam de ESG/cibersegurança corporativa, sem conexão independente demonstrada com mobilidade nesta janela.",
+    "ONBOARD: não foi atribuído nenhum caso de bilhetagem ou operação à associada sem confirmação explícita do vínculo empresarial.",
+    "CittaMobi permaneceu fora de Cittati por ausência de vínculo formal validado."
+  ],
+  "fontes": {"checadas": 26, "acessiveis": 25, "bloqueadas": ["Semove Rio — HTTP 403"]},
+  "tendencias": []
+}
