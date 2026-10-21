@@ -1,0 +1,414 @@
+{
+  "run_date": "2026-10-21",
+  "window_start": "2026-10-20",
+  "window_end": "2026-10-21",
+  "sources_checked": [
+    {
+      "source": "ABtec Mobilidade — releases",
+      "url": "https://abtecbr.org/comunicacao/releases",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://abtecbr.org/comunicacao/releases",
+      "page_title": "Releases | ABtec Mobilidade",
+      "error": ""
+    },
+    {
+      "source": "ABtec Mobilidade — notícias",
+      "url": "https://abtecbr.org/comunicacao/noticias",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://abtecbr.org/comunicacao/noticias",
+      "page_title": "Notícias | ABtec Mobilidade",
+      "error": ""
+    },
+    {
+      "source": "Bus2 — blog",
+      "url": "https://bus2.blog/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://bus2.blog/",
+      "page_title": "Bus2.blog",
+      "error": ""
+    },
+    {
+      "source": "Cittati — blog",
+      "url": "https://www.cittati.com.br/blog",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.cittati.com.br/blog",
+      "page_title": "Blog | Cittati",
+      "error": ""
+    },
+    {
+      "source": "Empresa 1 — transporte",
+      "url": "https://www.empresa1.com.br/categoria/transporte/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.empresa1.com.br/categoria/transporte/",
+      "page_title": "Conteúdos sobre Transporte - Empresa 1",
+      "error": ""
+    },
+    {
+      "source": "ONBOARD — publicações",
+      "url": "https://onboard.com.br/blog",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://onboard.com.br/blog",
+      "page_title": "ONBOARD",
+      "error": ""
+    },
+    {
+      "source": "Planeta Informática — notícias",
+      "url": "https://www.planeta.inf.br/noticias/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.planeta.inf.br/br/noticias/",
+      "page_title": "Notícias – Planeta Informática",
+      "error": ""
+    },
+    {
+      "source": "Prodata Mobility Brasil",
+      "url": "https://www.prodatamobility.com.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.prodatamobility.com.br/",
+      "page_title": "Prodata Mobility Brasil — Bilhetagem Eletrônica",
+      "error": ""
+    },
+    {
+      "source": "SONDA — notícias",
+      "url": "https://www.sonda.com/pt/quem-somos/noticias",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.sonda.com/pt/quem-somos/noticias",
+      "page_title": "Notícias SONDA | Tecnologia, inovação e atualidade",
+      "error": ""
+    },
+    {
+      "source": "Transdata",
+      "url": "https://www.itstransdata.com/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.itstransdata.com/",
+      "page_title": "Transdata",
+      "error": ""
+    },
+    {
+      "source": "NTU",
+      "url": "https://www.ntu.org.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.ntu.org.br/",
+      "page_title": "NTU - Associação Nacional das Empresas de Transportes Urbanos",
+      "error": ""
+    },
+    {
+      "source": "Semove Rio",
+      "url": "https://semove.org.br/",
+      "ok": false,
+      "status": null,
+      "final_url": "https://semove.org.br/",
+      "page_title": "",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "ABRATI",
+      "url": "https://www.abrati.org.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://abrati.org.br/",
+      "page_title": "Abrati - Abrati",
+      "error": ""
+    },
+    {
+      "source": "FETPESP",
+      "url": "https://fetpesp.org.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://fetpesp.org.br/",
+      "page_title": "Fetpesp",
+      "error": ""
+    },
+    {
+      "source": "ANTP",
+      "url": "https://antp.org.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://antp.org.br/",
+      "page_title": "ANTP - Associação Nacional de Transportes Públicos",
+      "error": ""
+    },
+    {
+      "source": "ANPTrilhos",
+      "url": "https://anptrilhos.org.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://anptrilhos.org.br/",
+      "page_title": "home - ANPTrilhos",
+      "error": ""
+    },
+    {
+      "source": "Diário do Transporte",
+      "url": "https://diariodotransporte.com.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://diariodotransporte.com.br/",
+      "page_title": "Diário do Transporte: Página destinada à cobertura jornalística dos principais fatos relacionados aos transportes, com notícias, informações de última hora, coberturas exclusivas, opinião, estudos técnicos e história.",
+      "error": ""
+    },
+    {
+      "source": "Technibus",
+      "url": "https://technibus.com.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://technibus.com.br/",
+      "page_title": "Technibus | Transporte coletivo e mobilidade urbana",
+      "error": ""
+    },
+    {
+      "source": "Via Trolebus",
+      "url": "https://viatrolebus.com.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://viatrolebus.com.br/",
+      "page_title": "Página Inicial - Via Trolebus",
+      "error": ""
+    },
+    {
+      "source": "Mobilize",
+      "url": "https://www.mobilize.org.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.mobilize.org.br/",
+      "page_title": "Mobilize Brasil",
+      "error": ""
+    },
+    {
+      "source": "Frota&Cia",
+      "url": "https://frotacia.com.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://frotacia.com.br/",
+      "page_title": "Frota&Cia OnLine - Frota&Cia",
+      "error": ""
+    },
+    {
+      "source": "Connected Smart Cities",
+      "url": "https://connectedsmartcities.com.br/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://plataformacsc.com.br/",
+      "page_title": "Plataforma - CSC",
+      "error": ""
+    },
+    {
+      "source": "BNDES",
+      "url": "https://www.bndes.gov.br/wps/portal/site/home",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.bndes.gov.br/wps/portal/site/home",
+      "page_title": "BNDES - O banco nacional do desenvolvimento",
+      "error": ""
+    },
+    {
+      "source": "Ministério das Cidades",
+      "url": "https://www.gov.br/cidades/pt-br/assuntos/mobilidade-urbana",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.gov.br/cidades/pt-br/assuntos/mobilidade-urbana",
+      "page_title": "Secretaria Nacional de Mobilidade Urbana — Ministério das Cidades",
+      "error": ""
+    },
+    {
+      "source": "WRI Brasil",
+      "url": "https://wricidades.org/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://www.wribrasil.org.br/",
+      "page_title": "WRI Brasil | Realizando Grandes Ideias | WRI Brasil",
+      "error": ""
+    },
+    {
+      "source": "ITDP Brasil",
+      "url": "https://itdpbrasil.org/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://itdpbrasil.org/",
+      "page_title": "Promovendo soluções de transporte sustentável e equitativo",
+      "error": ""
+    }
+  ],
+  "new_candidates": [
+    {
+      "source": "Diário do Transporte",
+      "title": "Transwolff: SPTrans retoma licitação para atendimento médico de trabalhadores sob requisição administrativa na operação de ônibus de São Paulo",
+      "url": "https://diariodotransporte.com.br/2026/10/21/transwolff-sptrans-retoma-licitacao-para-atendimento-medico-de-trabalhadores-sob-requisicao-administrativa-na-operacao-de-onibus-de-sao-paulo/",
+      "date_hint": "2026/10/21"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Metrô de São Paulo terá pagamento por Pix em todas as máquinas de bilhetes da Linha 1-Azul a partir desta quinta-feira (22)",
+      "url": "https://diariodotransporte.com.br/2026/10/21/metro-de-sao-paulo-tera-pagamento-por-pix-em-todas-as-maquinas-de-bilhetes-da-linha-1-azul-a-partir-desta-quinta-feira-22/",
+      "date_hint": "2026/10/21"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Ônibus da antiga Transwolff operam normalmente nesta quarta-feira (21) e nova greve não se confirma; Prefeitura coloca GCM em garagens e terminais",
+      "url": "https://diariodotransporte.com.br/2026/10/21/nova-greve-da-transwolff-tem-ameaca-para-esta-quarta-21-e-faz-sptrans-acionar-preventivamente-a-guarda-civil-para-garagens/",
+      "date_hint": "2026/10/21"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "BRT-ABC é tema de artigo técnico em revista do Instituto de Engenharia; Diário do Transporte acompanha atrasos do projeto e processo de caducidade",
+      "url": "https://diariodotransporte.com.br/2026/10/20/brt-abc-e-tema-de-artigo-tecnico-em-revista-do-instituto-de-engenharia-diario-do-transporte-acompanha-atrasos-do-projeto-e-processo-de-caducidade/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Há poucas semanas da estreia, ônibus zero quilômetro da JTP em Rio Branco já são vandalizados, diz prefeitura",
+      "url": "https://diariodotransporte.com.br/2026/10/20/ha-poucas-semanas-da-estreia-onibus-zero-quilometro-da-jtp-em-rio-branco-ja-sao-vandalizados-diz-prefeitura/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Rio Verde (GO) prepara compra de 60 abrigos para pontos de ônibus por até R$ 883,5 mil",
+      "url": "https://diariodotransporte.com.br/2026/10/20/rio-verde-go-prepara-compra-de-60-abrigos-para-pontos-de-onibus-por-ate-r-8835-mil/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Mobi-Rio organiza execução de três contratos para manutenção de ônibus Mercedes-Benz e caixas de câmbio Voith",
+      "url": "https://diariodotransporte.com.br/2026/10/20/mobi-rio-organiza-execucao-de-tres-contratos-para-manutencao-de-onibus-mercedes-benz-e-caixas-de-cambio-voith/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "ANTT apreende cinco ônibus clandestinos que seguiam para o Sul e lacra duas agências de turismo no Ceará",
+      "url": "https://diariodotransporte.com.br/2026/10/20/antt-apreende-cinco-onibus-clandestinos-que-seguiam-para-o-sul-e-lacra-duas-agencias-de-turismo-no-ceara/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Semob do DF apura uso irregular de cartões de ônibus e reabre investigação sobre contrato de fiscalização de obras em terminais e ciclovias",
+      "url": "https://diariodotransporte.com.br/2026/10/20/semob-do-df-apura-uso-irregular-de-cartoes-de-onibus-e-reabre-investigacao-sobre-contrato-de-fiscalizacao-de-obras-em-terminais-e-ciclovias/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Infra S.A. (Valec) contrata sistema de auditoria e gestão de dados por R$ 10,79 milhões para atividades da estatal de transportes",
+      "url": "https://diariodotransporte.com.br/2026/10/20/infra-s-a-valec-contrata-sistema-de-auditoria-e-gestao-de-dados-por-r-1079-milhoes-para-atividades-da-estatal-de-transportes/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Caminhos da Saúde: União formaliza doações de 67 micro-ônibus acessíveis, com valor de R$ 39,17 milhões",
+      "url": "https://diariodotransporte.com.br/2026/10/20/caminhos-da-saude-uniao-formaliza-doacoes-de-67-micro-onibus-acessiveis-com-valor-de-r-3917-milhoes/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Expresso do Sul terá embarques na Vila Sônia para viagens ao Rio de Janeiro a partir de 28 de outubro; ônibus de dois andares sairão às 21h35",
+      "url": "https://diariodotransporte.com.br/2026/10/20/expresso-do-sul-tera-embarques-na-vila-sonia-para-viagens-ao-rio-de-janeiro-a-partir-de-28-de-outubro-onibus-de-dois-andares-sairao-as-21h35/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Guarulhos altera contrato de obras do Corredor de Ônibus Jamil João Zarif, com valor de R$ 41,58 milhões",
+      "url": "https://diariodotransporte.com.br/2026/10/20/guarulhos-altera-contrato-de-obras-do-corredor-de-onibus-jamil-joao-zarif-com-valor-de-r-4158-milhoes/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "TCE suspende licitação dos ônibus de Curitiba por risco de sobreposição de linhas e duplicidade de custos com sistema metropolitano",
+      "url": "https://diariodotransporte.com.br/2026/10/20/tce-suspende-licitacao-dos-onibus-de-curitiba-por-risco-de-sobreposicao-de-linhas-e-duplicidade-de-custos-com-sistema-metropolitano/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "São Paulo terá 6,9 mil ônibus gratuitos no segundo turno das eleições, com aumento de 40% na frota; outras cidades também terão Tarifa Zero",
+      "url": "https://diariodotransporte.com.br/2026/10/20/sao-paulo-tera-69-mil-onibus-gratuitos-no-segundo-turno-das-eleicoes-com-aumento-de-40-na-frota-outras-cidades-tambem-terao-tarifa-zero/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "BRT Radial Leste: Prefeitura de São Paulo vai apresentar andamento das obras, impactos ambientais e integração com outros transportes nesta sexta-feira (23)",
+      "url": "https://diariodotransporte.com.br/2026/10/20/brt-radial-leste-prefeitura-de-sao-paulo-vai-apresentar-andamento-das-obras-impactos-ambientais-e-integracao-com-outros-transportes-nesta-sexta-feira-23/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Assembleia de SP cobra explicações sobre linhas de ônibus intermunicipais sem licitação e morte de passageiro na Linha 5-Lilás",
+      "url": "https://diariodotransporte.com.br/2026/10/20/assembleia-de-sp-cobra-explicacoes-sobre-linhas-de-onibus-intermunicipais-sem-licitacao-e-morte-de-passageiro-na-linha-5-lilas/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Acidente entre ônibus deixa diversos feridos em Parelheiros, Zona Sul de São Paulo, na manhã desta terça-feira (20)",
+      "url": "https://diariodotransporte.com.br/2026/10/20/acidente-entre-onibus-deixa-diversos-feridos-em-parelheiros-zona-sul-de-sao-paulo-na-manha-desta-terca-feira-20/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Prefeitura do Rio retira R$ 172 milhões do orçamento de subsídios de ônibus e BRT para despesas com pessoal e dívida",
+      "url": "https://diariodotransporte.com.br/2026/10/20/prefeitura-do-rio-retira-r-172-milhoes-do-orcamento-de-subsidios-de-onibus-e-brt-para-despesas-com-pessoal-e-divida/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Alta mundial do diesel ameaça linhas de ônibus, transporte escolar e empresas; Estados Unidos e Inglaterra buscam soluções que podem servir ao Brasil",
+      "url": "https://diariodotransporte.com.br/2026/10/20/alta-mundial-do-diesel-ameaca-linhas-de-onibus-transporte-escolar-e-empresas-estados-unidos-e-inglaterra-buscam-solucoes-que-podem-servir-ao-brasil/",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Technibus",
+      "title": "Ler matéria No Rio de Janeiro, PPP busca viabilizar eletrificação de ônibus com divisão de riscos entre setores público e privado",
+      "url": "https://technibus.com.br/2026/10/21/no-rio-de-janeiro-ppp-busca-viabilizar-eletrificacao-de-onibus-com-divisao-de-riscos-entre-setores-publico-e-privado",
+      "date_hint": "2026/10/21"
+    },
+    {
+      "source": "Technibus",
+      "title": "Ler matéria Startup desenvolve tecnologia que permite que caminhões e ônibus operem sem motorista em ambientes industriais",
+      "url": "https://technibus.com.br/2026/10/20/startup-desenvolve-tecnologia-que-permite-que-caminhoes-e-onibus-operem-sem-motorista-em-ambientes-industriais",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Technibus",
+      "title": "Ler matéria Salvador amplia acesso ao Botão Lilás em estações do BRT para atendimento a mulheres vítimas de violência",
+      "url": "https://technibus.com.br/2026/10/20/salvador-amplia-acesso-ao-botao-lilas-em-estacoes-do-brt-para-atendimento-a-mulheres-vitimas-de-violencia",
+      "date_hint": "2026/10/20"
+    },
+    {
+      "source": "Technibus",
+      "title": "Ler matéria Fabricantes do Reino Unido tentam resistir à invasão dos ônibus estrangeiros",
+      "url": "https://technibus.com.br/2026/10/20/fabricantes-do-reino-unido-tentam-resistir-a-invasao-dos-onibus-estrangeiros",
+      "date_hint": "2026/10/20"
+    }
+  ],
+  "context_excluded": [
+    {
+      "source": "Diário do Transporte",
+      "title": "ABtec Mobilidade leva indústria de tecnologia ao fórum do Ministério das Cidades sobre transporte público",
+      "url": "https://diariodotransporte.com.br/2026/10/15/abtec-mobilidade-leva-industria-de-tecnologia-ao-forum-do-ministerio-das-cidades-sobre-transporte-publico/",
+      "date": "2026-10-15",
+      "status": "já registrado — fora da janela"
+    },
+    {
+      "source": "Diário do Transporte",
+      "title": "Prodata Mobility participa de missão comercial no Vietnã e avalia oportunidades em bilhetagem eletrônica",
+      "url": "https://diariodotransporte.com.br/2026/10/15/prodata-mobility-participa-de-missao-comercial-no-vietna-e-avalia-oportunidades-em-bilhetagem-eletronica/",
+      "date": "2026-10-15",
+      "status": "já registrado — fora da janela"
+    },
+    {
+      "source": "Technibus",
+      "title": "ABtec Mobilidade participa do Fórum Consultivo de Mobilidade Urbana do Ministério das Cidades",
+      "url": "https://technibus.com.br/2026/10/15/abtec-mobilidade-participa-do-forum-consultivo-de-mobilidade-urbana-do-ministerio-das-cidades",
+      "date": "2026-10-15",
+      "status": "já registrado — fora da janela"
+    }
+  ],
+  "notes": [
+    "Coleta incremental com fontes diretas; candidatos exigem validação de página individual antes de curadoria.",
+    "Não foram usados links do Google News como destino final."
+  ]
+}

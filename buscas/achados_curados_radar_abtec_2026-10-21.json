@@ -1,0 +1,81 @@
+{
+  "data_referencia": "2026-10-21",
+  "janela_incremental": {
+    "inicio": "2026-10-20",
+    "fim": "2026-10-21"
+  },
+  "status": "coleta interna concluída; nenhuma página pública foi alterada",
+  "fontes": {
+    "consultadas": 26,
+    "acessiveis": 25,
+    "bloqueadas": [
+      {
+        "fonte": "Semove Rio",
+        "url": "https://semove.org.br/",
+        "resultado": "HTTP 403"
+      }
+    ]
+  },
+  "achados_curados": [
+    {
+      "cluster": "Bilhetagem e pagamentos digitais",
+      "maturidade": "assunto monitorado",
+      "titulo": "Metrô de São Paulo amplia pagamento por Pix nas máquinas de autoatendimento",
+      "data": "2026-10-21",
+      "fonte": "Diário do Transporte",
+      "url": "https://diariodotransporte.com.br/2026/10/21/metro-de-sao-paulo-tera-pagamento-por-pix-em-todas-as-maquinas-de-bilhetes-da-linha-1-azul-a-partir-desta-quinta-feira-22/",
+      "resumo": "A implantação começou em 20 de outubro; a Linha 1-Azul terá Pix em todas as máquinas a partir de 22 de outubro, com expansão indicada para as linhas 2-Verde, 3-Vermelha e 15-Prata até 30 de outubro.",
+      "leitura_abtec": "Sinal de aceleração dos meios digitais no ponto de venda físico. Acompanhar impactos em conciliação, experiência de compra, interoperabilidade e redução gradual de suporte a mídias legadas.",
+      "citacao": 1
+    },
+    {
+      "cluster": "Eletrificação, infraestrutura e modelo de contratação",
+      "maturidade": "sinal emergente",
+      "titulo": "PPP no Rio estrutura eletrificação de 175 ônibus com remuneração por desempenho",
+      "data": "2026-10-21",
+      "fonte": "Technibus",
+      "url": "https://technibus.com.br/2026/10/21/no-rio-de-janeiro-ppp-busca-viabilizar-eletrificacao-de-onibus-com-divisao-de-riscos-entre-setores-publico-e-privado",
+      "resumo": "A parceria prevê 175 veículos elétricos, garagem, recarga e operação; a remuneração combina disponibilidade, quilometragem e indicadores de desempenho. A fonte aponta investimento total de R$ 509 milhões e contrato de 16 anos.",
+      "leitura_abtec": "Não é sinal de associada, mas é um caso útil para monitorar requisitos digitais, telemetria, medição de disponibilidade e integração da infraestrutura de recarga aos contratos de operação.",
+      "citacao": 3
+    },
+    {
+      "cluster": "Dados, auditoria e governança digital",
+      "maturidade": "assunto monitorado",
+      "titulo": "Infra S.A. contrata sistema de auditoria e gestão de dados",
+      "data": "2026-10-20",
+      "fonte": "Diário do Transporte",
+      "url": "https://diariodotransporte.com.br/2026/10/20/infra-s-a-valec-contrata-sistema-de-auditoria-e-gestao-de-dados-por-r-1079-milhoes-para-atividades-da-estatal-de-transportes/",
+      "resumo": "O contrato de três anos, de R$ 10,79 milhões, prevê licenciamento, atualizações e suporte de tecnologia para ambientes digitais da empresa federal.",
+      "leitura_abtec": "Evidência adjacente, não de transporte urbano: reforça a agenda de auditoria, qualidade de dados e governança como infraestrutura tecnológica do setor de transportes.",
+      "citacao": 2
+    },
+    {
+      "cluster": "Segurança e canais de assistência ao passageiro",
+      "maturidade": "assunto monitorado",
+      "titulo": "Salvador amplia acesso ao Botão Lilás nas estações do BRT",
+      "data": "2026-10-20",
+      "fonte": "Technibus",
+      "url": "https://technibus.com.br/2026/10/20/salvador-amplia-acesso-ao-botao-lilas-em-estacoes-do-brt-para-atendimento-a-mulheres-vitimas-de-violencia",
+      "resumo": "A medida amplia um canal para que usuárias solicitem ajuda em situação de perigo ou violência durante o deslocamento.",
+      "leitura_abtec": "Manter em observação como caso de comunicação de emergência e segurança do passageiro; a evidência atual não é suficiente para qualificá-lo como tendência tecnológica.",
+      "citacao": 4
+    }
+  ],
+  "associadas_abtec": {
+    "verificadas": ["ABtec Mobilidade", "Bus2", "Cittati", "Empresa 1", "ONBOARD", "Planeta Informática", "Prodata Mobility Brasil", "SONDA", "Transdata"],
+    "achados_novos_qualificados": 0,
+    "nota": "Nenhuma publicação nova, aberta e diretamente aderente às associadas foi validada na janela. CittaMobi não foi atribuído à Cittati."
+  },
+  "descartes_relevantes": [
+    "Itens de greve, acidentes, manutenção de frota, alterações de linha, obras sem camada tecnológica verificável e compras convencionais de veículos.",
+    "Matéria sobre veículos autônomos em ambientes industriais: tecnologia relevante, mas fora do recorte de transporte público urbano nesta rodada.",
+    "Homônimos de SONDA e ONBOARD sem vínculo independente com mobilidade foram excluídos."
+  ],
+  "clusters_a_acompanhar": [
+    "Pix, meios digitais e transição de mídias de bilhetagem.",
+    "Medição de desempenho, telemetria e dados em contratos de eletrificação.",
+    "Auditoria, governança e integração de dados de transporte.",
+    "Tecnologias e protocolos de segurança/assistência ao passageiro."
+  ]
+}
