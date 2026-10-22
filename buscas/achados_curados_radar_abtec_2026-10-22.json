@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2026-10-22-01",
+    "cluster": "Financiamento e renovação de frota",
+    "maturity": "assunto monitorado",
+    "title": "MobiBrasil e Araucária têm R$ 23,47 milhões em financiamentos selecionados para novos ônibus pelo Governo Federal",
+    "source": "Diário do Transporte",
+    "published_date": "2026-10-22",
+    "url": "https://diariodotransporte.com.br/2026/10/22/mobibrasil-e-araucaria-tem-r-2347-milhoes-em-financiamentos-selecionados-para-novos-onibus-pelo-governo-federal/",
+    "summary": "O Ministério das Cidades selecionou propostas que somam R$ 23,47 milhões para aquisição de ônibus destinados ao transporte coletivo urbano em Pernambuco e Paraná. A seleção ainda depende de análise bancária, garantias e contratação.",
+    "why_it_matters": "Sinal de pipeline de renovação de frota em Recife/RMR e Curitiba/Araucária. É aderente ao Radar como contexto de demanda futura; não há especificação de tecnologia embarcada, quantidade de veículos ou contratação concluída.",
+    "associates": [],
+    "link_status": "aberto_validado",
+    "citation": 1
+  },
+  {
+    "id": "2026-10-22-02",
+    "cluster": "Eletrificação e ambiente regulatório-industrial",
+    "maturity": "assunto monitorado",
+    "title": "Receita Federal enquadra ônibus elétricos Mascarello Horizon e sete versões de chassis Iveco em categoria tributária de veículos pesados",
+    "source": "Diário do Transporte",
+    "published_date": "2026-10-22",
+    "url": "https://diariodotransporte.com.br/2026/10/22/receita-federal-enquadra-onibus-eletricos-mascarello-horizon-e-sete-versoes-de-chassis-iveco-em-categoria-tributaria-de-veiculos-pesados/",
+    "summary": "A publicação informa o enquadramento tributário de três configurações do ônibus urbano elétrico Horizon, da Mascarello, e de sete versões Iveco na TIPI.",
+    "why_it_matters": "É um sinal industrial e regulatório ligado à oferta de ônibus elétricos. Não demonstra nova operação, compra pública ou implantação de soluções das associadas ABtec.",
+    "associates": [],
+    "link_status": "aberto_validado",
+    "citation": 2
+  }
+]

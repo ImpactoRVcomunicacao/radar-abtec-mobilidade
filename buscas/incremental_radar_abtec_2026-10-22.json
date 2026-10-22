@@ -1,0 +1,265 @@
+{
+  "run_date": "2026-10-22",
+  "window_start": "2026-10-22",
+  "window_end": "2026-10-22",
+  "scope": "ABtec Mobilidade, associadas oficiais e agenda brasileira de tecnologia para mobilidade",
+  "sources_checked": [
+    {
+      "source": "ABtec Mobilidade — releases",
+      "url": "https://abtecbr.org/comunicacao/releases",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "ABtec Mobilidade — notícias",
+      "url": "https://abtecbr.org/comunicacao/noticias",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Bus2 — blog",
+      "url": "https://bus2.blog/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Cittati — blog",
+      "url": "https://www.cittati.com.br/blog",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Empresa 1 — transporte",
+      "url": "https://www.empresa1.com.br/categoria/transporte/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "ONBOARD — publicações",
+      "url": "https://onboard.com.br/blog",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Planeta Informática — notícias",
+      "url": "https://www.planeta.inf.br/noticias/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Prodata Mobility Brasil",
+      "url": "https://www.prodatamobility.com.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "SONDA — notícias",
+      "url": "https://www.sonda.com/pt/quem-somos/noticias",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Transdata",
+      "url": "https://www.itstransdata.com/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "NTU",
+      "url": "https://www.ntu.org.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Semove Rio",
+      "url": "https://semove.org.br/",
+      "status": 403,
+      "accessible": false,
+      "result": "HTTP 403; fonte oficial registrada, conteúdo não acessível nesta verificação"
+    },
+    {
+      "source": "ABRATI",
+      "url": "https://www.abrati.org.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "FETPESP",
+      "url": "https://fetpesp.org.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "ANTP",
+      "url": "https://antp.org.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "ANPTrilhos",
+      "url": "https://anptrilhos.org.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Diário do Transporte",
+      "url": "https://diariodotransporte.com.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Technibus",
+      "url": "https://technibus.com.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Via Trolebus",
+      "url": "https://viatrolebus.com.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Mobilize",
+      "url": "https://www.mobilize.org.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Frota&Cia",
+      "url": "https://frotacia.com.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Connected Smart Cities",
+      "url": "https://plataformacsc.com.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "BNDES",
+      "url": "https://www.bndes.gov.br/wps/portal/site/home",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "Ministério das Cidades",
+      "url": "https://www.gov.br/cidades/pt-br/assuntos/mobilidade-urbana",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "WRI Brasil",
+      "url": "https://www.wribrasil.org.br/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    },
+    {
+      "source": "ITDP Brasil",
+      "url": "https://itdpbrasil.org/",
+      "status": 200,
+      "accessible": true,
+      "result": "acessível"
+    }
+  ],
+  "candidates_curated": [
+    {
+      "id": "2026-10-22-01",
+      "cluster": "Financiamento e renovação de frota",
+      "maturity": "assunto monitorado",
+      "title": "MobiBrasil e Araucária têm R$ 23,47 milhões em financiamentos selecionados para novos ônibus pelo Governo Federal",
+      "source": "Diário do Transporte",
+      "published_date": "2026-10-22",
+      "url": "https://diariodotransporte.com.br/2026/10/22/mobibrasil-e-araucaria-tem-r-2347-milhoes-em-financiamentos-selecionados-para-novos-onibus-pelo-governo-federal/",
+      "summary": "O Ministério das Cidades selecionou propostas que somam R$ 23,47 milhões para aquisição de ônibus destinados ao transporte coletivo urbano em Pernambuco e Paraná. A seleção ainda depende de análise bancária, garantias e contratação.",
+      "why_it_matters": "Sinal de pipeline de renovação de frota em Recife/RMR e Curitiba/Araucária. É aderente ao Radar como contexto de demanda futura; não há especificação de tecnologia embarcada, quantidade de veículos ou contratação concluída.",
+      "associates": [],
+      "link_status": "aberto_validado",
+      "citation": 1
+    },
+    {
+      "id": "2026-10-22-02",
+      "cluster": "Eletrificação e ambiente regulatório-industrial",
+      "maturity": "assunto monitorado",
+      "title": "Receita Federal enquadra ônibus elétricos Mascarello Horizon e sete versões de chassis Iveco em categoria tributária de veículos pesados",
+      "source": "Diário do Transporte",
+      "published_date": "2026-10-22",
+      "url": "https://diariodotransporte.com.br/2026/10/22/receita-federal-enquadra-onibus-eletricos-mascarello-horizon-e-sete-versoes-de-chassis-iveco-em-categoria-tributaria-de-veiculos-pesados/",
+      "summary": "A publicação informa o enquadramento tributário de três configurações do ônibus urbano elétrico Horizon, da Mascarello, e de sete versões Iveco na TIPI.",
+      "why_it_matters": "É um sinal industrial e regulatório ligado à oferta de ônibus elétricos. Não demonstra nova operação, compra pública ou implantação de soluções das associadas ABtec.",
+      "associates": [],
+      "link_status": "aberto_validado",
+      "citation": 2
+    }
+  ],
+  "discarded": [
+    {
+      "title": "Guerino Seiscento nega demissão em massa de 180 funcionários em meio a disputas judiciais e suspensões de linhas de ônibus",
+      "source": "Diário do Transporte",
+      "url": "https://diariodotransporte.com.br/2026/10/22/guerino-seiscento-nega-demissao-em-massa-de-180-funcionarios-em-meio-a-disputas-judiciais-e-suspensoes-de-linhas-de-onibus/",
+      "reason": "disputa trabalhista e operação convencional, sem camada tecnológica ou aderência direta ao escopo"
+    },
+    {
+      "title": "Ônibus pega fogo na Rodovia Washington Luís e interdita faixas em Rio Claro (SP)",
+      "source": "Diário do Transporte",
+      "url": "https://diariodotransporte.com.br/2026/10/22/onibus-pega-fogo-na-rodovia-washington-luis-e-interdita-faixas-em-rio-claro-sp/",
+      "reason": "ocorrência isolada, sem evidência de tema sistêmico de segurança tecnológica"
+    },
+    {
+      "title": "ANTT autoriza Liderança Turismo a operar 160 seções entre Goiás, Minas, São Paulo e Paraná e amplia mercados da Progresso entre Rio e Minas",
+      "source": "Diário do Transporte",
+      "url": "https://diariodotransporte.com.br/2026/10/22/antt-autoriza-lideranca-turismo-a-operar-160-secoes-entre-goias-minas-sao-paulo-e-parana-e-amplia-mercados-da-progresso-entre-rio-e-minas/",
+      "reason": "autorização de mercado rodoviário sem componente digital/ITS verificável"
+    },
+    {
+      "title": "Metrô em Guarulhos: obras civis começam em breve / Linha 2 até a Penha: salas técnicas ganham forma",
+      "source": "Via Trolebus",
+      "url": "https://viatrolebus.com.br/2026/10/22/",
+      "reason": "infraestrutura metroviária em fase civil; sem novidade tecnológica aderente nesta leitura"
+    }
+  ],
+  "associate_check": {
+    "associates_checked": [
+      "Bus2",
+      "Cittati",
+      "Empresa 1",
+      "ONBOARD",
+      "Planeta Informática",
+      "Prodata Mobility Brasil",
+      "SONDA",
+      "Transdata"
+    ],
+    "qualified_new_findings": [],
+    "note": "Não foi localizado achado novo, aberto e diretamente aderente às associadas na janela. CittaMobi não foi atribuído à Cittati por ausência de vínculo formal validado."
+  },
+  "editorial_notes": [
+    "Google News foi usado somente como camada auxiliar de descoberta; nenhum link do agregador foi arquivado como destino final.",
+    "Nenhuma página pública ou edição semanal foi alterada.",
+    "Os dois achados são assuntos monitorados, não tendências validadas: não há recorrência e diversidade de atores/fontes suficientes."
+  ]
+}
