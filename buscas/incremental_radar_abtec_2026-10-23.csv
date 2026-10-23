@@ -1,0 +1,33 @@
+tipo,fonte,titulo,url,status
+fonte_verificada,ABtec Mobilidade — releases,,https://abtecbr.org/comunicacao/releases,acessível
+fonte_verificada,ABtec Mobilidade — notícias,,https://abtecbr.org/comunicacao/noticias,acessível
+fonte_verificada,Bus2 — blog,,https://bus2.blog/,acessível
+fonte_verificada,Cittati — blog,,https://www.cittati.com.br/blog,acessível
+fonte_verificada,Empresa 1 — transporte,,https://www.empresa1.com.br/categoria/transporte/,acessível
+fonte_verificada,ONBOARD — publicações,,https://onboard.com.br/blog,acessível
+fonte_verificada,Planeta Informática — notícias,,https://www.planeta.inf.br/noticias/,acessível
+fonte_verificada,Prodata Mobility Brasil,,https://www.prodatamobility.com.br/,acessível
+fonte_verificada,SONDA — notícias,,https://www.sonda.com/pt/quem-somos/noticias,acessível
+fonte_verificada,Transdata,,https://www.itstransdata.com/,acessível
+fonte_verificada,NTU,,https://www.ntu.org.br/,acessível
+fonte_verificada,Semove Rio,,https://semove.org.br/,HTTP 403
+fonte_verificada,ABRATI,,https://www.abrati.org.br/,acessível
+fonte_verificada,FETPESP,,https://fetpesp.org.br/,acessível
+fonte_verificada,ANTP,,https://antp.org.br/,acessível
+fonte_verificada,ANPTrilhos,,https://anptrilhos.org.br/,acessível
+fonte_verificada,Diário do Transporte,,https://diariodotransporte.com.br/,acessível
+fonte_verificada,Technibus,,https://technibus.com.br/,acessível
+fonte_verificada,Via Trolebus,,https://viatrolebus.com.br/,acessível
+fonte_verificada,Mobilize,,https://www.mobilize.org.br/,acessível
+fonte_verificada,Frota&Cia,,https://frotacia.com.br/,acessível
+fonte_verificada,Connected Smart Cities,,https://plataformacsc.com.br/,acessível
+fonte_verificada,BNDES,,https://www.bndes.gov.br/wps/portal/site/home,acessível
+fonte_verificada,Ministério das Cidades,,https://www.gov.br/cidades/pt-br/assuntos/mobilidade-urbana,acessível
+fonte_verificada,WRI Brasil,,https://www.wribrasil.org.br/,acessível
+fonte_verificada,ITDP Brasil,,https://itdpbrasil.org/,acessível
+achado_curado,Diário do Transporte,Bilhetagem digital passa a integrar o Monitriip na plataforma da ONBOARD,https://diariodotransporte.com.br/2026/10/22/bilhetagem-digital-passa-a-integrar-o-monitriip-na-plataforma-da-onboard/,assunto monitorado
+descarte,Diário do Transporte,Linhas Paulistar terão guias de turismo em circuitos gratuitos de ônibus elétricos em São Paulo,https://diariodotransporte.com.br/2026/10/23/linhas-paulistar-terao-guias-de-turismo-nos-ultimos-domingos-de-outubro-novembro-e-dezembro-confira-horarios-trajetos-e-atracoes-dos-cinco-circuitos-gratuitos-de-onibus-eletricos-em-sao-paulo/,"ação turística e operacional; não traz componente de tecnologia embarcada, dados ou inovação setorial verificável."
+descarte,Diário do Transporte,Linha 11-Coral tem problemas e trens operam com restrições,https://diariodotransporte.com.br/2026/10/23/linha-11-coral-tem-problemas-e-trens-operam-com-restricoes-nesta-sexta-feira-23/,ocorrência operacional pontual sem evidência de falha sistêmica ou camada tecnológica a analisar nesta leitura.
+descarte,Diário do Transporte,Artesp renova registro da Next Mobilidade por mais um ano,https://diariodotransporte.com.br/2026/10/23/artesp-renova-registro-da-next-mobilidade-por-mais-um-ano-em-meio-a-processo-que-pode-encerrar-concessao-do-brt-abc-e-dos-onibus-metropolitanos/,"ato administrativo de concessão sem especificação de ITS, bilhetagem, dados ou tecnologia associada."
+descarte,Technibus,"“O momento é de incerteza”, avalia Walter Barbosa da Mercedes-Benz",https://technibus.com.br/2026/10/23/o-momento-e-de-incerteza-avalia-walter-barbosa-da-mercedes-benz,"leitura de mercado industrial sem anúncio verificável ligado a soluções ABtec, ITS, pagamentos ou digitalização operacional."
+descarte,SONDA,SONDA: notícias corporativas recentes,https://www.sonda.com/pt/quem-somos/noticias,o material novo identificado é de workplace services; sem vínculo independente com mobilidade.

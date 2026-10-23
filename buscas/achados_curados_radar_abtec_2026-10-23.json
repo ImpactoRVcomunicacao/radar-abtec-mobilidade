@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2026-10-23-01",
+    "cluster": "Bilhetagem digital e dados regulatórios",
+    "maturity": "assunto monitorado",
+    "title": "Bilhetagem digital passa a integrar o Monitriip na plataforma da ONBOARD",
+    "source": "Diário do Transporte",
+    "published_date": "2026-10-22",
+    "url": "https://diariodotransporte.com.br/2026/10/22/bilhetagem-digital-passa-a-integrar-o-monitriip-na-plataforma-da-onboard/",
+    "summary": "A ONBOARD anunciou a integração de sua plataforma de bilhetagem digital ao Monitriip, sistema da ANTT voltado ao monitoramento do transporte rodoviário interestadual e internacional de passageiros.",
+    "why_it_matters": "É o achado incremental mais aderente à agenda ABtec: aproxima bilhetagem digital e dados operacionais de uma infraestrutura regulatória federal. Ainda é um sinal de integração; a fonte consultada não detalha escopo contratual, cronograma, operadores atendidos ou indicadores de adoção.",
+    "associates": [
+      "ONBOARD"
+    ],
+    "link_status": "aberto_validado",
+    "citation": 1
+  }
+]
