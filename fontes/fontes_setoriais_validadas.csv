@@ -1,17 +1,17 @@
-nome;classe;url_oficial;status_2026-10-22;status_2026-10-23;observacao
-NTU;entidade;https://www.ntu.org.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-Semove Rio;entidade;https://semove.org.br/;bloqueio_403;bloqueio_403;URL oficial mantida | verificação direta em 23/10/2026: bloqueio_403
-ABRATI;entidade;https://abrati.org.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-FETPESP;entidade;https://fetpesp.org.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-ANTP;entidade;https://antp.org.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-ANPTrilhos;entidade;https://anptrilhos.org.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-Diário do Transporte;imprensa_setorial;https://diariodotransporte.com.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-Technibus;imprensa_setorial;https://technibus.com.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-Via Trolebus;imprensa_setorial;https://viatrolebus.com.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-Mobilize;imprensa_setorial;https://www.mobilize.org.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-Frota&Cia;imprensa_setorial;https://frotacia.com.br/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-Connected Smart Cities;setorial;https://plataformacsc.com.br/;acessível;acessível;redirecionamento oficial confirmado em 22/10/2026 | verificação direta em 23/10/2026: acessível
-BNDES;institucional;https://www.bndes.gov.br/wps/portal/site/home;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-Ministério das Cidades;institucional;https://www.gov.br/cidades/pt-br/assuntos/mobilidade-urbana;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
-WRI Brasil;institucional;https://www.wribrasil.org.br/;acessível;acessível;redirecionamento oficial confirmado em 22/10/2026 | verificação direta em 23/10/2026: acessível
-ITDP Brasil;institucional;https://itdpbrasil.org/;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível
+nome;classe;url_oficial;status_2026-10-22;status_2026-10-23;status_2026-10-24;observacao
+NTU;entidade;https://www.ntu.org.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+Semove Rio;entidade;https://semove.org.br/;bloqueio_403;bloqueio_403;bloqueio_403;URL oficial mantida | verificação direta em 23/10/2026: bloqueio_403 | verificação direta em 24/10/2026: bloqueio_403
+ABRATI;entidade;https://abrati.org.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+FETPESP;entidade;https://fetpesp.org.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+ANTP;entidade;https://antp.org.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+ANPTrilhos;entidade;https://anptrilhos.org.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+Diário do Transporte;imprensa_setorial;https://diariodotransporte.com.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+Technibus;imprensa_setorial;https://technibus.com.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+Via Trolebus;imprensa_setorial;https://viatrolebus.com.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+Mobilize;imprensa_setorial;https://www.mobilize.org.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+Frota&Cia;imprensa_setorial;https://frotacia.com.br/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+Connected Smart Cities;setorial;https://plataformacsc.com.br/;acessível;acessível;acessível;redirecionamento oficial confirmado em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+BNDES;institucional;https://www.bndes.gov.br/wps/portal/site/home;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+Ministério das Cidades;institucional;https://www.gov.br/cidades/pt-br/assuntos/mobilidade-urbana;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+WRI Brasil;institucional;https://www.wribrasil.org.br/;acessível;acessível;acessível;redirecionamento oficial confirmado em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível
+ITDP Brasil;institucional;https://itdpbrasil.org/;acessível;acessível;acessível;fonte direta verificada em 22/10/2026 | verificação direta em 23/10/2026: acessível | verificação direta em 24/10/2026: acessível

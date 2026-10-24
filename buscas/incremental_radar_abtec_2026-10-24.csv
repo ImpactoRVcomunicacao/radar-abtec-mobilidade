@@ -1,0 +1,32 @@
+tipo,fonte,titulo,url,status
+fonte_verificada,ABtec Mobilidade — releases,,https://abtecbr.org/comunicacao/releases,acessível
+fonte_verificada,ABtec Mobilidade — notícias,,https://abtecbr.org/comunicacao/noticias,acessível
+fonte_verificada,Bus2 — blog,,https://bus2.blog/,acessível
+fonte_verificada,Cittati — blog,,https://www.cittati.com.br/blog,acessível
+fonte_verificada,Empresa 1 — transporte,,https://www.empresa1.com.br/categoria/transporte/,acessível
+fonte_verificada,ONBOARD — publicações,,https://onboard.com.br/blog,acessível
+fonte_verificada,Planeta Informática — notícias,,https://www.planeta.inf.br/noticias/,acessível
+fonte_verificada,Prodata Mobility Brasil,,https://www.prodatamobility.com.br/,acessível
+fonte_verificada,SONDA — notícias,,https://www.sonda.com/pt/quem-somos/noticias,acessível
+fonte_verificada,Transdata,,https://www.itstransdata.com/,acessível
+fonte_verificada,NTU,,https://www.ntu.org.br/,acessível
+fonte_verificada,Semove Rio,,https://semove.org.br/,HTTP 403
+fonte_verificada,ABRATI,,https://www.abrati.org.br/,acessível
+fonte_verificada,FETPESP,,https://fetpesp.org.br/,acessível
+fonte_verificada,ANTP,,https://antp.org.br/,acessível
+fonte_verificada,ANPTrilhos,,https://anptrilhos.org.br/,acessível
+fonte_verificada,Diário do Transporte,,https://diariodotransporte.com.br/,acessível
+fonte_verificada,Technibus,,https://technibus.com.br/,acessível
+fonte_verificada,Via Trolebus,,https://viatrolebus.com.br/,acessível
+fonte_verificada,Mobilize,,https://www.mobilize.org.br/,acessível
+fonte_verificada,Frota&Cia,,https://frotacia.com.br/,acessível
+fonte_verificada,Connected Smart Cities,,https://plataformacsc.com.br/,acessível
+fonte_verificada,BNDES,,https://www.bndes.gov.br/wps/portal/site/home,acessível
+fonte_verificada,Ministério das Cidades,,https://www.gov.br/cidades/pt-br/assuntos/mobilidade-urbana,acessível
+fonte_verificada,WRI Brasil,,https://www.wribrasil.org.br/,acessível
+fonte_verificada,ITDP Brasil,,https://itdpbrasil.org/,acessível
+achado_curado,Technibus,Goiânia lança BRS com nove ônibus piso baixo e prioridade por fiscalização eletrônica e semáforos em tempo real,https://technibus.com.br/2026/10/23/goiania-recebe-9-onibus-piso-baixo-para-a-operacao-do-primeiro-bus-rapid-service-brs,assunto monitorado
+descarte,Diário do Transporte,Primeiro ônibus elétrico BYD/Caio “micrão” piso baixo no padrão SPTrans,https://diariodotransporte.com.br/2026/10/23/primeiro-onibus-eletrico-byd-caio-micrao-piso-baixo-fica-pronto-no-padrao-sptrans-e-passara-por-demonstracao-junto-a-operadores-e-a-prefeitura/,"lançamento de produto de eletromobilidade sem vínculo novo com associadas ABtec, ITS, pagamentos ou dados operacionais no material consultado."
+descarte,Diário do Transporte,ANTT prorroga lances da Janela Extraordinária de mercados interestaduais,https://diariodotransporte.com.br/2026/10/24/em-primeira-mao-antt-prorroga-lances-da-janela-extraordinaria-ate-13-de-novembro-apos-decisoes-judiciais-envolvendo-catedral-progresso-e-amarelinho-veja-o-historico/,"movimento regulatório e judicial relevante ao rodoviário, mas sem componente tecnológico aderente ao recorte nesta leitura."
+descarte,Diário do Transporte,Gontijo recebe autorização prévia para linha Belo Horizonte–Unaí,https://diariodotransporte.com.br/2026/10/24/em-primeira-mao-gontijo-recebe-autorizacao-previa-para-assumir-linha-de-onibus-belo-horizonte-unai-da-sertaneja-em-minas-gerais-pela-seinfra/,"ato de autorização de linha sem inovação tecnológica, dados ou solução operacional nova verificável."
+descarte,SONDA,Notícias corporativas recentes da SONDA,https://www.sonda.com/pt/quem-somos/noticias,não foi identificado conteúdo novo com vínculo independente a mobilidade; homônimos e comunicação de workplace services seguem excluídos.
